@@ -1,0 +1,101 @@
+<b style="color: #ae2525; font-size: 14px">30 May 2012 - Version 2.2.5</b>
+<ul>
+<li>
+	<strong>New features:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Responsive design added!</li>
+	</ul>
+</li>
+</ul>
+<b>-------</b><br /><br />
+<b style="color: #ae2525; font-size: 14px">22 May 2012 - Version 2.2.4</b>
+<ul>
+<li>
+	<strong>Improvements:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Added HTML5 doctype</li>
+		<li>- Better JavaScript performance in admin panel</li>
+		<li>- "No background pattern" options added to background selector in MD Design Options panel</li>
+	</ul>
+
+	<strong>File changes:</strong>
+	<ul style="margin-left: 20px">
+		<li>- init.php deleted</li>
+		<li>- Marketers Delight default CSS removed from custom.css file, added to marketers-delight.css
+	</ul>
+</li>
+</ul>
+<b>-------</b><br /><br />
+<b style="color: #ae2525; font-size: 14px">12 May 2012 - Version 2.2.3</b>
+<ul>
+<li>
+	<strong>Bug fixes:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Fixed disappearing fat footer when Page Lead enabled on page</li>
+	</ul>
+</li>
+</ul>
+<b>-------</b><br /><br />
+<b style="color: #ae2525; font-size: 14px">4 April 2012 - Version 2.2</b>
+<ul>
+<li>
+	<strong>New features:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Remove share buttons by post or page (new meta box)</li>
+		<li>- Add custom share buttons</li>
+		<li>- Design options</li>
+		<li>&nbsp;&nbsp;&nbsp;- Change background pattern</li>
+		<li>&nbsp;&nbsp;&nbsp;- Main menu design options (small fonts, color)</li>
+		<li>- New widget: Affiliate links</li>
+	</ul>
+</li>
+<li>
+	<strong>Improvements:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Marketers Delight functions + css completely rewritten and optimized</li>
+		<li>- Page Leads system more robust, easy to use and better integrated</li>
+		<li>- All MD files localized to custom folder</li>
+		<li>- Can now use feature box on any page you want</li>
+		<li>- Non-English language friendlier</li>
+	</ul>
+</li>
+<li>
+	<br />For full list of improvements, see the <a href="http://kolakube.com/new-marketers-delight-22/">2.2 upgrade post on Kolakube</a>.
+</li>
+</ul>
+<b>-------</b><br /><br />
+
+<b style="color: #ae2525; font-size: 14px">10 February 2012 - Version 2.1</b>
+<ul>
+<li>
+	<strong>Bug fixes:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Admin options "reverse labeling" fixed (epic fail on Alex's part)</li>
+		<li>- Pagination count fixed</li>
+		<li>- Center text on landing page if no logo image uploaded</li>
+		<li>- Fixed broken skin attribution link</li>
+	</ul>
+</li>
+<li>
+	<strong>New features:</strong>
+	<ul style="margin-left: 20px">
+		<li>- 3 column widgetized footer</li>
+		<li>- Ability to configure optin widget to show on ONLY single post</li>
+		<li>- Converted from 'child theme' to 'skin'</li>
+	</ul>
+</li>
+<li>
+	<strong>UI Changes:</strong>
+	<ul style="margin-left: 20px">
+		<li>- Share button controls split into 2 sections: posts, and pages toggle</li>
+		<li>- Feature box content + optin box merged (options panel)</li>
+	</ul>
+</li>
+</ul>
+
+<b>-------</b><br /><br />
+
+<b style="color: #ae2525; font-size: 14px">1 February 2012 - Version 2</b><br />
+<ul>
+<li>- Version 2 released :D</li>
+</ul>

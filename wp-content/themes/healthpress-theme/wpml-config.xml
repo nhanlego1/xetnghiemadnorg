@@ -1,0 +1,60 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">doctor</custom-type>
+        <custom-type translate="1">faq</custom-type>
+        <custom-type translate="1">gallery-item</custom-type>
+        <custom-type translate="1">service</custom-type>
+        <custom-type translate="1">slide</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">gallery-item-type</taxonomy>
+        <taxonomy translate="1">department</taxonomy>
+        <taxonomy translate="1">faq-group</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">doctor_name</custom-field>
+        <custom-field action="translate">doctor_education</custom-field>
+        <custom-field action="translate">doctor_intro_text</custom-field>
+        <custom-field action="copy">twitter_link</custom-field>
+        <custom-field action="copy">facebook_link</custom-field>
+        <custom-field action="translate">slide_sub_title</custom-field>
+        <custom-field action="translate">page_title</custom-field>
+        <custom-field action="translate">page_sub_title</custom-field>
+        <custom-field action="translate">the_testimonial</custom-field>
+        <custom-field action="translate">testimonial_author</custom-field>
+        <custom-field action="translate">testimonial_department</custom-field>
+        <custom-field action="copy">testimonial_author_link</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="theme_slogan_text" />
+        <key name="theme_slogan_sub_text" />
+        <key name="theme_first_heading" />
+        <key name="theme_first_text" />
+        <key name="theme_second_heading" />
+        <key name="theme_second_text" />
+        <key name="theme_third_heading" />
+        <key name="theme_third_text" />
+        <key name="theme_fourth_heading" />
+        <key name="theme_fourth_text" />
+        <key name="theme_fifth_heading" />
+        <key name="theme_fifth_text" />
+        <key name="theme_doctors_heading" />
+        <key name="theme_doctors_sub_text" />
+        <key name="theme_more_doctors_title" />
+        <key name="theme_testimonials_heading" />
+        <key name="theme_testimonials_sub_text" />
+        <key name="theme_blog_title" />
+        <key name="theme_blog_text" />
+        <key name="theme_service_title" />
+        <key name="theme_service_text" />
+        <key name="theme_gallery_title" />
+        <key name="theme_gallery_text" />
+        <key name="theme_postal_address" />
+        <key name="theme_contact_form_heading" />
+        <key name="theme_contact_form_text" />
+        <key name="theme_about_text" />
+        <key name="theme_copyright_text" />
+        <key name="theme_footer_author_text" />
+    </admin-texts>
+</wpml-config>

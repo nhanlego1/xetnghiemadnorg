@@ -1,0 +1,5 @@
+[25-May-2014 14:00:37 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/tuyenbe/public_html/xetnghiemadn.org/wp-content/themes/twentytwelve/tag.php on line 14
+[31-May-2014 05:23:40 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home6/tuyenbe/public_html/xetnghiemadn.org/wp-content/themes/twentytwelve/404.php on line 10
+[22-Jul-2015 10:03:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xetnghie/public_html/wp-content/themes/twentytwelve/404.php on line 10
+[14-Sep-2015 17:43:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xetnghie/public_html/wp-content/themes/twentytwelve/404.php on line 10
+[05-Oct-2015 04:08:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xetnghie/public_html/wp-content/themes/twentytwelve/404.php on line 10

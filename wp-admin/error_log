@@ -1,0 +1,1829 @@
+[21-Jul-2013 12:08:14 UTC] WordPress database error Table 'xetnghie_xetnghiemadn.wp_thesis_terms' doesn't exist for query SELECT * FROM wp_thesis_terms ORDER BY option_id ASC made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/thesis_185/functions.php'), require_once('/themes/thesis_185/lib/functions/launch.php'), thesis_term_options->get_terms
+[21-Jul-2013 12:20:32 UTC] WordPress database error Table 'xetnghie_xetnghiemadn.wp_gdsr_multis_data' doesn't exist for query SHOW COLUMNS FROM wp_gdsr_multis_data made by activate_plugin, include_once('/plugins/gd-star-rating/gd-star-rating.php'), GDStarRating->GDStarRating, GDStarRating->install_plugin, gdDBInstallGDSR->delete_columns
+[10-Sep-2013 07:55:14 UTC] WordPress database error Table 'xetnghie_xetnghiemadn.wp_wpgmza' doesn't exist for query DESC wp_wpgmza made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db
+[07-Jan-2014 14:28:29 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE wp_wpgmza ADD PRIMARY KEY (`id`) made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db, dbDelta
+[07-Jan-2014 14:28:32 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE wp_wpgmza_polygon ADD PRIMARY KEY (`id`) made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db, dbDelta
+[07-Jan-2014 14:28:32 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE wp_wpgmza_polylines ADD PRIMARY KEY (`id`) made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db, dbDelta
+[07-Jan-2014 14:28:33 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE wp_wpgmza_categories ADD PRIMARY KEY (`id`) made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db, dbDelta
+[07-Jan-2014 14:28:37 UTC] WordPress database error Multiple primary key defined for query ALTER TABLE wp_wpgmza_maps ADD PRIMARY KEY (`id`) made by activate_plugin, do_action('activate_wp-google-maps/wpGoogleMaps.php'), call_user_func_array, wpgmaps_activate, wpgmaps_handle_db, dbDelta
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_fbml' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_opengraph' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_fbns' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_html5' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_posts' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_pages' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_homepage' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_appID' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_mods' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_num' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_count' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_countmsg' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_title' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_titleclass' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_width' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_countstyle' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_linklove' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_scheme' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'fbcomments_language' LIMIT 1 made by do_action('admin_init'), call_user_func_array, fbcomments_init, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_usermeta' doesn't exist for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'drrt7_user-settings' AND user_id = 1 made by require_once('wp-admin/admin-header.php'), wp_user_settings, update_user_option, update_user_meta, update_metadata
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_usermeta' doesn't exist for query INSERT INTO `wp_usermeta` (`user_id`,`meta_key`,`meta_value`) VALUES (1,'drrt7_user-settings','editor=tinymce&libraryContent=browse&urlbutton=none&align=center&imgsize=full&hidetb=1') made by require_once('wp-admin/admin-header.php'), wp_user_settings, update_user_option, update_user_meta, update_metadata, add_metadata
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_usermeta' doesn't exist for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'drrt7_user-settings-time' AND user_id = 1 made by require_once('wp-admin/admin-header.php'), wp_user_settings, update_user_option, update_user_meta, update_metadata
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_usermeta' doesn't exist for query INSERT INTO `wp_usermeta` (`user_id`,`meta_key`,`meta_value`) VALUES (1,'drrt7_user-settings-time','1390356836') made by require_once('wp-admin/admin-header.php'), wp_user_settings, update_user_option, update_user_meta, update_metadata, add_metadata
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'auto_core_update_failed' LIMIT 1 made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), call_user_func_array, maintenance_nag, get_site_option, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'better-wp-security_licensekey' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->support, apply_filters('foolic_get_validation_data-better-wp-security'), call_user_func_array, foolic_validation_v1_1->get_validation_data, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'better-wp-security_valid' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->support, apply_filters('foolic_get_validation_data-better-wp-security'), call_user_func_array, foolic_validation_v1_1->get_validation_data, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = 'better-wp-security_valid_expires' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->support, apply_filters('foolic_get_validation_data-better-wp-security'), call_user_func_array, foolic_validation_v1_1->get_validation_data, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_feed_761bc2b7ca033de73fa7b3a5a0ffb39a' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, SimplePie->fetch_data, WP_Feed_Cache_Transient->load, get_transient, get_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT autoload FROM wp_options WHERE option_name = '_transient_feed_761bc2b7ca033de73fa7b3a5a0ffb39a' made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, SimplePie->fetch_data, WP_Feed_Cache_Transient->load, get_transient, delete_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT autoload FROM wp_options WHERE option_name = '_transient_timeout_feed_761bc2b7ca033de73fa7b3a5a0ffb39a' made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, SimplePie->fetch_data, WP_Feed_Cache_Transient->load, get_transient, delete_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT autoload FROM wp_options WHERE option_name = '_transient_feed_761bc2b7ca033de73fa7b3a5a0ffb39a' made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, SimplePie->fetch_data, WP_Feed_Cache_Transient->unlink, delete_transient, delete_option
+[22-Jan-2014 02:14:01] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT autoload FROM wp_options WHERE option_name = '_transient_feed_mod_761bc2b7ca033de73fa7b3a5a0ffb39a' made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, SimplePie->fetch_data, WP_Feed_Cache_Transient->unlink, delete_transient, delete_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = '_transient_feed_761bc2b7ca033de73fa7b3a5a0ffb39a' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, get_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_feed_761bc2b7ca033de73fa7b3a5a0ffb39a', '1390400050', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, add_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_feed_761bc2b7ca033de73fa7b3a5a0ffb39a', 'a:4:{s:5:\"child\";a:1:{s:0:\"\";a:1:{s:3:\"rss\";a:1:{i:0;a:6:{s:4:\"data\";s:3:\"\n\n\n\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:7:\"version\";s:3:\"2.0\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:1:{s:0:\"\";a:1:{s:7:\"channel\";a:1:{i:0;a:6:{s:4:\"data\";s:50:\"\n	\n	\n	\n	\n	\n	\n	\n	\n	\n		\n		\n		\n		\n		\n		\n		\n		\n		\n		\n	\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:3:{s:0:\"\";a:6:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:25:\"iThemes » WordPress News\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:18:\"http://ithemes.com\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:62:\"Your one-stop shop for WordPress themes, plugins and training.\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:13:\"lastBuildDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Tue, 21 Jan 2014 23:10:04 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"language\";a:1:{i:0;a:5:{s:4:\"data\";s:5:\"en-US\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"item\";a:10:{i:0;a:6:{s:4:\"data\";s:42:\"\n		\n		\n		\n		\n		\n				\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:68:\"The New Rules of Entrepreneurship: Prosper, With Purpose, For People\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:83:\"http://ithemes.com/2014/01/21/new-rules-of-entrepreneurship-prosper-purpose-people/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:92:\"http://ithemes.com/2014/01/21/new-rules-of-entrepreneurship-prosper-purpose-people/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Tue, 21 Jan 2014 16:26:25 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:1:{i:0;a:5:{s:4:\"data\";s:7:\"Prosper\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21331\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:567:\"<p>In August, I published the rough outline of what I&#8217;m calling The New Rules of Entrepreneurship, that is now available in ebook form today. I was and am fed up with the current playbook for entrepreneurs. Somehow we’ve gotten into this rut of a jacked up mindset that the key to success is to bulldoze [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/21/new-rules-of-entrepreneurship-prosper-purpose-people/\">The New Rules of Entrepreneurship: Prosper, With Purpose, For People</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:11:\"Cory Miller\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:3603:\"<p>In August, I published the <a href=\"http://corymiller.com/its-time-for-a-new-set-of-rules-for-entrepreneurs/\">rough outline</a> of what I&#8217;m calling <a title=\"the new rules of entrepreneurship\" href=\"http://ithemes.com/publishing/new-rules-entrepreneurship/\">The New Rules of Entrepreneurship</a>, that is now available in ebook form today.</p>\n<p>I was and am fed up with the current playbook for entrepreneurs.</p>\n<p>Somehow we’ve gotten into this rut of a jacked up mindset that the key to success is to bulldoze people to get what we really want. We put profits over people. We make decisions that help us get where we want, at the increasing expense of those who got us here.</p>\n<p>This is business as usual for us, entrepreneurs, and I’m tired of it. It’s such a waste of what I believe is a noble occupation and a higher calling.</p>\n<p>We use the “It’s not personal, just business.” quote way too often as justification for it all. (<a href=\"http://corymiller.com/business-is-always-intensely-personal/\">Business is always personal</a>, by the way.)</p>\n<p>It’s a self-centered, self-focused, self-obsessed, supremely disastrous way of doing business.</p>\n<p>And it’s time all of that stopped.</p>\n<p>We need to burn the current playbook. We need a reorientation to what entrepreneurship should be about. (Hint: It’s about people and purpose plus profit &#8230; making meaning while making money).</p>\n<p>We need to return to (or maybe start) the value-based entrepreneurship &#8230; one that puts people first, that’s about character, empathy, service and integrity and most of all, focusing on making the world a better place.</p>\n<p>So today, as part of our <a title=\"go far together\" href=\"http://ithemes.com/go-far-together/\">Go Far Together &#8220;Prosper&#8221; initiative</a>, I&#8217;m excited to roll out <a title=\"new rules of entrepreneurship\" href=\"http://ithemes.com/publishing/new-rules-entrepreneurship/\">The New Rules of Entrepreneurship</a> in PDF ebook form.</p>\n<p>My purpose, mission and aim is to change the way we think and act as entrepreneurs. That we have a set of principles, finally, to guide us, to be measured by and to help correct us when we’ve went AWOL from them.</p>\n<p>And I think it starts with these principles:</p>\n<ul>\n<li>Do right</li>\n<li>Do good</li>\n<li>Care</li>\n<li>Be genuine and authentic</li>\n<li>Be open and honest</li>\n<li>Serve others</li>\n</ul>\n<p>In full disclosure: I’ve broken all of these principles at some point in my career. I’m not perfect and not suggesting I am. Far, far, far from it. But I’ve sought to live out my life as an entrepreneur and leader by these simple values each and every day and they’ve served me well.</p>\n<p>But I hope this helps you remember these key principles that guide me as you start your online businesses and PROSPER in the right way!</p>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/downloads/The-New-Rules-of-Entrepreneurship-Ebook.pdf\" rel=\"attachment wp-att-21329\"><img class=\"aligncenter size-medium wp-image-21329\" alt=\"newrules2\" src=\"http://ithemes.com/wp-content/uploads/2014/01/newrules2-417x540.png\" width=\"417\" height=\"540\" /></a></p>\n<p><a class=\"btn blue\" href=\"http://ithemes.com/downloads/The-New-Rules-of-Entrepreneurship-Ebook.pdf\">Download The New Rules of Entrepreneurship Here</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/21/new-rules-of-entrepreneurship-prosper-purpose-people/\">The New Rules of Entrepreneurship: Prosper, With Purpose, For People</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:88:\"http://ithemes.com/2014/01/21/new-rules-of-entrepreneurship-prosper-purpose-people/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:1;a:6:{s:4:\"data\";s:42:\"\n		\n		\n		\n		\n		\n				\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:47:\"Save 30% Off Site-wide Through January 31, 2014\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:64:\"http://ithemes.com/2014/01/17/save-30-site-wide-january-31-2014/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:73:\"http://ithemes.com/2014/01/17/save-30-site-wide-january-31-2014/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Fri, 17 Jan 2014 15:04:19 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:1:{i:0;a:5:{s:4:\"data\";s:5:\"Sales\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21272\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:482:\"<p>Save 30% off everything at iThemes — that&#8217;s any theme, plugin, training or combo pack purchase — with coupon code ITHEMES2014 through 11:59 p.m. CST January 31, 2014. To add this coupon to your cart, log in or creating a new account during checkout. Save 30% Now</p><p>The post <a href=\"http://ithemes.com/2014/01/17/save-30-site-wide-january-31-2014/\">Save 30% Off Site-wide Through January 31, 2014</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:811:\"<div></div>\n<p></p>\n<div class=\"coupon-callout\" style=\"text-align: center;\">Save 30% off everything at iThemes — that&#8217;s any theme, plugin, training or combo pack purchase — with<br />\ncoupon code <a href=\"http://ithemes.com/member/cart.php?action=add&amp;coupon=ITHEMES2014\">ITHEMES2014</a> through 11:59 p.m. CST January 31, 2014.</div>\n<h6>To add this coupon to your cart, <a href=\"http://ithemes.com/member/cart.php\">log in or creating a new account</a> during checkout.</h6>\n<p><a class=\"btn blue\" href=\"http://ithemes.com/member/cart.php?action=add&amp;coupon=ITHEMES201\">Save 30% Now</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/17/save-30-site-wide-january-31-2014/\">Save 30% Off Site-wide Through January 31, 2014</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:69:\"http://ithemes.com/2014/01/17/save-30-site-wide-january-31-2014/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:2;a:6:{s:4:\"data\";s:45:\"\n		\n		\n		\n		\n		\n				\n		\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:47:\"Selling E-Learning on WordPress Just Got Easier\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:75:\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:84:\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Wed, 15 Jan 2014 16:00:14 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:2:{i:0;a:5:{s:4:\"data\";s:8:\"Exchange\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:1;a:5:{s:4:\"data\";s:19:\"WordPress Ecommerce\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21207\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:616:\"<p>Today we&#8217;re pleased to introduce the LearnDash Add-on for Exchange, a free third-party integration for Exchanged developed by the LearnDash team. LearnDash is a Learning Management System (LMS) for selling e-learning courses from your WordPress site. With the LearnDash Exchange Add-on, you can now easily sell online courses with Exchange, giving your customers a convenient and [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/\">Selling E-Learning on WordPress Just Got Easier</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:3874:\"<p>Today we&#8217;re pleased to introduce the LearnDash Add-on for Exchange, a free third-party integration for Exchanged developed by the <a href=\"http://www.learndash.com\">LearnDash team</a>.</p>\n<p><a href=\"http://www.learndash.com\">LearnDash</a> is a Learning Management System (LMS) for selling e-learning courses from your WordPress site. With the LearnDash Exchange Add-on, you can now easily sell online courses with Exchange, giving your customers a convenient and user-friendly purchase experience. After purchase, your customers are automatically enrolled into your course(s) of choice and the learning can begin.</p>\n<h2 style=\"margin-top: 40px;\">Features</h2>\n<ul>\n<li><strong>Easily map a product to a course:</strong> When creating your product, simply select the course you want to associate with the product from the Advanced menu under the “LearnDash” tab.</li>\n<li><strong>Associate one, or many, courses:</strong> You aren’t limited to just one course per product. Offer your customers discounts for buying courses in bulk by associating as many courses as you desire to your Exchange product.</li>\n<li><strong>Multiple ways to purchase:</strong> Direct your users to your Exchange store, or allow them to read the course description on the actual course page. When your visitor clicks the “Take this Course” button on the LearnDash course page, they will be taken to your product page for purchase.</li>\n<li><strong>Intelligent purchase button:</strong> Associate just one course to a product and your visitor will be taken to the product page when clicking on the “Take this Course” button. If you have more than one course association, they will be taken to your store.</li>\n<li><strong>Works with any Exchange payment gateway:</strong> Choose any payment gateway for selling your course and the Add-on will enroll the customer into the course.</li>\n</ul>\n<h2 style=\"margin-top: 40px;\">How to Use the LearnDash Add-on</h2>\n<p>1. Download, install and activate <a href=\"http://ithemes.com/exchange\">iThemes Exchange</a>.</p>\n<p>2. Purchase and activate the <a href=\"http://www.learndash.com/\">LearnDash plugin</a>.</p>\n<p>3. Download the LearnDash Exchange Add-on from the LearnDash support site. Once downloaded, upload the integration via <strong>Plugins &gt; Add New</strong>. After uploading, there is no configuration necessary. The integration will create a new “LearnDash” menu option under the Advanced menu when creating an Exchange product.</p>\n<p><a href=\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/learndash-exchange-add-on-1/\" rel=\"attachment wp-att-21208\"><img class=\"aligncenter size-full wp-image-21208\" alt=\"LearnDash-Exchange-Add-on-1\" src=\"http://ithemes.com/wp-content/uploads/2014/01/LearnDash-Exchange-Add-on-1.png\" width=\"744\" height=\"394\" /></a><br />\n4. Once you publish a product with an associated course, the integration will place the “Take this Course” button on the LearnDash course page.</p>\n<p><a href=\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/learndash-exchange-add-on-2/\" rel=\"attachment wp-att-21209\"><img class=\"aligncenter size-full wp-image-21209\" alt=\"LearnDash-Exchange-Add-on-2\" src=\"http://ithemes.com/wp-content/uploads/2014/01/LearnDash-Exchange-Add-on-2.png\" width=\"350\" height=\"224\" /></a></p>\n<h2 style=\"margin-top: 40px;\">Download and Purchase Info</h2>\n<p>Thanks to the LearnDash team for their work on this Exchange Add-on. This Add-on is available for free to all LearnDash customers. To purchase the LearnDash plugin, please <a href=\"http://www.learndash.com\">visit the LearnDash website.</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/\">Selling E-Learning on WordPress Just Got Easier</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:80:\"http://ithemes.com/2014/01/15/selling-e-learning-wordpress-just-got-easier/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:3;a:6:{s:4:\"data\";s:42:\"\n		\n		\n		\n		\n		\n				\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:53:\"How to Price &amp; Scope WordPress Ecommerce Projects\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:78:\"http://ithemes.com/2014/01/15/how-to-price-scope-wordpress-ecommerce-projects/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:87:\"http://ithemes.com/2014/01/15/how-to-price-scope-wordpress-ecommerce-projects/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Wed, 15 Jan 2014 15:56:53 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:1:{i:0;a:5:{s:4:\"data\";s:19:\"WordPress Ecommerce\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21138\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:551:\"<p>As a freelancer, how do you scope and price WordPress ecommerce projects? It’s a big task. Over-estimate and you’re not going to get the job. Under-estimate and you’re going to pay for it. We can’t tell you how much to charge, but we can help you sort through all the questions and considerations so you [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/15/how-to-price-scope-wordpress-ecommerce-projects/\">How to Price &#038; Scope WordPress Ecommerce Projects</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:18:\"Kevin D. Hendricks\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:6148:\"<p>As a freelancer, how do you scope and price WordPress ecommerce projects? It’s a big task. Over-estimate and you’re not going to get the job. Under-estimate and you’re going to pay for it. We can’t tell you how much to charge, but we can help you sort through all the questions and considerations so you can figure out how to come up with a dollar amount.</p>\n<h2>Ecommerce is Different</h2>\n<p>Understand upfront that ecommerce is different. This isn’t like every other WordPress web project you’ve done with a slightly new twist. That new twist is big. If you charge what you normally charge for a site and tack on a little extra, you’re going to lose. You need to understand now just how big ecommerce is. This is a whole new level.</p>\n<p>Ecommerce is also different because it shouldn’t be a one-time fee. You’re building a site that’s going to have on-going expenses, maintenance and much more stringent up-time requirements. After all, the site is directly making someone money. If it goes down, they’re losing money. There’s built-in motivation to protect that cash cow. A monthly retainer to keep things running smoothly will be welcomed.</p>\n<h2>Understand Your Client’s Needs</h2>\n<p>The key to scoping any website project is understanding the client’s needs. That’s no different in ecommerce, though there are even more options and variables. And those options can have a dramatic impact on the work involved.</p>\n<p>So the most important thing you can do is get your head around the project. You need to understand the project better than your client does. Know the ins and outs of what the client is trying to do, whether it directly impacts the site or not. You’ll sort out what they really need and can deliver a site that works better for them in the end.</p>\n<p>The best way to do that is to ask a lot of questions:</p>\n<ul>\n<li><strong>Do they need a merchant account?</strong> If your client will be using a traditional payment gateway and merchant account you need to know if they’ve already started the process of securing a merchant account. If not, that could be trouble. It’s not uncommon to be denied for a merchant account or for the process to take months. Work some contingencies into your contract. You still want to get paid if merchant account woes slow or stop the project.</li>\n</ul>\n<ul>\n<li><strong>Are the products ready to go?</strong> Your client could have one product or they could have 10,000. If you’re in charge of adding products you better make sure you know how many, how much work is involved and include all that work in your bid. Don’t forget product variations or options. Are product photos, videos, descriptions and prices current and ready to go?</li>\n</ul>\n<ul>\n<li><strong>What kind of special options are needed?</strong> You need to know upfront if your client wants any special options. Recurring payments, memberships, discounts, coupons, etc., are all extra complications that aren’t possible with every payment processor and plugin. Make sure your client doesn’t assume the site will have some feature you can’t deliver.</li>\n</ul>\n<ul>\n<li><strong>What about shipping?</strong> Shipping variables abound: the size, weight and quantity of products, how they fit in a box, if they’re fragile, the speed of shipping, etc. Shipping is complicated (unless it’s free!). You need to know how your client wants to handle shipping and get the details upfront so you can offer the appropriate tools or propose a better solution.</li>\n</ul>\n<ul>\n<li><strong>How do they process a transaction?</strong> This gets into the business management side of things, but you need to understand everything. Do they use Quickbooks to print shipping orders? What kind of software does the website need to integrate with? You should create a solution that fits how the client works.</li>\n</ul>\n<ul>\n<li><strong>What’s the timeline?</strong> Deadlines are dependent on each other and so many time consuming things that are out of your control. It’s important everybody understands the timeline and the consequences if deadlines are missed.</li>\n</ul>\n<p>And that’s just a start. There are a lot of questions to ask and the more you ask upfront the fewer surprises you’ll have. Surprises are often expensive.</p>\n<h2>Consider the Extras</h2>\n<p>As you put a price together for an ecommerce project you need to consider everything. Here are a few things you should always take into account:</p>\n<ul>\n<li><strong>Testing</strong> &#8211; Ecommerce sites have a lot of moving pieces, from shopping carts to payment processing. There’s a lot that can go wrong and multiple opportunities for your client to raise red flags. Make sure you’re accounting for frequent testing and approval to keep the project on track.</li>\n</ul>\n<ul>\n<li><strong>Usability</strong> &#8211; Every moment of confusion or delay will erode customer trust and send shoppers clicking away. Usability testing can make your client more money, so be sure you’re doing it and including the cost in your bid.</li>\n</ul>\n<ul>\n<li><strong>Maintenance</strong> &#8211; Downtime is lost money for an ecommerce site, so maintenance is crucial. Make ongoing maintenance with a retainer part of your bid.</li>\n</ul>\n<ul>\n<li><strong>Training</strong> &#8211; It’s easy to overlook the time it will take to show your client how to use their new site.</li>\n</ul>\n<h2>Final Price Tag</h2>\n<p>Coming up with a price tag for an ecommerce project is a job in and of itself. There’s a lot to consider and it’s important you get it right. Ideally you’re forming a long-term relationship, working together for mutual gain. That might mean it’s worthwhile to offer a deal upfront to land the project. But you also need to know your costs so you’re not losing your shirt.</p>\n<p>Ecommerce sites should make money, so there should be room for everyone to win.</p>\n<p>The post <a href=\"http://ithemes.com/2014/01/15/how-to-price-scope-wordpress-ecommerce-projects/\">How to Price &#038; Scope WordPress Ecommerce Projects</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:83:\"http://ithemes.com/2014/01/15/how-to-price-scope-wordpress-ecommerce-projects/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"1\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:4;a:6:{s:4:\"data\";s:51:\"\n		\n		\n		\n		\n		\n				\n		\n		\n		\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:52:\"12 New Getting Started with Exchange Video Tutorials\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:64:\"http://ithemes.com/2014/01/14/12-new-ithemes-exchange-tutorials/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:73:\"http://ithemes.com/2014/01/14/12-new-ithemes-exchange-tutorials/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Tue, 14 Jan 2014 22:09:57 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:4:{i:0;a:5:{s:4:\"data\";s:8:\"Exchange\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:1;a:5:{s:4:\"data\";s:19:\"WordPress Ecommerce\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:2;a:5:{s:4:\"data\";s:20:\"WordPress Membership\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:3;a:5:{s:4:\"data\";s:19:\"WordPress Tutorials\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21164\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:587:\"<p>If you&#8217;re new to Exchange (our free ecommerce plugin), we just added 12 new Getting Started with Exchange video tutorials to our WordPress tutorials hub. These tutorials cover some basics (like setting up PayPal Standard Basic) and offer overviews of some of the great Exchange Add-ons that can extend your store with additional features and functionality, [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/14/12-new-ithemes-exchange-tutorials/\">12 New Getting Started with Exchange Video Tutorials</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:4257:\"<p>If you&#8217;re new to Exchange (<a href=\"http://ithemes.com/exchange\">our free ecommerce plugin</a>), we just added 12 new Getting Started with Exchange video tutorials to our <a href=\"http://ithemes.com/tutorials\">WordPress tutorials hub</a>.</p>\n<p>These tutorials cover some basics (like setting up PayPal Standard Basic) and offer overviews of some of the great Exchange Add-ons that can extend your store with additional features and functionality, like Membership, Invoices, Free Offers and more.</p>\n<h3 style=\"margin-top: 50px;\">1. <a href=\"http://ithemes.com/tutorials/setting-up-paypal-standard-basic/\" target=\"_blank\">Setting Up PayPal Standard Basic</a></h3>\n<p>The PayPal Standard Basic option in iThemes Exchange is the quick and easy way to get PayPal set up in your store.</p>\n<h3 style=\"margin-top: 50px;\">2. <a href=\"http://ithemes.com/tutorials/exchange-membership-add-on/\" target=\"_blank\">Exchange Membership Add-on Overview</a></h3>\n<p>Learn how to protect your site&#8217;s content using Content Access in the Exchange Membership Add-on.</p>\n<h3 style=\"margin-top: 50px;\">3. <a href=\"http://ithemes.com/tutorials/shortcodes-in-ithemes-exchange-membership-add-on/\" target=\"_blank\">How to Use Membership Shortcodes</a></h3>\n<p>Learn how to limit specific content on your WordPress posts and pages. This tutorial also covers how to list restricted posts, pages and other content on product pages.</p>\n<h3 style=\"margin-top: 50px;\">4. <a href=\"http://ithemes.com/tutorials/exchange-add-on-bbpress-membership/\" target=\"_blank\">Using the bbPress Membership Add-on</a></h3>\n<p>Learn how to use the Exchange bbPress Membership Add-on to activate membership management functionality for your bbPress forums.</p>\n<h3 style=\"margin-top: 50px;\">5. <a href=\"http://ithemes.com/tutorials/exchange-add-on-invoices/\" target=\"_blank\">Invoices Add-on Overview</a></h3>\n<p>See how the Exchange Invoices Add-on allows you to create and send invoices to your clients directly from your WordPress site.</p>\n<h3 style=\"margin-top: 50px;\">6. <a href=\"http://ithemes.com/tutorials/exchange-add-on-manual-purchases/\" target=\"_blank\">Manual Purchases Add-on Overview </a></h3>\n<p>Manually add purchases to new or existing customers with the Manual Purchases Add-on.</p>\n<h3 style=\"margin-top: 50px;\">7. <a href=\"http://ithemes.com/tutorials/exchange-add-on-free-offers/\" target=\"_blank\">Free Offers Add-on Overview</a></h3>\n<p>Learn how to offer any product in your store for free.</p>\n<h3 style=\"margin-top: 50px;\">8. <a href=\"http://ithemes.com/tutorials/exchange-add-on-customer-pricing/\" target=\"_blank\">Customer Pricing Add-on Overview</a></h3>\n<p>See how easy it is to accept donations and “name your own price” payments with WordPress.</p>\n<h3 style=\"margin-top: 50px;\">9. <a href=\"http://ithemes.com/tutorials/exchange-add-on-guest-checkout/\" target=\"_blank\">Guest Checkout Add-on Overview</a></h3>\n<p>Allow your customers to make purchases on your site without having to register for an account.</p>\n<h3 style=\"margin-top: 50px;\">10. <a href=\"http://ithemes.com/tutorials/exchange-add-on-featured-video/\" target=\"_blank\">Featured Video Add-on Overview </a></h3>\n<p>Learn how to add videos to your products from your WordPress media library or YouTube, Vimeo, Viddler or Flickr.</p>\n<h3 style=\"margin-top: 50px;\">11. <a href=\"http://ithemes.com/tutorials/exchange-add-on-custom-url-tracking/\">Custom URL Tracking Add-on Overview</a></h3>\n<p>Create custom URLs for your products and track how many times each URL is viewed.</p>\n<h3 style=\"margin-top: 50px;\">12. <a href=\"http://ithemes.com/tutorials/creating-coupons-in-exchange/\">Creating Coupons in Exchange</a></h3>\n<p>Exchange allows you to easily create coupons with the Coupons Add-on.</p>\n<h2 style=\"margin-top: 50px; text-align: left;\">Watch More Exchange Video Tutorials</h2>\n<div class=\"content-callout green\">Check out the <a href=\"http://ithemes.com/tutorial/category/ithemes-exchange/\">Exchange category of our WordPress tutorials hub</a> for more Exchange tutorials.</div>\n<p>The post <a href=\"http://ithemes.com/2014/01/14/12-new-ithemes-exchange-tutorials/\">12 New Getting Started with Exchange Video Tutorials</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:69:\"http://ithemes.com/2014/01/14/12-new-ithemes-exchange-tutorials/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:5;a:6:{s:4:\"data\";s:48:\"\n		\n		\n		\n		\n		\n				\n		\n		\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:73:\"Hide Member Content With Shortcodes – New in Exchange Membership Add-on\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:83:\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-shortcodes-in-exchange/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:92:\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-shortcodes-in-exchange/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Wed, 08 Jan 2014 21:49:30 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:3:{i:0;a:5:{s:4:\"data\";s:8:\"Exchange\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:1;a:5:{s:4:\"data\";s:19:\"WordPress Ecommerce\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:2;a:5:{s:4:\"data\";s:20:\"WordPress Membership\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21056\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:621:\"<p>The latest version of the Exchange Membership Add-on (our WordPress Membership plugin) now includes a new feature — the ability to display member and non-member content on the same WordPress page or post. By using new built-in (and easy-to-add) shortcodes, you now have the option to have both protected and non-protected content on the same post or [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-shortcodes-in-exchange/\">Hide Member Content With Shortcodes &#8211; New in Exchange Membership Add-on</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:4235:\"<p>The latest version of the Exchange Membership Add-on (our <a href=\"http://ithemes.com/purchase/membership-add-on/\">WordPress Membership plugin</a>) now includes a new feature — the ability to display member and non-member content on the same WordPress page or post. By using new built-in (and easy-to-add) shortcodes, you now have the option to have both protected and non-protected content on the same post or page, so you can show certain portions of your content and hide other parts from non-members.</p>\n<h2>How to Use Member Content Shortcodes to Hide Your WordPress Member Content</h2>\n<p>1. After updating to v. 1.0.18 of the Exchange Membership Add-on, you&#8217;ll see the new <strong>Member Content</strong> button above the post and page editor.</p>\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-21066\" style=\"margin-top: 30px; margin-bottom: 30px;\" alt=\"member-content-button\" src=\"http://ithemes.com/wp-content/uploads/2014/01/member-content-button.png\" width=\"1127\" height=\"864\" /></p>\n<p>2. To hide a certain portion of the content from non-members, <strong>highlight the text you&#8217;d like to make members only</strong>, and click the <strong>Member Content</strong> button. You&#8217;ll now see a dialogue box to select the membership levels you’d like to give access to the content.</p>\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-21068\" style=\"margin-top: 30px; margin-bottom: 30px;\" alt=\"member-content-box\" src=\"http://ithemes.com/wp-content/uploads/2014/01/member-content-box.png\" width=\"1116\" height=\"786\" /></p>\n<p>3. Select the membership level and click <strong>Insert Shortcode</strong>. The shortcode will then automatically be added to the content area around the highlighted text.</p>\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-21069\" style=\"margin-top: 30px; margin-bottom: 30px;\" alt=\"membership-shortcode\" src=\"http://ithemes.com/wp-content/uploads/2014/01/membership-shortcode.png\" width=\"1122\" height=\"695\" /></p>\n<p>Double-check that the shortcode is &#8220;around&#8221; the members only text. It should be formatted like this:</p>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-with-shortcodes/screen-shot-2014-01-08-at-3-01-35-pm/\" rel=\"attachment wp-att-21070\"><img class=\"aligncenter size-full wp-image-21070\" style=\"margin-top: 30px; margin-bottom: 30px;\" alt=\"Screen Shot 2014-01-08 at 3.01.35 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-08-at-3.01.35-PM.png\" width=\"449\" height=\"151\" /></a></p>\n<p>On the front end of your site, members of the selected level will be able to see this content, while this section will be hidden from non-members.</p>\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-21073\" style=\"margin-top: 30px; margin-bottom: 30px;\" alt=\"Screen Shot 2014-01-08 at 3.13.11 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-08-at-3.13.11-PM.png\" width=\"975\" height=\"482\" /></p>\n<h2 style=\"margin-top: 40px;\">Start Your WordPress Membership Site</h2>\n<p>To start your WordPress membership site, get the <a href=\"http://ithemes.com/purchase/membership-add-on/\">Membership Add-on for iThemes Exchange</a>. With the Membership Add-on for Exchange, it’s easy to:</p>\n<ul>\n<li>Sell multiple membership levels from your WordPress site</li>\n<li>Protect page and post content based on membership level</li>\n<li>Delay (drip) individual content items to members</li>\n<li>Add members-only digital downloads</li>\n</ul>\n<p>For more info on getting your membership site set up, check out <a href=\"http://ithemes.com/2013/10/09/start-a-membership-site-with-ithemes-exchange/\">Start a WordPress Membership Site with iThemes Exchange</a>.</p>\n<div class=\"content-callout green\">All current Membership Add-on, Exchange Pro Pack, Plugin Dev Suite and Toolkit members can now update to v. 1.0.18 of the Exchange Membership Add-on.</div>\n<p>The post <a href=\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-shortcodes-in-exchange/\">Hide Member Content With Shortcodes &#8211; New in Exchange Membership Add-on</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:88:\"http://ithemes.com/2014/01/08/hide-wordpress-member-content-shortcodes-in-exchange/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"1\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:6;a:6:{s:4:\"data\";s:42:\"\n		\n		\n		\n		\n		\n				\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:48:\"New Features and Improvements in BackupBuddy 4.2\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:72:\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:81:\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Tue, 07 Jan 2014 22:16:15 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:1:{i:0;a:5:{s:4:\"data\";s:11:\"BackupBuddy\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=21019\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:600:\"<p>The latest version of BackupBuddy includes a ton of new features and improvements for the user interface, backup and restore/migrate, backup profiles and more. Here&#8217;s a recap of the updates included in BackupBuddy 4.2: User Interface Updated entire BackupBuddy user interface to support WordPress 3.8&#8242;s new MP6 styling, look, and feel. Contextual help has been [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/\">New Features and Improvements in BackupBuddy 4.2</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:9290:\"<p>The latest version of <a href=\"http://ithemes.com/backupbuddy\">BackupBuddy</a> includes a ton of new features and improvements for the user interface, backup and restore/migrate, backup profiles and more.</p>\n<p><strong>Here&#8217;s a recap of the updates included in BackupBuddy 4.2:</strong></p>\n<h2 style=\"margin-top: 40px;\">User Interface</h2>\n<ul>\n<li>Updated entire BackupBuddy user interface to support WordPress 3.8&#8242;s new MP6 styling, look, and feel.<a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/screen-shot-2014-01-07-at-3-01-18-pm/\" rel=\"attachment wp-att-21022\"><img class=\"aligncenter  wp-image-21022\" style=\"margin-top: 20px; margin-bottom: 40px;\" alt=\"BackupBuddy-dashboard\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-07-at-3.01.18-PM.png\" width=\"982\" height=\"590\" /></a></li>\n</ul>\n<ul>\n<li>Contextual help has been added to all BackupBuddy pages. Check out the <strong>Help</strong> tab on the upper right of BackupBuddy pages to display additional help and information, including links to BackupBuddy Support and Knowledge Base.<a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/backupbuddy-help-dashboard/\" rel=\"attachment wp-att-21025\"><img class=\"aligncenter  wp-image-21025\" style=\"margin-top: 20px; margin-bottom: 40px;\" alt=\"backupBuddy-help-dashboard\" src=\"http://ithemes.com/wp-content/uploads/2014/01/backupBuddy-help-dashboard.png\" width=\"941\" height=\"703\" /></a></li>\n</ul>\n<ul>\n<li>Simplified the BackupBuddy WordPress dashboard menu by removing the Getting Started page (now available from the Backup page).<a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/screen-shot-2014-01-07-at-2-59-06-pm-2/\" rel=\"attachment wp-att-21024\"><img class=\"aligncenter  wp-image-21024\" style=\"margin-top: 20px; margin-bottom: 40px;\" alt=\"Backup Getting Started\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-07-at-2.59.06-PM1.png\" width=\"940\" height=\"879\" /></a></li>\n</ul>\n<ul>\n<li>Schedules page updated for better usability, including a new <em>Twice Weekly</em> backup interval option.<a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/backupbuddy-scheduling/\" rel=\"attachment wp-att-21026\"><img class=\"aligncenter  wp-image-21026\" style=\"margin-top: 20px; margin-bottom: 50px;\" alt=\"backupbuddy-scheduling\" src=\"http://ithemes.com/wp-content/uploads/2014/01/backupbuddy-scheduling.png\" width=\"969\" height=\"849\" /></a></li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Backup &amp; Restore/Migrate</h2>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/screen-shot-2014-01-07-at-3-27-49-pm/\" rel=\"attachment wp-att-21030\"><img class=\"aligncenter  wp-image-21030\" style=\"margin-top: 20px; margin-bottom: 30px;\" alt=\"Screen Shot 2014-01-07 at 3.27.49 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-07-at-3.27.49-PM.png\" width=\"1185\" height=\"727\" /></a></p>\n<ul>\n<li>Simplified backup listing using backup date &amp; time as primary listing criteria.</li>\n<li>Backup details now displays start and finish times of the overall backup process.</li>\n<li>Added <em>File Size</em> to Recent Backups listing.</li>\n<li>Improved instructions on Restore / Migrate page.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Profiles</h2>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/backup-profiles-2/\" rel=\"attachment wp-att-21038\"><img class=\"aligncenter  wp-image-21038\" style=\"margin-top: 20px; margin-bottom: 30px;\" alt=\"backup-profiles\" src=\"http://ithemes.com/wp-content/uploads/2014/01/backup-profiles.png\" width=\"1090\" height=\"712\" /></a></p>\n<ul>\n<li>Profiles are now configured on the Backups page instead of the Settings page for easier configuration.</li>\n<li>Profiles allow customization of what is backed up when each backup type is run. This is useful for backing up smaller sections of the site at once or backing up frequently changed files or database contents more often without having to back up everything each time.</li>\n<li>New beta backup profile type of <em>Files Only</em> for more easily backing up specific sections of files.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Server Tools Page</h2>\n<p><a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/backup-logs/\" rel=\"attachment wp-att-21042\"><img class=\"aligncenter size-full wp-image-21042\" alt=\"backup-logs\" src=\"http://ithemes.com/wp-content/uploads/2014/01/backup-logs.png\" width=\"987\" height=\"713\" /></a></p>\n<ul>\n<li>Added BackupBuddy directories (backup storage, logs, temp directory) to Server Tools URLs &amp; Paths page.</li>\n<li>Mass Database Text Replace Tool now available on the Server Tools Database tab for mass replacing text such as URLs in the database.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Settings</h2>\n<p><a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/screen-shot-2014-01-07-at-3-29-54-pm/\" rel=\"attachment wp-att-21031\"><img class=\"aligncenter  wp-image-21031\" style=\"margin-top: 20px; margin-bottom: 40px;\" alt=\"Screen Shot 2014-01-07 at 3.29.54 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-07-at-3.29.54-PM.png\" width=\"1115\" height=\"852\" /></a></p>\n<ul>\n<li>Setting <em>Default base database tables to backup</em> now include a new <em>None</em> option.</li>\n<li>Backup mode (Modern vs Classic) setting now applies to both manual and scheduled backups for enhanced server compatibility.</li>\n<li>Added additional checks and warnings for verifying exclusions of database tables, paths, and files do not get accidentally excluded without notification.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">ImportBuddy</h2>\n<ul>\n<li>Enhanced scanning of potential problems on import such as incompatible configuration files such as custom php.ini configurations.</li>\n<li>Ability to view a CRC hash of backup files to verify they are not corrupt added.</li>\n<li>Mass database text replacement tool now available in ImportBuddy via the top menu bar for mass text replacements on existing WordPress installations, such as updating URLs within the database.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Remote Destinations</h2>\n<ul>\n<li>Amazon S3 library updated for better performance when sending to Amazon S3.</li>\n<li>Amazon S3 now supports setting the geographical region for any new buckets that are created by BackupBuddy.</li>\n<li>Amazon S3 destination now supported Reduced Redundancy storage class for cheaper storage.</li>\n<li>Backups stored on Amazon S3 may be copied back to the site or directly downloaded to your computer from the S3 management page.</li>\n<li>FTP Destination path browser added for easily browsing remote FTP paths for easier setting up of an FTP destination.</li>\n<li>Emails sent to an Email destination now include the site URL in the subject of the email for convenience.</li>\n<li>From the Remote Destinations page you may hover over each existing destination &amp; select to manage remote files at the destination.</li>\n<li>Stash option added to limit number of backups of the Files Only type.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">Misc</h2>\n<ul>\n<li>Added <em>Quick Release Updates</em> setting to the bottom of the licensing page. Enabling this option allows the site to receive automatic update notices for product quick releases (releases that do not have automatic update support by default).</li>\n<li>Added command line support via WP-CLI &lt; http://wp-cli.org &gt; for initiating backups via the command line or other automated means.</li>\n<li>More strings localized for better translations.</li>\n</ul>\n<h2 style=\"margin-top: 50px; margin-bottom: 20px;\">How to Update to BackupBuddy 4.2</h2>\n<p>All current BackupBuddy customers will find the BackupBuddy 4.2 update available for download from the <a href=\"http://ithemes.com/member\">iThemes Member Panel </a>for manual updates. For faster and easier updates, we recommend <a href=\"http://ithemes.com/codex/page/BackupBuddy:_Licensing\">licensing BackupBuddy for automatic updates</a> straight from the WordPress dashboard.</p>\n<p>To save even more time (and from logging into each site individually), update all your BackupBuddy sites from one place by using <a href=\"http://ithemes.com/member/panel/sync.php\">Sync — free for 10 sites for all current BackupBuddy customers</a>.</p>\n<p><a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/sync-backupbuddy-update/\" rel=\"attachment wp-att-21047\"><img class=\"aligncenter size-full wp-image-21047\" alt=\"sync-backupbuddy-update\" src=\"http://ithemes.com/wp-content/uploads/2014/01/sync-backupbuddy-update.png\" width=\"1044\" height=\"880\" /></a></p>\n<p><a class=\"btn green\" href=\"http://ithemes.com/member/panel/sync.php\">Update BackupBuddy using Sync</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/\">New Features and Improvements in BackupBuddy 4.2</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:77:\"http://ithemes.com/2014/01/07/new-features-improvements-backupbuddy-4-2/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"3\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:7;a:6:{s:4:\"data\";s:45:\"\n		\n		\n		\n		\n		\n				\n		\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:65:\"Add bbPress Members Only Forums to Your WordPress Membership Site\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:88:\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:97:\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Mon, 06 Jan 2014 22:16:09 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:2:{i:0;a:5:{s:4:\"data\";s:8:\"Exchange\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:1;a:5:{s:4:\"data\";s:19:\"WordPress Ecommerce\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=20972\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:626:\"<p>With the new bbPress Membership Add-on for Exchange, you can now enable members only forums for the bbPress plugin, the free forum software that allows you to set up discussion forums inside your WordPress site. With this new Exchange add-on, you can restrict bbPress forums, topics and replies to require certain membership levels sold from your Exchange-powered [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/\">Add bbPress Members Only Forums to Your WordPress Membership Site</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:10591:\"<p>With the new <a href=\" http://ithemes.com/purchase/bbpress-membership-add-on/\">bbPress Membership Add-on for Exchange</a>, you can now enable members only forums for the <a href=\"http://bbpress.org/\">bbPress plugin</a>, the free forum software that allows you to set up discussion forums inside your WordPress site.</p>\n<p>With this new Exchange add-on, you can restrict bbPress forums, topics and replies to require certain membership levels sold from your Exchange-powered WordPress membership site. Once you set up these restrictions, a user will have to be a current customer of a certain membership product to be able to have access to the forum, topic or reply.</p>\n<h2 style=\"margin-top: 40px;\">Why Add Members Only Forums?</h2>\n<p>Creating protected membership forums can be helpful if you run a membership site and want to allow your members to participate in topic-driven discussions outside of the built-in WordPress comments functionality for posts and pages.</p>\n<p>For example, if you&#8217;re a health coach and run a membership site, you could create discussion forums that allow members to share their progress and success. Or, if you run an educational or curriculum-driven site with <a href=\"http://ithemes.com/codex/page/Exchange_Product_Types:_Memberships#Content_Access\">drip (or delayed) content</a>, you could set up membership forums with corresponding delayed access for each lesson or course as members progress through the material.</p>\n<h2 style=\"margin-top: 40px;\">Getting Started</h2>\n<p>The Exchange bbPress Membership Add-on works together with the <a href=\"http://ithemes.com/purchase/membership-add-on/\">Exchange Membership Add-on</a>. With the Exchange Membership Add-on, you can sell membership access to your WordPress site with members only posts, pages and digital downloads.</p>\n<p>The bbPress Membership Add-on adds a <strong>Membership Access</strong> box to the Forum creator/editor screen where you can assign the details of your membership protection to the forum. Once you&#8217;ve created a membership product for your store, you&#8217;ll see it available from the drop-down as well as an option to delay access to this forum for the selected membership level.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/bbpress-membership-access/\" rel=\"attachment wp-att-20974\"><img class=\"aligncenter size-full wp-image-20974\" alt=\"bbpress-membership-access\" src=\"http://ithemes.com/wp-content/uploads/2014/01/bbpress-membership-access.png\" width=\"1134\" height=\"805\" /></a></p>\n<h2 style=\"margin-top: 40px;\">Step 1: Install Plugins</h2>\n<p>To get started creating members only forums, you&#8217;ll need install 4 plugins:</p>\n<ul>\n<li><a href=\"http://ithemes.com/exchange/\">Exchange 1.7.12</a> (or higher)</li>\n<li><a href=\"http://bbpress.org/\">bbPress 2.5.2</a> (or higher)</li>\n<li><a href=\"http://ithemes.com/purchase/membership-add-on/\">Exchange Membership Add-on 1.0.18</a> (or higher)</li>\n<li><a href=\" http://ithemes.com/purchase/bbpress-membership-add-on/\">Exchange bbPress Membership Add-on</a></li>\n</ul>\n<h2 style=\"margin-top: 40px;\">Step 2: Create a Membership Product</h2>\n<p>After uploading and activating the plugins above (<a href=\"http://ithemes.com/exchange\">Exchange</a>, <a href=\"http://bbpress.org\">bbPress</a>, <a href=\"http://ithemes.com/purchase/membership-add-on/\">Exchange Membership Add-on</a> and <a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/\">Exchange bbPress Membership Add-on</a>), you&#8217;ll see the <strong>Add Membership</strong> option in your Exchange menu from the WordPress dashboard.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-11-03-47-am/\" rel=\"attachment wp-att-20979\"><img class=\"aligncenter size-full wp-image-20979\" alt=\"Screen Shot 2014-01-06 at 11.03.47 AM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-11.03.47-AM.png\" width=\"295\" height=\"264\" /></a></p>\n<p>From the <strong>Add New Membership</strong> page, fill out your membership product details. For more information on setting up an Exchange membership product, check out this post: <a href=\"http://ithemes.com/2013/10/09/start-a-membership-site-with-ithemes-exchange/\">How to Start a WordPress Membership Site with Exchange</a>.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-11-05-53-am/\" rel=\"attachment wp-att-20980\"><img class=\"aligncenter size-full wp-image-20980\" alt=\"Screen Shot 2014-01-06 at 11.05.53 AM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-11.05.53-AM.png\" width=\"1203\" height=\"863\" /></a></p>\n<p>Click <strong>Publish</strong> once you&#8217;re ready to make this membership available for purchase from your store.</p>\n<h2 style=\"margin-top: 40px;\">Step 3: Create a bbPress Forum (and Topic)</h2>\n<p>Next up, you&#8217;ll want to get started creating a bbPress forum that will have access limits based on a user&#8217;s membership level. From the WordPress dashboard, visit <strong>Forums &gt; New Forums</strong>. For more information on setting up a new bbPress forum, visit this <a href=\"http://codex.bbpress.org/step-by-step-guide-to-setting-up-a-bbpress-forum/\">Step by Step Guide to Setting Up a bbPress Forum</a>.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-03-at-4-47-26-pm/\" rel=\"attachment wp-att-20973\"><img class=\"aligncenter size-medium wp-image-20973\" alt=\"Exchange-bbPress-Membership-Add-on\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-03-at-4.47.26-PM-540x383.png\" width=\"540\" height=\"383\" /></a></p>\n<p>Before you finalize and publish your new forum, visit the <strong>Membership Access</strong> box to add your forum membership access rules. From here, you can select your new membership product from the drop-down and, if you want, add the number of days, weeks, months or years to delay forum access for that membership level (this can be helpful if you&#8217;re already providing corresponding drip content that relates to this discussion forum).</p>\n<p>bbPress<strong> Topics</strong> can also be protected by membership level, so add a new topic to your new forum. Click to expand the Topics menu and click New Topic.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-2-29-32-pm/\" rel=\"attachment wp-att-20985\"><img class=\"aligncenter size-full wp-image-20985\" alt=\"Screen Shot 2014-01-06 at 2.29.32 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-2.29.32-PM.png\" width=\"1242\" height=\"1041\" /></a></p>\n<p>For this topic, I selected the Members Only Forum in the Topic Attributes, so this topic will be added to my new members only forum. Again, in the Membership Access box, select the membership product and the delay access time frame.</p>\n<h2>Member/Non-Member View of Protected Forum &amp; Topics</h2>\n<p>Now, on the front end of the site, non-members will see the restricted content message.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-2-32-50-pm/\" rel=\"attachment wp-att-20986\"><img class=\"aligncenter size-full wp-image-20986\" alt=\"Screen Shot 2014-01-06 at 2.32.50 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-2.32.50-PM.png\" width=\"934\" height=\"531\" /></a></p>\n<p>This message can be customized by clicking the settings gear next to the Membership Add-on in add-ons list of the<strong> Exchange &gt; Add-ons</strong> page. You can edit this message to add sales copy or a login link for members.</p>\n<p><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-2-34-27-pm/\" rel=\"attachment wp-att-20987\"><img class=\"aligncenter size-full wp-image-20987\" alt=\"Screen Shot 2014-01-06 at 2.34.27 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-2.34.27-PM.png\" width=\"1168\" height=\"1035\" /></a></p>\n<p><strong>Member&#8217;s Forum View</strong></p>\n<p>Members will have full access to your forums, topics and replies (based on your membership access settings).</p>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-2-41-36-pm/\" rel=\"attachment wp-att-20988\"><img class=\"aligncenter  wp-image-20988\" style=\"margin-top: 20px; margin-bottom: 20px;\" alt=\"Screen Shot 2014-01-06 at 2.41.36 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-2.41.36-PM.png\" width=\"980\" height=\"500\" /></a></p>\n<p><strong>Member&#8217;s Topic View</strong></p>\n<p style=\"text-align: center;\"><a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/screen-shot-2014-01-06-at-2-42-33-pm/\" rel=\"attachment wp-att-20989\"><img class=\"aligncenter  wp-image-20989\" style=\"margin-top: 20px; margin-bottom: 20px;\" alt=\"Screen Shot 2014-01-06 at 2.42.33 PM\" src=\"http://ithemes.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-06-at-2.42.33-PM.png\" width=\"988\" height=\"757\" /></a></p>\n<h2 style=\"margin-top: 40px;\">Download and Purchase Info</h2>\n<div class=\"content-callout green\">All current customers of the Exchange Membership Add-on, Exchange Pro Pack, Plugin Dev Suite and Toolkit will find the bbPress Membership Add-on available for download in their <a href=\"http://ithemes.com/member\" target=\"_blank\">Member Panel</a>.</div>\n<p>The <a href=\"http://ithemes.com/purchase/bbpress-membership-add-on/\">bbPress Membership Add-on</a> is available for purchase as part of the <a href=\"http://ithemes.com/purchase/membership-add-on/\">Exchange Membership Add-on</a>, the <a href=\"http://ithemes.com/exchange/#pricing\">Exchange Pro Pack</a>, the <a href=\"http://ithemes.com/developer-suite/\">Plugin Developer Suite</a> and the <a href=\"http://ithemes.com/toolkit/\">Toolkit</a>.<br />\n<a class=\"btn green\" href=\" http://ithemes.com/purchase/bbpress-membership-add-on/\">Get the Membership Add-on for Exchange</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/\">Add bbPress Members Only Forums to Your WordPress Membership Site</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:93:\"http://ithemes.com/2014/01/06/add-bbpress-members-only-forums-wordpress-membership-site/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:8;a:6:{s:4:\"data\";s:48:\"\n		\n		\n		\n		\n		\n				\n		\n		\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:63:\"WordPress Security 101: A Quick Guide to Locking Down Your Site\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:91:\"http://ithemes.com/2014/01/03/wordpress-security-101-quick-guide-to-locking-down-your-site/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:100:\"http://ithemes.com/2014/01/03/wordpress-security-101-quick-guide-to-locking-down-your-site/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Fri, 03 Jan 2014 16:09:38 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:3:{i:0;a:5:{s:4:\"data\";s:8:\"featured\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:1;a:5:{s:4:\"data\";s:7:\"Protect\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}i:2;a:5:{s:4:\"data\";s:18:\"WordPress Security\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=20929\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:590:\"<p>Security is a big tech topic these days. Sites have been hacked and people are worried. But there’s plenty you can do to secure your site. We’re going to talk briefly about security and WordPress, covering some big picture concepts to help you keep your site safe, including: Preliminary Ideas 3 Kinds of Security Your Site [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2014/01/03/wordpress-security-101-quick-guide-to-locking-down-your-site/\">WordPress Security 101: A Quick Guide to Locking Down Your Site</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:18:\"Kevin D. Hendricks\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:8566:\"<p>Security is a big tech topic these days. Sites have been hacked and people are worried. But there’s plenty you can do to secure your site. We’re going to talk briefly about security and WordPress, covering some big picture concepts to help you keep your site safe, including:</p>\n<ul>\n<li>Preliminary Ideas</li>\n<li>3 Kinds of Security Your Site Needs</li>\n<li>4 Best Security Practices</li>\n<li>More Security Help</li>\n</ul>\n<p>The easiest thing you can do to keep your site secure is install a plugin such as <a href=\"http://wordpress.org/plugins/better-wp-security/\">Better WP Security</a>. We actually <a href=\"http://ithemes.com/2013/12/04/wp-security-expert-plugin-developer-chris-wiegman-joins-ithemes/\">hired the developer of that plugin, Chris Wiegman</a>, and brought him on our team to update the plugin and make it a part of the <a href=\"http://ithemes.com/toolkit\">iThemes Toolkit</a>.</p>\n<p>Security plugins such as Better WP Security can take care of a lot of the practical matters. But here we’re just going to cover some of the conceptual ideas about security. In early 2014, we&#8217;ll be releasing a premium WordPress security plugin — <a href=\"http://ithemes.com/wordpress-security-updates/\">sign up here to be the first to know when it ships</a>.</p>\n<h2 style=\"margin-top: 40px;\">First Things First</h2>\n<p>Let’s talk about some preliminary ideas first:</p>\n<ul>\n<li><strong style=\"color: #000000; font-size: medium; font-style: normal;\">There’s Always a Risk:</strong> Your website can never be 100% secure. Hackers are always trying new things and discovering new vulnerabilities to exploit. The online world changes quickly and the same is true of security. Good security is about minimizing risk. If anybody tries to sell you a 100% secure solution, they’re scamming you. You’ll never be completely safe, but there’s a lot you can do to minimize your risk.</li>\n</ul>\n<ul>\n<li><strong style=\"color: #000000; font-size: medium; font-style: normal;\">Don’t Blame WordPress:</strong> The haters like to say that WordPress isn’t secure. That’s not necessarily true—it depends on how you set up and use WordPress. If you’re not keeping it updated or following bad practices, then no, it’s not secure. The reality is that 17% of the world’s websites are using WordPress, which makes it a huge target. So you need to be smart. You need to keep things updated and follow the best practices to lock your site down. Many security issues have little to do with WordPress and more to do with server vulnerabilities, cross-contamination and poor passwords. Bad decisions can undermine your site, and that’s true whether you’re using WordPress or any other solution. So don’t blame your security woes on WordPress.</li>\n</ul>\n<ul>\n<li><strong>Security vs. Usability:</strong> There’s a fine balance between security and usability. Sometimes locking down your site makes it secure, but it’s hard to use. Sometimes making your site easier to use makes it less secure. You’ll have to find the balance.</li>\n</ul>\n<h2 style=\"margin-top: 40px;\">3 Kinds of Security Your Site Needs</h2>\n<p>There are three phases to security: protection, detection and restoration. If you truly want to protect your site, you need to do all three.</p>\n<h4>1. Protection</h4>\n<p>First and foremost you need to lock down your site and keep it safe. You’ve got to raise the drawbridge, lower the gate, ignite the flammable moat and do whatever else you can to stop attacks before they start. This is the obvious first step and kind of hard to ignore: protect your site.</p>\n<h4>2. Detection</h4>\n<p>No matter how good your protection is the bad guys might find a way to hurt your site. And you need to know when an attack is happening. The attack won’t always be a full frontal assault that makes it painfully obvious your site has been hacked. Sometimes they’re sneaky and bots will put a bunch of hidden code into your site. It’s no good to have all kinds of protection but then not know when some malicious virus found a weak spot and broke through. Malicious bots and hackers may have already infiltrated your site. You’ll never know without detection.</p>\n<p>You need to detect attacks as they happen so you can swing into action.</p>\n<h4>3. Recovery</h4>\n<p>Finally, you need a plan to get your site up and running again after it’s been knocked down. These things happen. The best protection and detection strategies can still be foiled and you need to be prepared. Why worry about the worst-case scenario when a little preparation will have you covered? Plus, a good backup is important for other reasons besides security. We recommend backing up your site with <a href=\"http://ithemes.com/backupbuddy\">BackupBuddy</a> (which also handles restoring your site if something happens) so you’re prepared for anything</p>\n<h2 style=\"margin-top: 40px;\">4 Best Security Practices</h2>\n<h4>1. Keep It Current</h4>\n<p>One of the biggest security vulnerabilities in WordPress is old software. WordPress is updated fairly often and whenever there’s a new security issue they roll out an update immediately. But that doesn’t do you any good if you’re not keeping your installation up to date. You also need to keep your themes and plugins up to date—they can have security issues as well. Sometimes people put off updates for fear of breaking their site, but you’d rather break your site with an update than risk a break-in.</p>\n<p>Also, just because a plugin is deactivated doesn’t mean it’s not a threat. You need to delete the plugin entirely.</p>\n<h4>2. Strong Passwords</h4>\n<p>Your security is only as good as your password. If you’ve got a simple password, you’ve got a simple site to hack. You need to use strong passwords. Your password should have numbers, capitals, special characters (@, #, *, etc.) and be long and unique. Your WordPress password can even include spaces and be a passphrase.</p>\n<p>Don’t use the same password in multiple places. Yes, remembering different passwords for different sites is tough, but a hacked site is worse.</p>\n<h4>3. Manage Users</h4>\n<p>Your own strong password is useless if another admin has a weak one. You need to manage your users. Not everybody needs admin access. The more people with admin access, the more chances to hack your site. Make sure you’re only giving admin access to the people who truly need it. And make sure those few admins are following good security practices.</p>\n<p>Remember to update or remove users when you have staff transitions.</p>\n<h4>4. Back It Up</h4>\n<p>If anything ever goes wrong with your site, you want to be able to get it back up quickly. That means you need a backup plan. In order for backup to work, it needs to be complete and automatic. Backing up your database isn’t enough. That will save your content, but you’ll still have to rebuild your entire site, including theme tweaks and plugin settings. And if your backup isn’t automatic, you’ll forget about it.</p>\n<p>Get a powerful backup tool, such as <a href=\"http://ithemes.com/backupbuddy\">BackupBuddy</a>, to keep your site safely backed up and ready to be restored.</p>\n<h2 style=\"margin-top: 40px;\">More Security Help</h2>\n<p>This should give you a good overview of security, but it’s just a start. Security is a big deal and you need to take the right precautions.</p>\n<p>That’s why we’re rolling out a new security plugin, built by Chris Wiegman on top of his <a href=\"http://wordpress.org/plugins/better-wp-security/\">Better WP Security plugin</a> that’s had nearly 1.4 million downloads.</p>\n<p>Learn more by watching the <a href=\"http://ithemes.com/2013/12/30/introduction-wordpress-security-webinar-replay/\">Introduction to WordPress Security webinar</a> with Chris. He offers an overview of the Better WP Security plugin and what you can expect when we take over the plugin and roll out the new iThemes version.</p>\n<h2 style=\"margin-top: 40px;\">Download the Free Ebook</h2>\n<p>In this primer on WordPress security, learn simple WordPress security tips to keep your site safe—including 3 kinds of security your site needs and 4 best security practices.</p>\n<p><a class=\"btn green\" href=\"http://ithemes.com/downloads/WordPress-Security-ebook.pdf\">Download the PDF</a></p>\n<p>The post <a href=\"http://ithemes.com/2014/01/03/wordpress-security-101-quick-guide-to-locking-down-your-site/\">WordPress Security 101: A Quick Guide to Locking Down Your Site</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:96:\"http://ithemes.com/2014/01/03/wordpress-security-101-quick-guide-to-locking-down-your-site/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}i:9;a:6:{s:4:\"data\";s:42:\"\n		\n		\n		\n		\n		\n				\n\n		\n		\n				\n			\n		\n		\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";s:5:\"child\";a:5:{s:0:\"\";a:7:{s:5:\"title\";a:1:{i:0;a:5:{s:4:\"data\";s:19:\"Our 2013 Highlights\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:50:\"http://ithemes.com/2013/12/31/our-2013-highlights/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:59:\"http://ithemes.com/2013/12/31/our-2013-highlights/#comments\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:7:\"pubDate\";a:1:{i:0;a:5:{s:4:\"data\";s:31:\"Tue, 31 Dec 2013 17:57:04 +0000\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:8:\"category\";a:1:{i:0;a:5:{s:4:\"data\";s:4:\"News\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:4:\"guid\";a:1:{i:0;a:5:{s:4:\"data\";s:27:\"http://ithemes.com/?p=20889\";s:7:\"attribs\";a:1:{s:0:\"\";a:1:{s:11:\"isPermaLink\";s:5:\"false\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:11:\"description\";a:1:{i:0;a:5:{s:4:\"data\";s:536:\"<p>As 2013 draws to a close, we&#8217;d like to thank our customers for supporting us and making it one more incredible year of building awesome WordPress products for you. To celebrate our 2013 highlights, we put together the iThemes 2013 Timeline. Check out our 2013 Timeline Celebrating Our 2013 Highlights From launching our new ecommerce plugin, Exchange, [&#8230;]</p><p>The post <a href=\"http://ithemes.com/2013/12/31/our-2013-highlights/\">Our 2013 Highlights</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:32:\"http://purl.org/dc/elements/1.1/\";a:1:{s:7:\"creator\";a:1:{i:0;a:5:{s:4:\"data\";s:14:\"Kristen Wright\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:40:\"http://purl.org/rss/1.0/modules/content/\";a:1:{s:7:\"encoded\";a:1:{i:0;a:5:{s:4:\"data\";s:2081:\"<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-20892\" style=\"margin-top: 70px; margin-bottom: 70px;\" alt=\"2013 iThemes\" src=\"http://ithemes.com/wp-content/uploads/2013/12/2013_email_1485ae0.png\" width=\"550\" height=\"187\" /></p>\n<p>As 2013 draws to a close, we&#8217;d like to thank our customers for supporting us and making it one more incredible year of building awesome WordPress products for you. To celebrate our 2013 highlights, we put together the <a href=\"http://ithemes.com/timeline\">iThemes 2013 Timeline</a>.</p>\n<p><a class=\"btn blue\" href=\"http://ithemes.com/timeline\">Check out our 2013 Timeline</a></p>\n<h2 style=\"margin-top: 40px;\">Celebrating Our 2013 Highlights</h2>\n<p>From launching our new ecommerce plugin, <a href=\"http://ithemes.com/exchange/\">Exchange</a>, to major version updates like <a href=\"http://ithemes.com/2013/06/11/backupbuddy-4-0-part-1-individual-file-restores/\">BackupBuddy 4.0</a> and <a href=\"http://ithemes.com/2013/08/26/ithemes-builder-5-0-is-here/\">Builder 5.0</a>, to our brand new WordPress management tool, <a href=\"http://ithemes.com/2013/11/11/announcing-ithemes-sync-manage-your-wp-updates-from-one-place-easily/\">Sync</a>, and most recently, the announcement of our future <a href=\"http://ithemes.com/2013/12/04/wp-security-expert-plugin-developer-chris-wiegman-joins-ithemes/\">WordPress security</a> plans—2013 will go down in the record books for us.</p>\n<p>Here&#8217;s a quick 2013 recap from our founder, Cory Miller:</p>\n<p><iframe src=\"//www.youtube.com/embed/l5djbkGb2nE?rel=0\" height=\"315\" width=\"600\" allowfullscreen=\"\" frameborder=\"0\"></iframe></p>\n<p>Again, thanks to all our customers and friends. We&#8217;re excited for 2014 and all of the ways we can help <a href=\"http://ithemes.com/2011/10/11/at-ithemes-making-peoples-lives-awesome-means-web-design-made-easy/\" target=\"_blank\">make people&#8217;s lives awesome</a>!</p>\n<p>The post <a href=\"http://ithemes.com/2013/12/31/our-2013-highlights/\">Our 2013 Highlights</a> appeared first on <a href=\"http://ithemes.com\">iThemes</a>.</p>\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:36:\"http://wellformedweb.org/CommentAPI/\";a:1:{s:10:\"commentRss\";a:1:{i:0;a:5:{s:4:\"data\";s:55:\"http://ithemes.com/2013/12/31/our-2013-highlights/feed/\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:38:\"http://purl.org/rss/1.0/modules/slash/\";a:1:{s:8:\"comments\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"0\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}}}s:27:\"http://www.w3.org/2005/Atom\";a:1:{s:4:\"link\";a:1:{i:0;a:5:{s:4:\"data\";s:0:\"\";s:7:\"attribs\";a:1:{s:0:\"\";a:3:{s:4:\"href\";s:29:\"http://ithemes.com/blog/feed/\";s:3:\"rel\";s:4:\"self\";s:4:\"type\";s:19:\"application/rss+xml\";}}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}s:44:\"http://purl.org/rss/1.0/modules/syndication/\";a:2:{s:12:\"updatePeriod\";a:1:{i:0;a:5:{s:4:\"data\";s:6:\"hourly\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}s:15:\"updateFrequency\";a:1:{i:0;a:5:{s:4:\"data\";s:1:\"1\";s:7:\"attribs\";a:0:{}s:8:\"xml_base\";s:0:\"\";s:17:\"xml_base_explicit\";b:0;s:8:\"xml_lang\";s:0:\"\";}}}}}}}}}}}}s:4:\"type\";i:128;s:7:\"headers\";a:10:{s:4:\"date\";s:29:\"Wed, 22 Jan 2014 02:14:10 GMT\";s:6:\"server\";s:6:\"Apache\";s:4:\"vary\";s:6:\"Cookie\";s:10:\"x-pingback\";s:29:\"http://ithemes.com/xmlrpc.php\";s:13:\"last-modified\";s:29:\"Tue, 21 Jan 2014 17:55:06 GMT\";s:4:\"etag\";s:34:\"\"b0f40a5b1bfd00ae7a243c7cd5c2a222\"\";s:10:\"set-cookie\";a:2:{i:0;s:57:\"FirstTimeVisitor=1; expires=Mon, 22-Jan-2024 02:14:10 GMT\";i:1;s:57:\"FirstTimeVisitor=1; expires=Mon, 22-Jan-2024 02:14:10 GMT\";}s:12:\"x-robots-tag\";s:14:\"noindex,follow\";s:10:\"connection\";s:5:\"close\";s:12:\"content-type\";s:23:\"text/xml; charset=UTF-8\";}s:5:\"build\";s:14:\"20140107142651\";}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, add_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = '_transient_feed_mod_761bc2b7ca033de73fa7b3a5a0ffb39a' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, get_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_feed_mod_761bc2b7ca033de73fa7b3a5a0ffb39a' LIMIT 1 made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, add_option, get_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_feed_mod_761bc2b7ca033de73fa7b3a5a0ffb39a', '1390400050', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, add_option
+[22-Jan-2014 02:14:10] WordPress database error Table 'billybec_xetnghiemadn.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_feed_mod_761bc2b7ca033de73fa7b3a5a0ffb39a', '1390356850', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by do_action('security_page_better-wp-security-databaseprefix'), call_user_func_array, bwps_admin_content->admin_databaseprefix, Bit51Foo->admin_page, Bit51Foo->news, fetch_feed, SimplePie->init, WP_Feed_Cache_Transient->save, set_transient, add_option
+[08-Feb-2014 16:21:43] PHP Catchable fatal error:  Object of class thesis_design_options could not be converted to string in /home1/billybec/public_html/xetnghiemadn/wp-content/plugins/antivirus/antivirus.php on line 916
+[03-Apr-2015 09:54:37 UTC] PHP Warning:  DOMDocument::save() [<a href='domdocument.save'>domdocument.save</a>]: Unable to access /home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 2277
+[03-Apr-2015 09:54:37 UTC] PHP Warning:  DOMDocument::save(/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) [<a href='domdocument.save'>domdocument.save</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 2277
+[03-Apr-2015 09:54:37 UTC] 2015-04-03 09:54:37: WP Google Maps : Could not save XML file->Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+[03-Apr-2015 09:54:55 UTC] PHP Warning:  DOMDocument::save() [<a href='domdocument.save'>domdocument.save</a>]: Unable to access /home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 2277
+[03-Apr-2015 09:54:55 UTC] PHP Warning:  DOMDocument::save(/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) [<a href='domdocument.save'>domdocument.save</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 2277
+[03-Apr-2015 09:54:55 UTC] 2015-04-03 09:54:55: WP Google Maps : Could not save XML file->Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+[03-Apr-2015 09:54:55 UTC] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: Unable to access /home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/ in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 5917
+[03-Apr-2015 09:54:55 UTC] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/ in /home/xetnghiemadn/public_html/wp-content/plugins/wp-google-maps/wpGoogleMaps.php on line 5917
+[24-Apr-2015 03:50:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/xetnghiemadn/public_html/wp-includes/update.php on line 119
+[05-Sep-2016 10:14:04 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [comments_popup] => 
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [fields] => 
+            [menu_order] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+        )
+
+    [date_query] => 
+    [post_count] => 0
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 0
+    [max_num_pages] => 0
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_comments_popup] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => a99328c0eded9e51bc2614108d7e3eb2
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+        )
+
+)
+
+[05-Sep-2016 10:14:16 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [comments_popup] => 
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [fields] => 
+            [menu_order] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+        )
+
+    [date_query] => 
+    [post_count] => 1
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 1
+    [max_num_pages] => 1
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_comments_popup] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => a99328c0eded9e51bc2614108d7e3eb2
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1030
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:14:11
+                    [post_date_gmt] => 2016-09-05 10:14:11
+                    [post_content] => WP Backupware - Sep-05-2016-101411-bak
+                    [post_title] => backup-database - Sep-05-2016-101411-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101411-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:14:11
+                    [post_modified_gmt] => 2016-09-05 10:14:11
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+    [post] => WP_Post Object
+        (
+            [ID] => 1030
+            [post_author] => 1
+            [post_date] => 2016-09-05 10:14:11
+            [post_date_gmt] => 2016-09-05 10:14:11
+            [post_content] => WP Backupware - Sep-05-2016-101411-bak
+            [post_title] => backup-database - Sep-05-2016-101411-bak
+            [post_excerpt] => 
+            [post_status] => private
+            [comment_status] => open
+            [ping_status] => open
+            [post_password] => 
+            [post_name] => backup-database-sep-05-2016-101411-bak
+            [to_ping] => 
+            [pinged] => 
+            [post_modified] => 2016-09-05 10:14:11
+            [post_modified_gmt] => 2016-09-05 10:14:11
+            [post_content_filtered] => 
+            [post_parent] => 0
+            [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+            [menu_order] => 0
+            [post_type] => backup-database
+            [post_mime_type] => 
+            [comment_count] => 0
+            [filter] => raw
+        )
+
+)
+
+[05-Sep-2016 10:14:24 UTC] hello
+[05-Sep-2016 10:15:23 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [comments_popup] => 
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [fields] => 
+            [menu_order] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+        )
+
+    [date_query] => 
+    [post_count] => 1
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 1
+    [max_num_pages] => 1
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_comments_popup] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => a99328c0eded9e51bc2614108d7e3eb2
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1030
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:14:11
+                    [post_date_gmt] => 2016-09-05 10:14:11
+                    [post_content] => WP Backupware - Sep-05-2016-101411-bak
+                    [post_title] => backup-database - Sep-05-2016-101411-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101411-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:14:11
+                    [post_modified_gmt] => 2016-09-05 10:14:11
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+    [post] => WP_Post Object
+        (
+            [ID] => 1030
+            [post_author] => 1
+            [post_date] => 2016-09-05 10:14:11
+            [post_date_gmt] => 2016-09-05 10:14:11
+            [post_content] => WP Backupware - Sep-05-2016-101411-bak
+            [post_title] => backup-database - Sep-05-2016-101411-bak
+            [post_excerpt] => 
+            [post_status] => private
+            [comment_status] => open
+            [ping_status] => open
+            [post_password] => 
+            [post_name] => backup-database-sep-05-2016-101411-bak
+            [to_ping] => 
+            [pinged] => 
+            [post_modified] => 2016-09-05 10:14:11
+            [post_modified_gmt] => 2016-09-05 10:14:11
+            [post_content_filtered] => 
+            [post_parent] => 0
+            [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+            [menu_order] => 0
+            [post_type] => backup-database
+            [post_mime_type] => 
+            [comment_count] => 0
+            [filter] => raw
+        )
+
+)
+
+[05-Sep-2016 10:15:43 UTC] PHP Warning:  curl_exec() [<a href='function.curl-exec'>function.curl-exec</a>]: CURLOPT_INFILE resource has gone away, resetting to default in /home/xetnghiemadn/public_html/wp-content/plugins/backup-database/lib/Dropbox/dropbox.php on line 374
+[05-Sep-2016 10:15:49 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [comments_popup] => 
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [fields] => 
+            [menu_order] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+        )
+
+    [date_query] => 
+    [post_count] => 2
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 2
+    [max_num_pages] => 1
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_comments_popup] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => a99328c0eded9e51bc2614108d7e3eb2
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1031
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:15:36
+                    [post_date_gmt] => 2016-09-05 10:15:36
+                    [post_content] => WP Backupware - Sep-05-2016-101536-bak
+                    [post_title] => backup-database - Sep-05-2016-101536-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101536-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:15:36
+                    [post_modified_gmt] => 2016-09-05 10:15:36
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101536-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+            [1] => WP_Post Object
+                (
+                    [ID] => 1030
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:14:11
+                    [post_date_gmt] => 2016-09-05 10:14:11
+                    [post_content] => WP Backupware - Sep-05-2016-101411-bak
+                    [post_title] => backup-database - Sep-05-2016-101411-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101411-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:14:11
+                    [post_modified_gmt] => 2016-09-05 10:14:11
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+    [post] => WP_Post Object
+        (
+            [ID] => 1031
+            [post_author] => 1
+            [post_date] => 2016-09-05 10:15:36
+            [post_date_gmt] => 2016-09-05 10:15:36
+            [post_content] => WP Backupware - Sep-05-2016-101536-bak
+            [post_title] => backup-database - Sep-05-2016-101536-bak
+            [post_excerpt] => 
+            [post_status] => private
+            [comment_status] => open
+            [ping_status] => open
+            [post_password] => 
+            [post_name] => backup-database-sep-05-2016-101536-bak
+            [to_ping] => 
+            [pinged] => 
+            [post_modified] => 2016-09-05 10:15:36
+            [post_modified_gmt] => 2016-09-05 10:15:36
+            [post_content_filtered] => 
+            [post_parent] => 0
+            [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101536-bak/
+            [menu_order] => 0
+            [post_type] => backup-database
+            [post_mime_type] => 
+            [comment_count] => 0
+            [filter] => raw
+        )
+
+)
+
+[05-Sep-2016 10:17:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[05-Sep-2016 10:18:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:04:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:05:41 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 02:05:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:06:34 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 02:06:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:06:43 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 02:06:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:07:33 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 02:07:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 02:07:46 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 02:07:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 10:11:55 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/xetnghiemadn/public_html/wp-content/plugins/allow-php-execute/allow-php-execute.php(13) : eval()'d code on line 3
+[06-Sep-2016 10:11:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `meta_count` DESC LIMIT 10' at line 1 for query SELECT `meta_value`,`meta_count` FROM `drrt7_stt2_meta` WHERE `post_id` =  ORDER BY `meta_count` DESC LIMIT 10; made by do_action('wp_ajax_yarpp_display'), call_user_func_array, YARPP_Admin->ajax_display, YARPP->display_related, YARPP_Cache->enforce, YARPP_Cache_Tables->update, YARPP_Cache->sql, YARPP_Cache_Tables->get_keywords, YARPP_Cache->body_keywords, YARPP_Cache->apply_filters_if_white, call_user_func_array, pk_stt2_admin_content_filter, stt_terms_list, pk_stt2_db_get_search_terms
+[06-Sep-2016 12:40:42 UTC] PHP Warning:  md5_file(/home/xetnghiemadn/public_html/wp-cron.php) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: Permission denied in /home/xetnghiemadn/public_html/wp-admin/includes/class-wp-upgrader.php on line 2234
+[06-Sep-2016 12:41:54 UTC] PHP Warning:  md5_file(/home/xetnghiemadn/public_html/wp-cron.php) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: Permission denied in /home/xetnghiemadn/public_html/wp-admin/includes/update-core.php on line 905
+[06-Sep-2016 12:41:54 UTC] PHP Warning:  md5_file(/home/xetnghiemadn/public_html/xmlrpc.php) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: Permission denied in /home/xetnghiemadn/public_html/wp-admin/includes/update-core.php on line 905
+[06-Sep-2016 12:44:26 UTC] PHP Fatal error:  Call to undefined function wp_convert_hr_to_bytes() in /home/xetnghiemadn/public_html/wp-includes/default-constants.php on line 32
+[06-Sep-2016 12:44:29 UTC] PHP Fatal error:  Call to undefined function wp_convert_hr_to_bytes() in /home/xetnghiemadn/public_html/wp-includes/default-constants.php on line 32
+[06-Sep-2016 12:44:35 UTC] PHP Fatal error:  Call to undefined function wp_convert_hr_to_bytes() in /home/xetnghiemadn/public_html/wp-includes/default-constants.php on line 32
+[06-Sep-2016 12:44:37 UTC] PHP Fatal error:  Call to undefined function wp_convert_hr_to_bytes() in /home/xetnghiemadn/public_html/wp-includes/default-constants.php on line 32
+[06-Sep-2016 12:44:38 UTC] PHP Fatal error:  Call to undefined function wp_convert_hr_to_bytes() in /home/xetnghiemadn/public_html/wp-includes/default-constants.php on line 32
+[06-Sep-2016 12:47:31 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [title] => 
+            [fields] => 
+            [menu_order] => 
+            [embed] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [post_name__in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [lazy_load_term_meta] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [clauses:protected] => Array
+                (
+                )
+
+            [has_or_relation:protected] => 
+        )
+
+    [date_query] => 
+    [post_count] => 2
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 2
+    [max_num_pages] => 1
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_embed] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => f15ae630935f4b4ed97fd3709a474281
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [compat_fields:WP_Query:private] => Array
+        (
+            [0] => query_vars_hash
+            [1] => query_vars_changed
+        )
+
+    [compat_methods:WP_Query:private] => Array
+        (
+            [0] => init_query_flags
+            [1] => parse_tax_query
+        )
+
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1031
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:15:36
+                    [post_date_gmt] => 2016-09-05 10:15:36
+                    [post_content] => WP Backupware - Sep-05-2016-101536-bak
+                    [post_title] => backup-database - Sep-05-2016-101536-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101536-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:15:36
+                    [post_modified_gmt] => 2016-09-05 10:15:36
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101536-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+            [1] => WP_Post Object
+                (
+                    [ID] => 1030
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:14:11
+                    [post_date_gmt] => 2016-09-05 10:14:11
+                    [post_content] => WP Backupware - Sep-05-2016-101411-bak
+                    [post_title] => backup-database - Sep-05-2016-101411-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101411-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:14:11
+                    [post_modified_gmt] => 2016-09-05 10:14:11
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+    [post] => WP_Post Object
+        (
+            [ID] => 1031
+            [post_author] => 1
+            [post_date] => 2016-09-05 10:15:36
+            [post_date_gmt] => 2016-09-05 10:15:36
+            [post_content] => WP Backupware - Sep-05-2016-101536-bak
+            [post_title] => backup-database - Sep-05-2016-101536-bak
+            [post_excerpt] => 
+            [post_status] => private
+            [comment_status] => open
+            [ping_status] => open
+            [post_password] => 
+            [post_name] => backup-database-sep-05-2016-101536-bak
+            [to_ping] => 
+            [pinged] => 
+            [post_modified] => 2016-09-05 10:15:36
+            [post_modified_gmt] => 2016-09-05 10:15:36
+            [post_content_filtered] => 
+            [post_parent] => 0
+            [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101536-bak/
+            [menu_order] => 0
+            [post_type] => backup-database
+            [post_mime_type] => 
+            [comment_count] => 0
+            [filter] => raw
+        )
+
+)
+
+[06-Sep-2016 12:47:53 UTC] PHP Warning:  curl_exec() [<a href='function.curl-exec'>function.curl-exec</a>]: CURLOPT_INFILE resource has gone away, resetting to default in /home/xetnghiemadn/public_html/wp-content/plugins/backup-database/lib/Dropbox/dropbox.php on line 374
+[06-Sep-2016 12:47:58 UTC] WP_Query Object
+(
+    [query_vars] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+            [error] => 
+            [m] => 
+            [p] => 0
+            [post_parent] => 
+            [subpost] => 
+            [subpost_id] => 
+            [attachment] => 
+            [attachment_id] => 0
+            [name] => 
+            [static] => 
+            [pagename] => 
+            [page_id] => 0
+            [second] => 
+            [minute] => 
+            [hour] => 
+            [day] => 0
+            [monthnum] => 0
+            [year] => 0
+            [w] => 0
+            [category_name] => 
+            [tag] => 
+            [cat] => 
+            [tag_id] => 
+            [author] => 
+            [author_name] => 
+            [feed] => 
+            [tb] => 
+            [paged] => 0
+            [meta_key] => 
+            [meta_value] => 
+            [preview] => 
+            [s] => 
+            [sentence] => 
+            [title] => 
+            [fields] => 
+            [menu_order] => 
+            [embed] => 
+            [category__in] => Array
+                (
+                )
+
+            [category__not_in] => Array
+                (
+                )
+
+            [category__and] => Array
+                (
+                )
+
+            [post__in] => Array
+                (
+                )
+
+            [post__not_in] => Array
+                (
+                )
+
+            [post_name__in] => Array
+                (
+                )
+
+            [tag__in] => Array
+                (
+                )
+
+            [tag__not_in] => Array
+                (
+                )
+
+            [tag__and] => Array
+                (
+                )
+
+            [tag_slug__in] => Array
+                (
+                )
+
+            [tag_slug__and] => Array
+                (
+                )
+
+            [post_parent__in] => Array
+                (
+                )
+
+            [post_parent__not_in] => Array
+                (
+                )
+
+            [author__in] => Array
+                (
+                )
+
+            [author__not_in] => Array
+                (
+                )
+
+            [ignore_sticky_posts] => 
+            [suppress_filters] => 
+            [cache_results] => 1
+            [update_post_term_cache] => 1
+            [lazy_load_term_meta] => 1
+            [update_post_meta_cache] => 1
+            [nopaging] => 
+            [comments_per_page] => 50
+            [no_found_rows] => 
+            [order] => DESC
+        )
+
+    [tax_query] => WP_Tax_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => AND
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [queried_terms] => Array
+                (
+                )
+
+            [primary_table] => drrt7_posts
+            [primary_id_column] => ID
+        )
+
+    [meta_query] => WP_Meta_Query Object
+        (
+            [queries] => Array
+                (
+                )
+
+            [relation] => 
+            [meta_table] => 
+            [meta_id_column] => 
+            [primary_table] => 
+            [primary_id_column] => 
+            [table_aliases:protected] => Array
+                (
+                )
+
+            [clauses:protected] => Array
+                (
+                )
+
+            [has_or_relation:protected] => 
+        )
+
+    [date_query] => 
+    [post_count] => 3
+    [current_post] => -1
+    [in_the_loop] => 
+    [comment_count] => 0
+    [current_comment] => -1
+    [found_posts] => 3
+    [max_num_pages] => 1
+    [max_num_comment_pages] => 0
+    [is_single] => 
+    [is_preview] => 
+    [is_page] => 
+    [is_archive] => 
+    [is_date] => 
+    [is_year] => 
+    [is_month] => 
+    [is_day] => 
+    [is_time] => 
+    [is_author] => 
+    [is_category] => 
+    [is_tag] => 
+    [is_tax] => 
+    [is_search] => 
+    [is_feed] => 
+    [is_comment_feed] => 
+    [is_trackback] => 
+    [is_home] => 
+    [is_404] => 
+    [is_embed] => 
+    [is_paged] => 
+    [is_admin] => 1
+    [is_attachment] => 
+    [is_singular] => 
+    [is_robots] => 
+    [is_posts_page] => 
+    [is_post_type_archive] => 
+    [query_vars_hash:WP_Query:private] => f15ae630935f4b4ed97fd3709a474281
+    [query_vars_changed:WP_Query:private] => 
+    [thumbnails_cached] => 
+    [stopwords:WP_Query:private] => 
+    [compat_fields:WP_Query:private] => Array
+        (
+            [0] => query_vars_hash
+            [1] => query_vars_changed
+        )
+
+    [compat_methods:WP_Query:private] => Array
+        (
+            [0] => init_query_flags
+            [1] => parse_tax_query
+        )
+
+    [query] => Array
+        (
+            [posts_per_page] => 10
+            [post_type] => backup-database
+            [offset] => 0
+            [current] => 1
+            [show_all] => 
+            [end_size] => 1
+            [mid_size] => 2
+            [prev_next] => 1
+            [prev_text] => « Previous
+            [next_text] => Next »
+            [type] => plain
+            [add_args] => 
+        )
+
+    [request] => SELECT SQL_CALC_FOUND_ROWS  drrt7_posts.ID FROM drrt7_posts  WHERE 1=1  AND drrt7_posts.post_type = 'backup-database' AND (drrt7_posts.post_status = 'publish' OR drrt7_posts.post_status = 'future' OR drrt7_posts.post_status = 'draft' OR drrt7_posts.post_status = 'pending' OR drrt7_posts.post_author = 1 AND drrt7_posts.post_status = 'private')  ORDER BY drrt7_posts.post_date DESC LIMIT 0, 10
+    [posts] => Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1052
+                    [post_author] => 1
+                    [post_date] => 2016-09-06 12:47:37
+                    [post_date_gmt] => 2016-09-06 12:47:37
+                    [post_content] => WP Backupware - Sep-06-2016-124737-bak
+                    [post_title] => backup-database - Sep-06-2016-124737-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => closed
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => backup-database-sep-06-2016-124737-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-06 12:47:37
+                    [post_modified_gmt] => 2016-09-06 12:47:37
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-06-2016-124737-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+            [1] => WP_Post Object
+                (
+                    [ID] => 1031
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:15:36
+                    [post_date_gmt] => 2016-09-05 10:15:36
+                    [post_content] => WP Backupware - Sep-05-2016-101536-bak
+                    [post_title] => backup-database - Sep-05-2016-101536-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101536-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:15:36
+                    [post_modified_gmt] => 2016-09-05 10:15:36
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101536-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+            [2] => WP_Post Object
+                (
+                    [ID] => 1030
+                    [post_author] => 1
+                    [post_date] => 2016-09-05 10:14:11
+                    [post_date_gmt] => 2016-09-05 10:14:11
+                    [post_content] => WP Backupware - Sep-05-2016-101411-bak
+                    [post_title] => backup-database - Sep-05-2016-101411-bak
+                    [post_excerpt] => 
+                    [post_status] => private
+                    [comment_status] => open
+                    [ping_status] => open
+                    [post_password] => 
+                    [post_name] => backup-database-sep-05-2016-101411-bak
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2016-09-05 10:14:11
+                    [post_modified_gmt] => 2016-09-05 10:14:11
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://xetnghiemadn.net/backup-database-sep-05-2016-101411-bak/
+                    [menu_order] => 0
+                    [post_type] => backup-database
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+    [post] => WP_Post Object
+        (
+            [ID] => 1052
+            [post_author] => 1
+            [post_date] => 2016-09-06 12:47:37
+            [post_date_gmt] => 2016-09-06 12:47:37
+            [post_content] => WP Backupware - Sep-06-2016-124737-bak
+            [post_title] => backup-database - Sep-06-2016-124737-bak
+            [post_excerpt] => 
+            [post_status] => private
+            [comment_status] => closed
+            [ping_status] => closed
+            [post_password] => 
+            [post_name] => backup-database-sep-06-2016-124737-bak
+            [to_ping] => 
+            [pinged] => 
+            [post_modified] => 2016-09-06 12:47:37
+            [post_modified_gmt] => 2016-09-06 12:47:37
+            [post_content_filtered] => 
+            [post_parent] => 0
+            [guid] => http://xetnghiemadn.net/backup-database-sep-06-2016-124737-bak/
+            [menu_order] => 0
+            [post_type] => backup-database
+            [post_mime_type] => 
+            [comment_count] => 0
+            [filter] => raw
+        )
+
+)
+

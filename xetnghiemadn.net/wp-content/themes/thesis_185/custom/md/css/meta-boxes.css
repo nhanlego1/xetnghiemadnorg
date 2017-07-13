@@ -1,0 +1,48 @@
+label[for=lead_feature_box-hide],
+label[for=standard_lead-hide],
+label[for=column_lead-hide],
+label[for=full_lead-hide],
+label[for=table_lead-hide],
+label[for=orb_lead-hide] {
+	display: none
+}
+
+h4.kol-heading {
+	color: #222;
+	font-size: 16px;
+	margin-bottom: 3px
+}
+
+.kol-divider {
+	border-bottom: 1px dashed #ccc;
+	color: #888;
+	padding-bottom: 10px
+}
+
+.kol-th-width {
+	width: 20%
+}
+
+.kol-radio-button {
+	display: block;
+	margin: 5px 0
+}
+
+#lead_feature_box td,
+#standard_lead td,
+#column_lead td,
+#full_lead td,
+#table_lead td,
+#orb_lead td {
+	color: #888
+}
+
+#lead_feature_box label,
+#standard_lead label,
+#column_lead label,
+#full_lead label,
+#table_lead label,
+#orb_lead label,
+#md_share_buttons label {
+	font-weight: bold
+}

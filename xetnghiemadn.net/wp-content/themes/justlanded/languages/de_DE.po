@@ -1,0 +1,789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JustLanded for WordPress v1.5.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-28 20:33:16+0000\n"
+"Last-Translator: Marcus <support@shapingrain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:3
+#@ justlanded
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: 404.php:8
+#@ justlanded
+msgid "Nothing found for the requested page. Try a search instead?"
+msgstr "Für die angefragte Seite wurde nichts gefunden. Stattdessen die Suche probieren?"
+
+#: admin/classes/class.options_machine.php:891
+#@ optionsframework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/frontend/options.php:59
+#: admin/frontend/options.php:77
+#@ optionsframework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/frontend/options.php:79
+#@ optionsframework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.interface.php:70
+#@ justlanded
+msgid "caption"
+msgstr "Titel"
+
+#: admin/functions/functions.mediauploader.php:19
+#@ optionsframework
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:209
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:209
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/help/help-overview.php:6
+#@ justlanded
+msgid "Overview"
+msgstr "Übersicht"
+
+#: admin/help/help-overview.php:12
+#@ justlanded
+msgid "... a landing page that simply works."
+msgstr "...eine Landingpage, die einfach funktioniert."
+
+#: admin/help/help-overview.php:15
+#@ justlanded
+msgid "JustLanded is more than a WordPress theme. It comes with a fully-featured landing page builder. Using that powerful tool you can set up a fully working landing page within minutes, without shortcodes or programming. It's that easy!"
+msgstr "JustLanded ist mehr als nur ein WordPress-Theme. Es kommt mit einem kompletten Landing Page-Builder. Mit diesem Werkzeug kannst Du ganz einfach eine voll funktionierende Website aufsetzen, ohne Shortcodes oder Programmierung, easy!"
+
+#: admin/functions/functions.admin.php:132
+#: admin/help/help-profiles.php:6
+#@ justlanded
+msgid "Profiles"
+msgstr "Profile"
+
+#: admin/help/help-profiles.php:14
+#@ justlanded
+msgid "Profiles enable you to create multiple landing pages, or instances of all your settings. To edit another profile, use the profile select box."
+msgstr "Mit Profilen kannst Du mehrere Landing Pages erstellen, oder Instanzen Deiner Einstellungen speichern. Um ein anderes Profil zu editieren, wähle ein anderes Profil mit der Auswahlbox."
+
+#: admin/help/help-profiles.php:15
+#@ justlanded
+msgid "In order to apply a profile to a page or landing page, edit the page in question and use the \"Select a settings profile\" meta box to select a profile."
+msgstr "Um ein Profil zu einer Landing Page hinzuzufügen, editiere die fragliche Landing Page und wähle in der \"Select a settings profile\" Metabox das gewünschte Profil."
+
+#: admin/help/help-profiles.php:16
+#@ justlanded
+msgid "By default, Profile 1 is the default profile, used whenever no profile is associated with a page or landing page, and for the entire blog. You can change this setting by using the Home &#9654; Profiles tab."
+msgstr "Standardmäßig wird Profil 1 verwendet, wenn nicht ein anderes Profil explizit ausgewählt wurde für die anzuzeigende Landing Page, und für das gesamte Blog. Du kannst diese Einstellung über das Home &#9654; Profiles Tab ändern."
+
+#: admin/help/help-profiles.php:17
+#@ justlanded
+msgid "You can copy options between profiles using the export and import features."
+msgstr "Du kannst Optionen zwischen den Profilen durch Verwendung der Import- und Export-Features hin- und herkopieren."
+
+#: admin/index.php:63
+#@ optionsframework
+msgid "More Help:"
+msgstr ""
+
+#: admin/index.php:65
+#@ justlanded
+msgid "Support Home"
+msgstr "Support-Hauptseite"
+
+#: admin/index.php:145
+#@ optionsframework
+msgid "JustLanded Options"
+msgstr ""
+
+#: admin/index.php:163
+#@ optionsframework
+msgid "ShapingRain.com"
+msgstr ""
+
+#: admin/index.php:170
+#@ optionsframework
+msgid "Support"
+msgstr ""
+
+#: archive.php:5
+#, php-format
+#@ justlanded
+msgid "Daily Archives: %s"
+msgstr "Tägliche Archive: %s"
+
+#: archive.php:7
+#, php-format
+#@ justlanded
+msgid "Monthly Archives: %s"
+msgstr "Monatliche Archive: %s"
+
+#: archive.php:9
+#, php-format
+#@ justlanded
+msgid "Yearly Archives: %s"
+msgstr "Jährliche Archive: %s"
+
+#: archive.php:11
+#@ justlanded
+msgid "Blog Archives"
+msgstr "Blog-Archive"
+
+#: attachment.php:5
+#, php-format
+#@ justlanded
+msgid "Return to %s"
+msgstr "Zurückkehren zu %s"
+
+#: attachment.php:11
+#, php-format
+#@ justlanded
+msgid " %s Previous"
+msgstr "%s Vorherige"
+
+#: attachment.php:12
+#, php-format
+#@ justlanded
+msgid "Next %s"
+msgstr "Nächste %s"
+
+#: attachment.php:29
+#: entry-footer-single.php:9
+#: entry-footer.php:5
+#: entry-meta.php:12
+#: functions.php:1255
+#: functions.php:1291
+#: page-sidebar-left.php:45
+#: page-sidebar.php:44
+#: page-with-banner.php:31
+#: page.php:39
+#@ justlanded
+msgid "Edit"
+msgstr "Editieren"
+
+#: author.php:4
+#, php-format
+#@ justlanded
+msgid "Author Archives: %s"
+msgstr "Autoren-Archive: %s"
+
+#: blocks/block_cta_buttons_plain.php:9
+#@ justlanded
+msgid "or"
+msgstr "o."
+
+#: comments.php:7
+#@ justlanded
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Post ist passwortgeschützt. Gebe das Passwort ein, um Kommentare anzuzeigen."
+
+#: comments.php:22
+#@ justlanded
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:22
+#: comments.php:43
+#@ justlanded
+msgid "One"
+msgstr "Ein"
+
+#: comments.php:22
+#@ justlanded
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:43
+#@ justlanded
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:43
+#@ justlanded
+msgid "Trackback"
+msgstr "Trackback"
+
+#: entry-content.php:3
+#: entry-summary.php:4
+#: page-sidebar-left.php:44
+#: page-sidebar.php:43
+#: page-with-banner.php:30
+#: page.php:38
+#@ justlanded
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: entry-footer-single.php:4
+#, php-format
+#@ justlanded
+msgid "This article was posted in %1$s%2$s."
+msgstr "Dieser Artikel wurde veröffentlicht in %1$s%2$s."
+
+#: entry-footer-single.php:6
+#@ justlanded
+msgid " and tagged "
+msgstr " und getaggt mit "
+
+#: entry-footer.php:3
+#: entry.php:4
+#: entry.php:18
+#, php-format
+#@ justlanded
+msgid "Read %s"
+msgstr "Lies %s"
+
+#: entry-footer.php:3
+#@ justlanded
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: entry-meta.php:4
+#@ justlanded
+msgid "By"
+msgstr "Von"
+
+#: entry-meta.php:4
+#, php-format
+#@ justlanded
+msgid "View all articles by %s"
+msgstr "Zeige alle Artikel von %s"
+
+#: entry-meta.php:10
+#@ justlanded
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: entry-meta.php:10
+#@ justlanded
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: entry-meta.php:10
+#@ justlanded
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: entry-summary.php:2
+#, php-format
+#@ justlanded
+msgid "continue reading %s"
+msgstr "Lies weiter %s"
+
+#: footer.php:45
+#, php-format
+#@ justlanded
+msgid "%1$s %2$s %3$s. All Rights Reserved."
+msgstr "%1$s %2$s %3$s. Alle Rechte vorbehalten."
+
+#: functions.php:759
+#@ justlanded
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:760
+#@ justlanded
+msgid "Footer Menu"
+msgstr "Fußzeilen-Menü"
+
+#: functions.php:891
+#, php-format
+#@ justlanded
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:1000
+#@ justlanded
+msgid "Sidebar Widget Area"
+msgstr "Sidebar-Widget-Bereich"
+
+#: functions.php:1009
+#@ justlanded
+msgid "Landing Page Full Width Widget 1"
+msgstr "Landing Page Ganze Breite Widget 1"
+
+#: functions.php:1018
+#@ justlanded
+msgid "Landing Page Full Width Widget 2"
+msgstr "Landing Page Ganze Breite Widget 2"
+
+#: functions.php:1027
+#@ justlanded
+msgid "Landing Page Widgets Row 1"
+msgstr "Landing Page Widget-Zeile 1"
+
+#: functions.php:1034
+#@ justlanded
+msgid "Landing Page Widgets Row 2"
+msgstr "Landing Page Widget-Zeile 2"
+
+#: functions.php:1041
+#@ justlanded
+msgid "Landing Page Posts Sidebar"
+msgstr "Landing Page Posts-Sidebar"
+
+#: functions.php:1051
+#@ justlanded
+msgid "Footer Widgets"
+msgstr "Fußzeilen-Widgets"
+
+#: functions.php:1058
+#@ justlanded
+msgid "Page "
+msgstr "Seite"
+
+#: functions.php:1253
+#, php-format
+#@ justlanded
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:1259
+#@ justlanded
+msgid "Reply"
+msgstr "Antworten"
+
+#: functions.php:1260
+#@ justlanded
+msgid "Login to reply."
+msgstr "Einloggen zum Antworten."
+
+#: functions.php:1270
+#@ justlanded
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Moderation."
+
+#: functions.php:1287
+#, php-format
+#@ justlanded
+msgid "By %1$s on %2$s at %3$s"
+msgstr "Von %1$s am %2$s um %3$s"
+
+#: functions.php:1294
+#@ justlanded
+msgid "Your trackback is awaiting moderation."
+msgstr "Dein Trackback erwartet Moderation."
+
+#: nav-above.php:3
+#: nav-below.php:3
+#, php-format
+#@ justlanded
+msgid "older articles %s"
+msgstr "ältere Artikel %s"
+
+#: nav-above.php:4
+#: nav-below.php:4
+#, php-format
+#@ justlanded
+msgid "%s newer articles"
+msgstr "%s neuere Artikel"
+
+#: search.php:3
+#, php-format
+#@ justlanded
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:13
+#@ justlanded
+msgid "Sorry, nothing matched your search. Please try again."
+msgstr "Sorry, nichts passt zu Deiner Suche. Bitte versuche es noch einmal."
+
+#: tag.php:5
+#@ justlanded
+msgid "Tag Archives:"
+msgstr "Tag-Archive:"
+
+#: widgets/widget-newsletter.php:31
+#@ justlanded
+msgid "Newsletter sign-up form."
+msgstr "Newsletter Eintrags-Formular"
+
+#: widgets/widget-newsletter.php:37
+#@ justlanded
+msgid "JustLanded - Sign-Up Form Widget"
+msgstr "JustLanded - Eintragsformular-Widget"
+
+#: widgets/widget-newsletter.php:76
+#: widgets/widget-recent-comments.php:100
+#: widgets/widget-recent-posts.php:106
+#: widgets/widget-testimonials-slider.php:95
+#: widgets/widget-testimonials.php:89
+#@ justlanded
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/widget-recent-comments.php:31
+#@ justlanded
+msgid "The most recent comments on your site, with avatars."
+msgstr "Die neuesten Kommentare auf Deiner Seite, mit Avataren."
+
+#: widgets/widget-recent-comments.php:37
+#@ justlanded
+msgid "JustLanded - Recent Comments Widget"
+msgstr "JustLanded - Letzte Kommentare Widget"
+
+#: widgets/widget-recent-comments.php:105
+#@ justlanded
+msgid "Amount of comments to show:"
+msgstr "Anzahl der anzuzeigenden Kommentare:"
+
+#: widgets/widget-recent-posts.php:31
+#@ justlanded
+msgid "The most recent posts on your site, with post thumbnails."
+msgstr "Die letzten Posts auf Deiner Seite, mit Post-Thumbnails"
+
+#: widgets/widget-recent-posts.php:37
+#@ justlanded
+msgid "JustLanded - Recent Posts Widget"
+msgstr "JustLanded - Letzte Posts Widget"
+
+#: widgets/widget-recent-posts.php:111
+#@ justlanded
+msgid "Amount of posts to show:"
+msgstr "Anzahl der anzuzeigenden Posts:"
+
+#: widgets/widget-testimonials-slider.php:30
+#@ justlanded
+msgid "Rotating testimonials from the testimonials landing page block."
+msgstr "Rotierende Empfehlungen vom Empfehlungen-Block der Landing Page"
+
+#: widgets/widget-testimonials-slider.php:36
+#@ justlanded
+msgid "JustLanded - Testimonials Slider Widget"
+msgstr "JustLanded - Empfehlungen-Slider-Widget"
+
+#: widgets/widget-testimonials-slider.php:98
+#: widgets/widget-testimonials.php:94
+#@ justlanded
+msgid "Amount of testimonials to show:"
+msgstr "Anzahl der anzuzeigenden Empfehlungen:"
+
+#: widgets/widget-testimonials.php:31
+#@ justlanded
+msgid "Testimonials from the testimonials landing page block."
+msgstr "Empfehlungen des Empfehlungen-Landing Page-Blocks"
+
+#: widgets/widget-testimonials.php:37
+#@ justlanded
+msgid "JustLanded - Testimonials Widget"
+msgstr "JustLanded - Empfehlungen-Widget"
+
+#: admin/functions/functions.admin.php:42
+#: admin/functions/functions.admin.php:48
+#: admin/functions/functions.admin.php:53
+#@ justlanded
+msgid "Welcome to JustLanded for WordPress"
+msgstr ""
+
+#: admin/functions/functions.admin.php:70
+#: admin/functions/functions.admin.php:149
+#@ justlanded
+#@ default
+msgid "Updates"
+msgstr ""
+
+#: admin/functions/functions.admin.php:67
+#@ justlanded
+msgid "Features"
+msgstr ""
+
+#: admin/functions/functions.admin.php:61
+#: admin/functions/functions.admin.php:79
+#@ justlanded
+msgid "Documentation"
+msgstr ""
+
+#: admin/functions/functions.admin.php:64
+#: admin/functions/functions.admin.php:103
+#@ justlanded
+msgid "Customer Support"
+msgstr ""
+
+#: admin/functions/functions.admin.php:126
+#@ default
+msgid "Powerful Features"
+msgstr ""
+
+#: admin/functions/functions.admin.php:129
+#@ justlanded
+msgid "Landing Pages"
+msgstr ""
+
+#: admin/functions/functions.admin.php:130
+#@ justlanded
+msgid "While JustLanded is a regular WordPress theme that comes with the usual features to run a blog on, it also comes with a powerful set of building blocks to help you build landing pages with ease."
+msgstr ""
+
+#: admin/functions/functions.admin.php:133
+#@ justlanded
+msgid "JustLanded has a unique feature that enables you to create multiple landing pages on one installation of WordPress. Each page can have its unique header and footer, colors, fonts etc., even its own scripts and Custom CSS code."
+msgstr ""
+
+#: admin/functions/functions.admin.php:134
+#@ justlanded
+msgid "Learn more about this unique feature in our <em>Quick Guide: Multiple Landing Pages Using Settings Profiles</em> that ships in the 'Documentation' folder."
+msgstr ""
+
+#: admin/functions/functions.admin.php:136
+#@ justlanded
+msgid "Plug-ins"
+msgstr ""
+
+#: admin/functions/functions.admin.php:137
+#@ justlanded
+msgid "Some features aren't for everyone, so we turned these into plugins. One of these free plug-ins that ship with the theme enables integration with the popular WooCommerce shopping cart solution."
+msgstr ""
+
+#: admin/functions/functions.admin.php:138
+#@ justlanded
+msgid "You can find all free plug-ins that ship with the theme in the 'Plug-Ins' folder."
+msgstr ""
+
+#: admin/functions/functions.admin.php:140
+#@ justlanded
+msgid "Free Lifetime Updates"
+msgstr ""
+
+#: admin/functions/functions.admin.php:141
+#@ justlanded
+msgid "With your purchase of JustLanded for WordPress you have access to free updates. The theme supports automatic updates* if you <a href=\"https://ssl.shapingrain.com/register\" target=\"_blank\">register a free account</a> with us and enter a ShapingRain.com license key. Alternatively you can update the theme manually by downloading the latest package from themeforest."
+msgstr ""
+
+#: admin/functions/functions.admin.php:142
+#@ justlanded
+msgid "<small>* SSL downloads must be enabled on your web server in order to retrieve automatic updates.</small>"
+msgstr ""
+
+#: admin/functions/functions.admin.php:82
+#@ justlanded
+msgid "Read the user manual and discover the whole potential"
+msgstr ""
+
+#: admin/functions/functions.admin.php:83
+#@ justlanded
+msgid "JustLanded for WordPress comes with a fully-illustrated user manual. It is contained in the \"Documentation\" folder of the main file you can download from themeforest. The same folder also contains additional tutorials, quick guides and the manuals for all plug-ins we ship with the theme."
+msgstr ""
+
+#: admin/functions/functions.admin.php:84
+#@ justlanded
+msgid "Please remember that the \"Main File\" is not identical with the installable theme file, so you will have to download that file separately from themeforest. So please head over to <a href=\" http://themeforest.net/downloads\" target=\"_blank\">themeforest's Downloads page</a> and click on the \"Download\" drop-down button to retrieve the \"Main File\"."
+msgstr ""
+
+#: admin/functions/functions.admin.php:89
+#@ justlanded
+msgid "First Steps"
+msgstr ""
+
+#: admin/functions/functions.admin.php:90
+#@ justlanded
+msgid "Even if you do not like user manuals, we recommend that you read the <em>First Steps</em> chapter at the very least, as JustLanded has some very unique features."
+msgstr ""
+
+#: admin/functions/functions.admin.php:93
+#@ justlanded
+msgid "Quick Start Guide"
+msgstr ""
+
+#: admin/functions/functions.admin.php:94
+#@ justlanded
+msgid "For experienced users, the <em>Quick Start Guide</em> provides brief instructions on how to install and update the theme, and how to install demo data."
+msgstr ""
+
+#: admin/functions/functions.admin.php:106
+#@ justlanded
+msgid "Free E-Mail Support"
+msgstr ""
+
+#: admin/functions/functions.admin.php:107
+#@ justlanded
+msgid "We exclusively provide customer support via e-mail, 7 days a week. Whenever you encounter an issue while working with the theme, please drop us a quick email to <a href=\"mailto:support@shapingrain.com\">support@shapingrain.com</a>, explain your problem and we are happy to help."
+msgstr ""
+
+#: admin/functions/functions.admin.php:108
+#@ justlanded
+msgid "Please note that we <em>do not</em> provide any customer support through the comments section on themeforest to ensure a consistent support experience."
+msgstr ""
+
+#: admin/functions/functions.admin.php:111
+#@ justlanded
+msgid "Support Policy"
+msgstr ""
+
+#: admin/functions/functions.admin.php:112
+#@ justlanded
+msgid "We strive to offer the best customer support possible, at all times. Our support policy is published as part of the user manual and online. If you are unsure whether a particular issue is covered by our free customer support service, please review the <a href=\"http://themeforest.net/item/justlanded-wordpress-landing-page/3804089/support\" target=\"_blank\"> support policy</a>."
+msgstr ""
+
+#: admin/functions/functions.admin.php:117
+#@ justlanded
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: admin/functions/functions.admin.php:118
+#@ justlanded
+msgid "Some of the most common questions and answers are published on our <a href=\"http://themeforest.net/item/justlanded-wordpress-landing-page/3804089/support\" target=\"_blank\"> support page</a>."
+msgstr ""
+
+#: admin/functions/functions.admin.php:170
+#@ default
+msgid "Return to Updates"
+msgstr ""
+
+#: admin/functions/functions.admin.php:170
+#@ default
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: admin/functions/functions.admin.php:174
+#@ default
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: admin/functions/functions.admin.php:174
+#@ default
+msgid "Go to Dashboard"
+msgstr ""
+
+#: admin/index.php:139
+#@ optionsframework
+msgid "Theme Options"
+msgstr ""
+
+#: admin/index.php:155
+#@ optionsframework
+msgid "About JustLanded"
+msgstr ""
+
+#: admin/index.php:277
+#@ justlanded
+msgid "An error has occurred while trying to retrieve update information for JustLanded for WordPress. Please contact support@shapingrain.com if this problem reoccurs."
+msgstr ""
+
+#: admin/index.php:289
+#@ justlanded
+msgid "An error has occured while trying to retrieve update information for JustLanded for WordPress. Please check the validity of your license key (or remove the license key if you do not have one) and contact support@shapingrain.com if this problem persists"
+msgstr ""
+
+#: functions.php:761
+#@ justlanded
+msgid "Custom Menu 1"
+msgstr ""
+
+#: functions.php:762
+#@ justlanded
+msgid "Custom Menu 2"
+msgstr ""
+
+#. translators: 1: separator, 2: search phrase
+#: functions.php:846
+#, php-format
+#@ default
+msgid "Search Results %1$s %2$s"
+msgstr ""
+
+#: functions.php:851
+#@ default
+msgid "Page not found"
+msgstr ""
+
+#: admin/functions/functions.admin.php:55
+#, php-format
+#@ justlanded
+msgid "Thank you for using JustLanded for WordPress %s."
+msgstr ""
+
+#: comments.php:54
+#@ justlanded
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:909
+#@ justlanded
+msgid "Leave a Reply"
+msgstr "Kommentar verfassen"
+
+#: functions.php:910
+#, php-format
+#@ justlanded
+msgid "Leave a Reply to %s"
+msgstr "Kommentar zu %s hinterlassen"
+
+#: functions.php:911
+#@ justlanded
+msgid "Cancel Reply"
+msgstr "Abbrechen"
+
+#: functions.php:912
+#@ justlanded
+msgid "Post Comment"
+msgstr "Kommentar hinterlassen"
+
+#: functions.php:915
+#@ justlanded
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: functions.php:920
+#, php-format
+#@ justlanded
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du musst <a href=\"%s\">eingeloggt sein</a>, um einen Kommentar zu hinterlassen."
+
+#: functions.php:926
+#, php-format
+#@ justlanded
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Eingeloggt als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Abmelden\">Ausloggen?</a>"
+
+#: functions.php:935
+#@ justlanded
+msgid "Your email address will not be published."
+msgstr "Deine Email-Adresse wird nicht veröffentlicht."
+
+#: functions.php:942
+#@ justlanded
+msgid "Name"
+msgstr ""
+
+#: functions.php:947
+#@ justlanded
+msgid "Email"
+msgstr ""
+
+#: functions.php:952
+#@ justlanded
+msgid "Website"
+msgstr ""
+
+#: searchform.php:3
+#@ justlanded
+msgid "Enter Search Term..."
+msgstr "Suchbegriff eingeben..."
+

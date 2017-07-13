@@ -1,0 +1,3 @@
+[19-Jun-2015 15:37:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[19-Jun-2015 15:37:11 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/xetnghiemadn/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 289
+[19-Jun-2015 15:37:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3

@@ -1,0 +1,1 @@
+[02-Mar-2015 05:14:29 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home6/tuyenbe/public_html/xetnghiemadn.org/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

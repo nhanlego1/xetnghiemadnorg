@@ -1,0 +1,1082 @@
+/* See http://code.google.com/p/minify/wiki/CommonProblems#@imports_can_appear_in_invalid_locations_in_combined_CSS_files */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}body{background:#fff;color:#808080;font:13px 'Open Sans',Arial,Helvetica,sans-serif;line-height:21px}p{font-size:13px;line-height:21px;margin:0px
+0px 25px}ol li,
+ul
+li{font-size:13px;line-height:21px}blockquote,
+blockquote
+p{line-height:21px;font-style:italic}h1,h2,h3,h4,h5,h6{font-weight:700;font-family:'Open Sans',Arial,Helvetica,sans-serif;color:#6a6a75}h1{font-size:30px}h2{font-size:24px}h3{font-size:18px;margin:0px
+0px 15px}h4{font-size:16px}h5{font-size:12px}h6{font-size:10px}em{font-style:italic}strong{font-weight:bold}::-moz-selection{background:#3E96A9;color:#fff;text-shadow:none}::selection{background:#3E96A9;color:#fff;text-shadow:none}a{color:#4c595c;text-decoration:none}a:hover,a:focus{outline:none;color:#f56734;}a:hover,a:active{outline:0}.clearfix:before,.clearfix:after{content:"";display:table}.clearfix:after{clear:both}.clearfix{*zoom:1}code{font-family:"Courier New",Courier,monospace}.display-ie8{display:none}.ie7 .display-ie8,
+.ie9 .display-ie8,
+.ie8 .display-ie8{display:block}.readmore{display:inline-block;height:15px;font-size:13px;line-height:15px;color:#fff;padding:9px
+15px;border:none;cursor:pointer;text-shadow:1px 1px 0px #ae421b;background-color:#f56734;white-space:nowrap;text-decoration:none;text-align:center;background-image:-webkit-gradient(linear, left top, left bottom,from(rgba(255,255,255,.1)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top,rgba(255,255,255,.1),rgba(0,0,0,0));background-image:-moz-linear-gradient(top,rgba(255,255,255,.1),rgba(0,0,0,0));background-image:-ms-linear-gradient(top,rgba(255,255,255,.1),rgba(0,0,0,0));background-image:-o-linear-gradient(top,rgba(255,255,255,.1),rgba(0,0,0,0));background-image:linear-gradient(top,rgba(255,255,255,.1),rgba(0,0,0,0));border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}input.readmore{height:33px;line-height:33px;padding:0px
+15px}.readmore:hover,.readmore:focus,.readmore:active{color:#fff;background-image:-webkit-gradient(linear, left top, left bottom,from(rgba(255,255,255,0)),to(rgba(0,0,0,.1)));background-image:-webkit-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-moz-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-ms-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-o-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1))}textarea,input[type="text"]{padding:8px;font:13px 'Open Sans', Arial, Helvetica, sans-serif;line-height:16px;color:#808080;border:none;background-color:#fff;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:1px 1px 2px #c4c4c4;-moz-box-shadow:1px 1px 2px #c4c4c4;-webbox-shadow:1px 1px 2px #c4c4c4}input[type="text"]{height:16px}.alignleft{float:left;margin:0px
+30px 30px 0px}.img-border{border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.img-border:hover{border-color:#d6d6d6}#content
+img{max-width:100%}strong{font-weight:bold}blockquote{background:#f8f8f8 url(/wp-content/themes/healthpress-theme/images/quote.png) no-repeat 16px 20px;padding:20px
+20px 20px 55px;margin:0px
+0px 25px 0px}blockquote
+p{font-size:16px;font-style:italic;line-height:24px;margin:0px}#content ul,#content
+ol{margin:0px
+0px 20px}#content ul
+li{background:url(/wp-content/themes/healthpress-theme/images/li-bullet.png) no-repeat 5px 18px;border-bottom:1px dashed #d4d4d4;padding:10px
+0px 10px 15px}#content ol
+li{background:none;border-bottom:1px dashed #d4d4d4;padding:10px
+0px 10px 5px;list-style:decimal inside}.colored{color:#f56734}.colored-blue{color:#3e96a9}#content h1,#content h2,#content
+h3{margin-bottom:10px}#content h4,#content h5,#content
+h6{margin-bottom:10px}p.error{padding:10px
+20px 10px 45px;background:#F9E5E6 url(/wp-content/themes/healthpress-theme/images/icon-box-error.png) no-repeat 12px 12px;border:1px
+solid #F7C7C9;border-left-width:2px;color:#B3696C}p.success{padding:10px
+20px 10px 45px;background:#e3ebc6 url(/wp-content/themes/healthpress-theme/images/icon-box-success.png) no-repeat 12px 12px;border:1px
+solid #c2d288;border-left-width:2px;color:#8fa442}p.info{padding:10px
+20px 10px 45px;background:#d8ecf5 url(/wp-content/themes/healthpress-theme/images/icon-box-info.png) no-repeat 12px 12px;border:1px
+solid #9ac9df;border-left-width:2px;color:#528da9}p.notice{padding:10px
+20px 10px 45px;background:#fcf7d9 url(/wp-content/themes/healthpress-theme/images/icon-box-notice.png) no-repeat 12px 12px;border:1px
+solid #f5dc7d;border-left-width:2px;color:#c4a21b}table{width:100%;padding:0;margin:0
+0 20px 0;font-size:11px;border-top-style:solid;border-top-width:1px}table
+caption{padding:0
+0 5px 0;width:auto;font-style:italic;text-align:right}th{font-weight:bold;letter-spacing:1.5px;line-height:1.5em;text-transform:uppercase;text-align:left;padding:6px
+6px 6px 12px;border-style:solid;border-width:1px;border-left:none;border-top:none}td{font-size:12px;padding:6px
+6px 6px 12px;border-style:solid;border-width:1px;border-left:none;border-top:none}tr th:first-child, tr td:first-child{border-left-style:solid;border-left-width:1px}#top
+th.nobg{background:none;border-top:0}.readmore,
+.widget #searchform input[type="submit"],
+.widget #mc_signup #mc_signup_submit,
+#commentform input[type="submit"],
+footer .footer-widget a.readmore,
+footer .footer-widget a.readmore:hover,
+.readmore:hover,
+.widget #searchform input[type="submit"]:hover,
+.widget #mc_signup #mc_signup_submit:hover,
+#commentform input[type="submit"]:hover{font-family:'Open Sans',Arial,Helvetica,sans-serif}#wrapper{}#header{width:980px;min-height:150px;height:auto !important;height:150px;margin:0px
+auto;position:relative}#container{width:980px;margin:0px
+auto}#content{width:645px;float:left;margin:0px
+0px 50px}.home-left-side
+#content{margin-bottom:0px}#content.full-width{width:980px}#sidebar{width:308px;float:right;margin:0px
+0px 50px}.aligncenter{display:block;margin:10px
+auto 0px;clear:both}.alignleft{float:left;margin:10px
+10px 0px 0px}.alignright{float:right;margin:10px
+0px 0px 10px}.wp-caption{background:#fff;border:1px
+solid #EDEDED;max-width:96%;padding:5px;text-align:center}.wp-caption.alignnone{margin:5px
+20px 20px 0}.wp-caption.alignleft{margin:5px
+20px 20px 0}.wp-caption.alignright{margin:5px
+0 20px 20px}.wp-caption
+img{border:0
+none;height:auto;margin:0;max-width:98.5%;padding:0;width:auto}.wp-caption p.wp-caption-text{font-size:11px;line-height:17px;margin:0;padding:0
+4px 5px}.sticky{}.gallery-caption{}.bypostauthor{}.gallery{margin:0
+auto 18px}.gallery .gallery-item{float:left;margin-top:0;text-align:center;width:33%}.gallery-columns-2 .gallery-item{width:50%}.gallery-columns-4 .gallery-item{width:25%}.gallery
+img{box-shadow:0px 0px 4px #999;border:1px
+solid white;padding:8px;background:#f2f2f2}.gallery img:hover{background:white}.gallery-columns-2 .attachment-medium{max-width:92%;height:auto}.gallery-columns-4 .attachment-thumbnail{max-width:84%;height:auto}.gallery .gallery-caption{color:#888;font-size:12px;margin:0
+0 12px}.gallery dl, .gallery
+dt{margin:0}.gallery br+br{display:none}#logo-container{min-height:61px;height:auto !important;height:61px;padding:32px
+0 16px 13px}#logo-container .logo
+img{display:block;margin:0px
+0px 4px}#logo-container .logo-heading{margin:5px
+0px 5px}#logo-container .logo-heading
+a{color:#4aa0b1}#logo-container
+.tagline{font-size:12px;color:#b0b7b9;line-height:14px}.ie7
+#header{z-index:9500}#header .social-nav{position:absolute;top:31px;right:0px;overflow:hidden;width:auto;display:inline-block}#header .social-nav
+li{display:inline-block;vertical-align:middle;width:41px;height:41px;margin-left:9px;border:1px
+solid #dfdfdf;border-radius:22px;-moz-border-radius:22px;-webkit-border-radius:22px}.ie7 #header .social-nav
+li{display:block;float:left}#header .social-nav li
+a{display:inline-block;width:100%;height:41px}#header .social-nav li.facebook
+a{background:url(/wp-content/themes/healthpress-theme/images/fb-icon.png) 16px 13px no-repeat}#header .social-nav li.pin
+a{background:url(/wp-content/themes/healthpress-theme/images/pin-icon.png) 13px 12px no-repeat}#header .social-nav li.youtube
+a{background:url(/wp-content/themes/healthpress-theme/images/yt-icon.png) 12px 11px no-repeat}#header .social-nav li.twitter
+a{background:url(/wp-content/themes/healthpress-theme/images/tw-icon.png) 15px 13px no-repeat}#header .social-nav li.skype
+a{background:url(/wp-content/themes/healthpress-theme/images/skype-icon.png) 13px 13px no-repeat}#header .social-nav li.rss
+a{background:url(/wp-content/themes/healthpress-theme/images/rss-icon.png) 14px 13px no-repeat}#header .social-nav li.flickr
+a{background:url(/wp-content/themes/healthpress-theme/images/flickr-icon.png) 10px 16px no-repeat}#header .social-nav li.google
+a{background:url(/wp-content/themes/healthpress-theme/images/google-icon.png) 15px 12px no-repeat}#header .social-nav li.linkedin
+a{background:url(/wp-content/themes/healthpress-theme/images/linked-in.png) 13px 11px no-repeat}#header .social-nav
+li.phone{width:160px}#header .social-nav li.phone
+span{display:block;padding:0px
+15px 0px 38px;font-size:14px;color:#B0B7B9;line-height:41px;background:url(/wp-content/themes/healthpress-theme/images/ph-icon.png) 14px 9px no-repeat}#header .social-nav li.phone:hover
+span{background:url(/wp-content/themes/healthpress-theme/images/ph-icon.png) 14px -32px no-repeat;color:#f56734}#header .social-nav li.facebook:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/fb-icon.png) 16px -28px no-repeat}#header .social-nav li.pin:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/pin-icon.png) 13px -28px no-repeat}#header .social-nav li.youtube:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/yt-icon.png) 12px -27px no-repeat}#header .social-nav li.twitter:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/tw-icon.png) 15px -28px no-repeat}#header .social-nav li.skype:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/skype-icon.png) 13px -28px no-repeat}#header .social-nav li.rss:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/rss-icon.png) 14px -28px no-repeat}#header .social-nav li.flickr:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/flickr-icon.png) 10px -32px no-repeat}#header .social-nav li.google:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/google-icon.png) 15px -26px no-repeat}#header .social-nav li.linkedin:hover
+a{background:url(/wp-content/themes/healthpress-theme/images/linked-in.png) 13px -29px no-repeat}.main-nav{position:relative;min-height:41px;height:auto !important;height:41px;width:100%;padding:0px
+0px 0px 0px;background-color:#46a1b4;background-clip:padding-box;-moz-background-clip:padding-box;-webkit-background-clip:padding;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0))}.ie7 .main-nav{z-index:9600}.page-template-template-home-with-blog-posts-php #header .main-nav,
+.page-template-template-home-with-sidebar-php #header .main-nav,
+.page-template-template-home-php #header .main-nav{background-clip:padding-box;-moz-background-clip:padding-box;-webkit-background-clip:padding;border-radius:3px 3px 0px 0px;-moz-border-radius:3px 3px 0px 0px;-webkit-border-radius:3px 3px 0px 0px}.main-nav>div{float:left}.main-nav>div>ul{float:left}.ie7 .main-nav>div>ul{z-index:9700}.main-nav>div>ul>li{float:left;border-right:1px solid #54aec2;position:relative}.main-nav>div>ul>li:first-child{border-top-left-radius:3px;-moz-border-radius-topleft:3px;-webkit-border-top-left-radius:3px}.main-nav>div>ul>li:last-child{border:none}.main-nav > div ul li
+a{display:inline-block;padding:0px
+20px;font-size:13px;line-height:41px;text-align:center;color:#fff;text-shadow:1px 1px 0px #20606d}.main-nav > div ul li:hover{background-color:#377f8f;background-clip:padding-box;-moz-background-clip:padding-box}.main-nav > div ul li
+ul{display:none;width:220px;padding:12px
+0px;background-color:#377f8f;position:absolute;top:41px;left:0px;z-index:8899;border-bottom-left-radius:3px;-moz-border-radius-bottomleft:3px;-webkit-border-bottom-left-radius:3px;border-bottom-right-radius:3px;-moz-border-radius-bottomright:3px;-webkit-border-bottom-right-radius:3px}.ie7 .main-nav > div ul li
+ul{z-index:9800}.main-nav > div ul li ul
+li{width:196px;height:auto;padding:0px
+12px;position:relative}.main-nav > div ul li ul li
+a{display:inline-block;line-height:34px;padding:0px
+9px;text-align:left;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px}.main-nav > div ul li ul li:hover{background-color:#2c6774}.main-nav > div ul li ul li
+ul{top:-12px;left:220px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.ie7 .main-nav > div ul li ul li
+ul{z-index:9900}.main-nav .responsive-nav{display:none;width:91%;margin:10px
+auto 0px;padding:5px;border:1px
+solid #CCC}.main-nav
+#topsearch{width:200px;position:absolute;right:11px;top:7px}.main-nav #topsearch
+#tsearch{width:158px;padding:5px
+35px 5px 10px;position:relative;background-color:#377f8f;border:1px
+solid #236779;border-bottom:1px solid #57b4c5;border-right:1px solid #57b4c5;color:#c4e2e9;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;box-shadow:none}.main-nav
+#topsubmit{position:absolute;top:5px;right:5px;width:16px;height:16px;border:none;background:url(/wp-content/themes/healthpress-theme/images/search-icon.png) no-repeat;font-size:0px;cursor:pointer}#slider-wrap{width:980px;height:522px;margin:0px
+auto 40px;position:relative;overflow:hidden}#slider-wrap
+.slides{position:relative;height:445px;overflow:hidden}#slider-wrap .slides
+li{width:100%;height:445px;text-align:center}#slider-wrap .slide-nav{overflow:hidden;background-color:#f15a23;height:77px;width:980px;margin:0px
+auto;border-radius:0px 0px 5px 5px;-moz-border-radius:0px 0px 5px 5px;-webkit-border-radius:0px 0px 5px 5px;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0))}#slider-wrap .slide-nav
+li{width:166px;height:60px;padding:17px
+10px 0px 19px;border-right:1px solid #fd7b4d;float:left;cursor:pointer}#slider-wrap .slide-nav.slides-5
+li{width:166px}#slider-wrap .slide-nav.slides-4
+li{width:215px}#slider-wrap .slide-nav.slides-3
+li{width:296px}#slider-wrap .slide-nav.slides-2
+li{width:460px}#slider-wrap .slide-nav.slides-1
+li{width:950px}#slider-wrap .slide-nav li:hover{background-color:#ec490d}#slider-wrap .slide-nav li:last-child{border:none}#slider-wrap .slide-nav li.flex-active{background-color:#ec490d}#slider-wrap .slide-nav li
+h4{font-size:14px;color:#fff;text-shadow:1px 1px 0px #be4214;margin:0px
+0px 5px}#slider-wrap .slide-nav li
+p{font-size:12px;color:#fad7cb}#hp-rev-slider{margin-bottom:35px}.slogan{margin:0px
+0px 35px;text-align:center}.slogan
+h2{font-size:30px;line-height:41px;font-weight:300;color:#3e96a9;margin:0px
+0px 10px}.smart-head{font-size:30px;line-height:41px;font-weight:300;color:#56adc0;margin:0px}.slogan
+h3{font-size:18px;color:#819093;font-weight:500}.services{overflow:hidden;padding:0px
+0px 35px;border-bottom:1px solid #e6e6e6;margin:0px
+0px 10px}.services
+.service{width:180px;margin:0px
+8px;float:left;text-align:center}.services .service
+h4{margin:0px
+0px 10px}.services .service:hover h4
+a{color:#f56734}.services .service
+figure{width:112px;height:112px;margin:0px
+auto 20px;overflow:hidden;position:relative}.services .service figure
+img{position:absolute;top:0px;left:0px}.services .service:hover figure
+img{bottom:0px;top:auto}.services.item-count-4
+.service{width:225px;margin:0px
+10px}.services.item-count-3
+.service{width:300px;margin:0px
+13px}.services.item-count-2
+.service{width:450px;margin:0px
+20px}.services.item-count-1
+.service{width:980px;margin:0px
+auto}.official{clear:both}.home-left-side{width:672px;float:left;margin-bottom:60px}.official
+.team{width:672px;float:left;margin:0px
+0px 60px}.official .team
+p{margin:0px
+0px 25px}.official .team .doctors
+li{width:194px;float:left;margin:0px
+30px 0px 0px;position:relative}.official .team .doctors li
+h4{color:#586467;margin:0px
+0px 15px}.official .team .doctors li .doc-img{position:relative;width:186px;height:148px;margin:0px
+0px 20px;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.official .team .doctors li .doc-img:hover{border-color:#d6d6d6}.official .team .doctors li .doc-img
+img{display:block;position:relative}.official .team .doctors li .doc-img .doc-type{display:inline-block;position:absolute;right:0px;bottom:0px;padding:5px
+5px;background:rgba(0,0,0,0.5);box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;width:100%;text-align:center;font-size:12px;color:#fff}.official .team .doctors li .doc-img .doc-type a:hover{color:#ddd}.appointment{width:308px;float:right;padding:0px
+0px 12px;margin:0px
+0px 55px;background-color:#e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.appointment
+.header{min-height:99px;height:auto !important;height:99px;padding:10px
+23px 0px;margin:0px
+0px 30px;background-color:#3e96a9;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.2)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.2), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.2), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.2), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.2), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.2), rgba(0,0,0,0))}.appointment .header h2,
+.appointment .header
+h3.number{font-size:24px;line-height:40px;color:#fff;text-shadow:1px 1px 0px #2a6a79;font-weight:normal}.appointment .header
+h3.number{padding:0px
+0px 0px 45px;background:url(/wp-content/themes/healthpress-theme/images/phone-icon.png) left center no-repeat;margin:0px;margin-bottom:-17px;word-wrap:break-word}.appointment .header
+.or{display:block;width:100%;height:35px;background:url(/wp-content/themes/healthpress-theme/images/or-bg.png) center center no-repeat;font-size:14px;color:#fff;text-align:center;line-height:35px;position:relative;top:17px}.appointment #appoint-form{padding:0px
+38px 0px 31px}.appointment #apo-loader{display:none}.appointment #apo-message-sent{display:none}.appointment
+p{margin:0px
+0px 17px}.appointment p input[type="text"]{width:96%}.appointment p
+textarea{width:96%}.appointment p
+#apo_month_input{width:131px;margin-right:10px}.appointment p
+#apo_day_input{width:61px}.appointment p
+#apo_center_input{width:171px}.appointment .error-container
+label{display:block;color:red;font-style:italic}.appointment input.error, .appointment
+textarea.error{border:1px
+solid red}.select-wrap{display:inline-block;position:relative}.selectbox{background:url(/wp-content/themes/healthpress-theme/images/dd-arrow.png) right 13px no-repeat #fff;cursor:pointer}.selectbox-wrapper{padding:5px
+0px;width:120px;position:absolute;top:31px;left:0px;z-index:9999;background-color:#fff;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.selectbox-wrapper
+ul{width:100%}.selectbox-wrapper ul
+li{padding:5px
+13px;height:22px;cursor:pointer}.selectbox-wrapper ul li:hover{background-color:#f1f1f1}.feedback{overflow:hidden;margin:0px
+0px 60px;clear:both}.testi{width:637px;float:left;padding:0px
+35px 0px 0px;margin-bottom:60px}.testi
+.patients{margin:35px
+0px 0px;overflow:hidden}.testi .patients
+li{overflow:hidden}.testi .patients li
+.imgbox{width:77px;height:77px;border:3px
+solid #e6e6e6;float:left;margin:0px
+15px 12px 0px;border-radius:40px;-moz-border-radius:40px;-webkit-border-radius:40px}.testi .patients li .imgbox:hover{border-color:#d6d6d6}.testi .patients
+.detail{}.testi .patients .detail
+blockquote{margin:0px
+0px 15px;background:none;padding:0}.testi .patients .detail blockquote
+p{font-size:16px;line-height:24px}.testi .patients .detail blockquote p
+span{color:#61b3c4}.testi .patients .detail .author
+a{color:#f35f2a}.testi .patient-nav{margin:0px
+0px 0px 95px}.testi .patient-nav
+span{display:inline-block;height:19px;width:19px;margin:0px
+0px 0px 3px;cursor:pointer;background:url(/wp-content/themes/healthpress-theme/images/arrows-gray.png) no-repeat}.testi .patient-nav
+.t_right{background-position:right top}.testi .patient-nav .t_left:hover{background-position:left bottom}.testi .patient-nav .t_right:hover{background-position:right bottom}#sidebar .widget
+.testi{width:auto;float:none;padding:0}#sidebar .widget .testi ul
+li{background:none;padding:0;border:none;list-style:none}#sidebar .widget .testi .patient-nav{margin:0}#testimonials-template .patients
+li{background:none;padding:0;margin:0
+0 20px 0;border:0}#testimonials-template .patients li
+.imgbox{width:77px;height:77px;border:3px
+solid #e6e6e6;float:left;margin:0px
+15px 10px 0px;border-radius:40px;-moz-border-radius:40px;-webkit-border-radius:40px}#testimonials-template .patients li .imgbox:hover{border-color:#d6d6d6}#testimonials-template .patients .detail
+blockquote{margin:0px
+0px 15px;background:none;padding:0}#testimonials-template .patients .detail blockquote
+p{font-size:16px;line-height:24px}#testimonials-template .patients .detail blockquote p
+span{color:#61b3c4}#testimonials-template .patients .detail .author
+a{color:#f35f2a}.newsletter{width:308px}.newsletter
+p{margin:0px
+0px 25px}.newsletter
+#newsletter{padding:20px
+20px 10px;background-color:#e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.newsletter #newsletter
+p{margin:0px
+0px 15px}.newsletter #newsletter input[type="submit"]{margin:0px
+0px 0px 10px;vertical-align:bottom}.newsletter #newsletter .error-container
+label{display:block;color:red;font-style:italic}#wp_email_capture{padding:20px
+20px 10px;background-color:#e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}#wp_email_capture
+label{}#wp_email_capture input[type="text"]{display:block;margin:0}#wp_email_capture input[type="submit"]{padding:5px}.hp_twitter{clear:both;padding:12px
+0px 15px;width:100%;margin:60px
+0px -3px;position:relative;background:url(/wp-content/themes/healthpress-theme/images/twitter-bg.png) repeat-x #4099ac;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.hp_twitter
+p.tweet{background:url(/wp-content/themes/healthpress-theme/images/tweety-bird.png) 15px center no-repeat;padding:12px
+20px 12px 82px;line-height:18px;color:#fff;margin:0px}.hp_twitter p.tweet
+a{color:#fff;text-decoration:underline}.hp_twitter .tweet-nav{position:absolute;right:18px;top:21px;width:48px}.hp_twitter .tweet-nav
+a{display:inline-block;height:19px;width:19px;margin:0px
+0px 0px 3px;background:url(/wp-content/themes/healthpress-theme/images/arrows-blue.png) no-repeat}.hp_twitter .tweet-nav
+.right{background-position:right top}.hp_twitter .tweet-nav .left:hover{background-position:left bottom}.hp_twitter .tweet-nav .right:hover{background-position:right bottom}#twitter_update_list{clear:both;padding:12px
+0px 12px;width:100%;margin:0px
+0px -3px;position:relative;background-color:#4099ac;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.2)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,0.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,0.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,0.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,0.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,0.1), rgba(0,0,0,0))}#twitter_update_list
+li{background:url(/wp-content/themes/healthpress-theme/images/tweety-bird.png) 15px center no-repeat;padding:12px
+20px 12px 82px;line-height:18px;color:#fff;margin:0px}#twitter_update_list li
+a{color:#fff;text-decoration:underline}.page-head{width:910px;padding:30px
+35px 30px;margin:0
+auto 50px;border-bottom:1px solid #ededed}.page-head h2,
+.page-head
+h1{font-size:48px;font-weight:300;text-align:center;color:#819093;line-height:normal}.page-head h2 span,
+.page-head h1
+span{font-weight:800;color:#f56734}.page-head
+h5{font-size:13px;line-height:21px;color:#a9a9a9;font-style:italic;text-align:center;font-weight:normal}.page-head
+.education{text-align:center;margin:5px
+0px}.service-list{}.service-list
+h3{font-weight:700;color:#586467}.service-list h3
+a{color:#586467}.service-list h3 a:hover, .service-list h3 a:focus{color:#f66937}.service-list
+p{margin:0px
+0px 25px}.service-list.single-col
+ul{overflow:hidden;padding-top:35px}.service-list.single-col ul
+li{overflow:hidden;padding:0px
+0px 35px;margin:0px
+0px 35px;border-bottom:1px solid #e6e6e6}.service-list.single-col
+figure{width:424px;height:180px;position:relative;line-height:0px;float:left;overflow:hidden;margin:0px
+30px 30px 0px;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.service-list.single-col figure:hover{border-color:#d6d6d6}.service-list.single-col figure
+img{width:424px;height:180px}.service-list.three-col
+ul{margin:0px
+0px 0px -30px;overflow:hidden}.service-list.three-col ul
+li{width:306px;padding:0px;margin:0px
+0px 35px 30px;float:left}.service-list.three-col ul
+li.clearfix{float:none;clear:both;width:100%;margin:0;padding:0;height:0}.service-list.three-col
+figure{width:298px;height:160px;margin:0px
+0px 20px 0px;line-height:0px;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.service-list.three-col figure:hover{border-color:#d6d6d6}.service-list.three-col figure
+img{width:100%;height:auto}.service-list.four-col
+ul{margin:0px
+0px 0px -30px;overflow:hidden}.service-list.four-col ul
+li{width:222px;padding:0px;margin:0px
+0px 35px 30px;float:left}.service-list.four-col ul
+li.clearfix{float:none;clear:both;width:100%;margin:0;padding:0;height:0}.service-list.four-col
+figure{width:214px;height:auto;line-height:0px;margin:0px
+0px 20px 0px;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.service-list.four-col figure:hover{border-color:#d6d6d6}.service-list.four-col figure
+img{width:100%;height:auto}#container
+.page_featured{margin:0px
+0px 60px;border:5px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}#container .page_featured:hover{border-color:#d6d6d6}#container .page_featured
+img{display:block;width:100%}.doc_list{clear:both}.doc_list{margin:0px
+0px 60px}.doc_list
+.doctors{margin:0px
+0px 0px -30px}.doc_list .doctors
+li{width:474px;float:left;margin:0px
+0px 30px 30px;position:relative}.doc_list .doctors
+li.clearfix{float:none;clear:both;width:100%;margin:0;padding:0;height:0}.doc_list .doctors li
+p{margin-bottom:20px}.doc_list .doctors li
+h4{color:#586467;margin:0px
+0px 15px}.doc_list .doctors li .doc-img{position:relative;width:214px;height:170px;float:left;margin:0px
+20px 20px 0px;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.doc_list .doctors li .doc-img:hover{border-color:#d6d6d6}.doc_list .doctors li .doc-img
+img{display:block;position:relative}.doc_list .doctors li .doc-img .img-hover{display:none;position:absolute;top:0px;left:0px;width:100%;height:100%;background:url(/wp-content/themes/healthpress-theme/images/doc-img-hover.png)}.doc_list .doctors li .doc-img:hover .img-hover{display:block}.doc_list .doctors li .doc-img .doc-type{display:inline-block;position:absolute;right:0px;bottom:0px;padding:5px
+12px;background:url(/wp-content/themes/healthpress-theme/images/doc-figure-caption-bg.png);font-size:12px;color:#fff}.doc-type
+a{color:#fff}.doc-type a:hover,
+.doc-type a:focus,
+.doc-type a:active{color:#ddd}.ie7 .doc_list
+.doctors{margin-bottom:30px}.doc_list.four_col .doctors
+li{width:222px;float:left;margin:0px
+0px 60px 30px;position:relative}.doc_list.four_col .doctors
+li.clearfix{float:none;clear:both;width:100%;margin:0;padding:0;height:0}.doc_list.four_col .doctors li .doc-img{position:relative;width:214px;height:170px;float:none;margin:0px
+0px 20px 0px}.doc_list.four_col .doctors li .doc-img .doc-type{display:inline-block;position:absolute;right:0px;bottom:0px;padding:5px
+12px;background:url(/wp-content/themes/healthpress-theme/images/doc-figure-caption-bg.png);font-size:12px;color:#fff}#sidebar
+.widget{margin:0px
+0px 40px}#sidebar .widget
+h3.title{font-size:26px;font-weight:300;color:#56adc0}#sidebar .widget
+ul{}#sidebar .widget ul
+li{padding:7px
+0px 6px;border-bottom:1px solid #ececec;padding-left:17px;background:url(/wp-content/themes/healthpress-theme/images/arrow.jpg) 1px 15px no-repeat}#sidebar .widget ul li > ul li,
+#sidebar .widget ul li .children
+li{border-bottom:none}#sidebar .selectbox-wrapper ul
+li{padding:5px
+13px;border-bottom:none}.widget
+#searchform{padding:10px;background-color:#e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.widget #searchform .screen-reader-text{display:none}.widget #searchform
+p{margin-bottom:0px}.widget #searchform input[type="submit"]{text-transform:capitalize;margin:0px
+0px 0px 10px;vertical-align:bottom;display:inline-block;font-size:13px;height:33px;line-height:33px;padding:0px
+15px;color:#fff;border:none;cursor:pointer;text-shadow:1px 1px 0px #ae421b;background-color:#f56734;white-space:nowrap;text-decoration:none;text-align:center;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.widget #searchform input[type="submit"]:hover,
+.widget #searchform input[type="submit"]:focus,
+.widget #searchform input[type="submit"]:active{color:#fff;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), to(rgba(0,0,0,.1)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-moz-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-ms-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-o-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1))}.widget
+#mc_signup{}.widget #mc_signup
+#mc_subheader{margin:0
+0 10px}.widget #mc_signup
+#mc_signup_form{padding:5px
+10px;background-color:#e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.widget #mc_signup
+.mergeRow{padding:5px
+10px}.widget #mc_signup
+label{display:block;font-weight:bold;margin:0
+0 5px}.widget #mc_signup .mc_list
+label{display:inline-block;font-weight:normal;margin:0}.widget #mc_signup input[type="text"]{width:87%;margin:0
+0 10px}.widget #mc_signup
+input.mc_input.mc_phone{width:10%}.widget #mc_signup .mc_list
+li{background:none;padding:5px
+0px 5px 10px;border:none}.widget #mc_signup
+#mc_signup_submit{text-transform:capitalize;margin:0px
+0px 5px 0px;vertical-align:bottom;display:inline-block;font-size:13px;color:#fff;border:none;cursor:pointer;height:33px;line-height:33px;padding:0px
+15px;text-shadow:1px 1px 0px #ae421b;background-color:#f56734;white-space:nowrap;text-decoration:none;text-align:center;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.widget #mc_signup #mc_signup_submit:hover,
+.widget #mc_signup #mc_signup_submit:focus,
+.widget #mc_signup #mc_signup_submit:active{color:#fff;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), to(rgba(0,0,0,.1)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-moz-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-ms-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:-o-linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1));background-image:linear-gradient(top, rgba(255,255,255,0), rgba(0,0,0,.1))}.widget #mc_signup
+#mc_display_rewards{display:none}.widget #mc_signup
+#mc_message{padding:5px
+0}.widget #mc_signup
+.mc_signup_submit{text-align:left}.widget #mc_signup #mc-indicates-required{margin:0px
+0px 10px 0px}.widget #mc_signup
+select{position:relative;padding:5px;margin-bottom:15px}.widget #mc_signup
+br{display:none}.widget .sidebar-post{border-bottom:1px solid #ececec;padding:0px
+0px 15px;margin:0px
+0px 15px 10px}.widget .sidebar-post
+img{float:left;margin:3px
+10px 10px 0}.widget .sidebar-post .sidebar-post-text
+a{display:block;font-size:13px;color:#95959c}.widget .sidebar-post .sidebar-post-text a:hover{color:#65656C}.widget .sidebar-post .sidebar-post-text
+.date{font-size:11px;font-style:italic;color:#b8b8c1}#footer-wrap{width:100%;background:#2b2e2f;position:relative;min-width:980px}footer{width:980px;margin:0px
+auto}footer{padding:60px
+0px}footer .footer-widget{width:222px;float:left;margin:0px
+30px 0px 0px}footer .footer-widget:last-child{margin-right:0px}footer .footer-widget
+h3{font-size:24px;font-weight:300;color:#e6e6e6;margin:0px
+0px 30px}footer .footer-widget
+p{margin:0px
+0px 21px}footer .footer-widget a,
+footer .footer-widget
+span{color:#cdcdcd}footer .footer-widget a:hover,
+footer .footer-widget a:focus{color:#48a2b6 }footer .footer-widget ul
+li{line-height:25px;padding:0px
+0px 0px 11px;background:url(/wp-content/themes/healthpress-theme/images/footer-bullit.png) left 12px no-repeat}.footer-widget
+.widget{margin-bottom:40px}.footer-widget .widget .sidebar-post{border-bottom:1px dashed #808080}.footer-widget .widget .sidebar-post .sidebar-post-text
+a{color:#cdcdcd}.footer-widget .widget .sidebar-post .sidebar-post-text a:hover,
+.footer-widget .widget .sidebar-post .sidebar-post-text a:focus,
+.footer-widget .widget .sidebar-post .sidebar-post-text a:active{color:#48a2b6}.footer-widget .widget .sidebar-post .sidebar-post-text
+.date{color:#b8b8c1}.footer-widget .widget
+.testi{width:100% !important;padding:0px;border-bottom:none !important}.footer-widget .widget .testi ul
+li{background:none;padding:0;border:none;list-style:none}.footer-widget .widget .testi .patients,
+.footer-widget .widget .testi .patient-nav{margin:0}#footer-bottom-wrapper{width:100%;background:#1c1e1f;min-width:980px}#footer-bottom{width:980px;margin:0px
+auto;min-height:47px;height:auto !important;height:47px}#footer-bottom
+p{line-height:47px;margin:0px}#footer-bottom p a:hover,
+#footer-bottom p a:focus{color:#fff}#footer-bottom
+.copyrights{float:left}#footer-bottom
+.author{float:right}#map_canvas{border:4px
+#e6e6e6 solid;width:637px;height:250px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;margin:0px
+0px 15px}#map_canvas:hover{border-color:#d6d6d6}#content
+address{color:#a3a3a9;font-size:13px;line-height:21px}.contact-form-container{margin:60px
+0px}#contact-form{}#contact-form input[type=text],
+#contact-form
+textarea{border:1px
+solid #dcdcdc;color:#bcbcbc;font:12px 'Droid Sans', Arial, Helvetica, "Trebuchet MS", sans-serif;outline:none}#contact-form input[type=text].error,
+#contact-form
+textarea.error{border:1px
+solid red}#contact-form input[type=text]:focus,
+#contact-form textarea:focus{color:#adadad}#contact-form input[type=text]{width:250px;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;box-shadow:none;-moz-box-shadow:none;-webbox-shadow:none}#contact-form
+textarea{width:561px;padding:5px;margin-bottom:15px;box-shadow:none}#contact-loader{vertical-align:middle;margin-left:20px;display:none}#message-sent{margin:10px
+0px;color:red;display:none}.form-cell{width:305px;float:left;margin:0px
+0px 20px}.form-cell
+span{color:#d7332c;display:inline-block;margin-left:5px}#contact-form
+.submit{margin-bottom:15px}#contact-form .error-container
+label{display:block;color:red;font-style:italic}.contact-widget{font:13px 'Droid Sans', Arial, Helvetica, "Trebuchet MS", sans-serif;line-height:21px}.contact-widget
+p{margin:20px
+10px;color:#95959c}.contact-widget
+hr{border:none;height:1px;background:#e6e6e6}.contact-widget
+a{color:#95959c}.contact-widget a:hover,.contact-widget a:focus{color:#65656c}.captcha-container{margin:0
+0 20px}.captcha-container
+img{vertical-align:top;margin:0
+5px}#wrapper .captcha-container
+.captcha{width:50px;font-size:14px}.wpcf7-form input[type=text],
+.wpcf7-form
+textarea{border:1px
+solid #dcdcdc;color:#bcbcbc;font:12px 'Droid Sans', Arial, Helvetica, "Trebuchet MS", sans-serif;outline:none;box-shadow:none}.wpcf7-form .wpcf7-submit{padding:5px
+10px}#content
+article.hentry{border-bottom:1px solid #ededed;padding:0
+0 10px;margin:0
+0 35px}.home-left-side #content
+article.hentry{border-bottom:none}.page-template-template-faq-php #content
+article.hentry{border-bottom:none}article.hentry .post-meta{border-bottom:1px solid #ededed;padding:0px
+0px 10px;margin-bottom:10px}article h1.post-title.detail-page{font-size:18px}.post-meta
+span{display:inline-block;padding:0px
+0px 0px 20px;margin:0px
+20px 0px 0px;color:#757f83;font-size:12px}.post-meta span
+a{color:#757f83}.post-meta
+.author{background:url(/wp-content/themes/healthpress-theme/images/author-bg.png) left center no-repeat}.post-meta
+.date{background:url(/wp-content/themes/healthpress-theme/images/date-bg.png) left center no-repeat}.post-meta
+.category{background:url(/wp-content/themes/healthpress-theme/images/cat-bg.png) left center no-repeat}.post-meta
+.tag{background:url(/wp-content/themes/healthpress-theme/images/tag-bg.png) left center no-repeat}article.hentry .post-thumb{position:relative;height:auto;border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;margin:0
+0 15px}article.hentry .post-thumb:hover{border-color:#d6d6d6}.post-thumb
+img{display:block}.post-thumb .comment-count{position:absolute;top:0px;right:0px;background:#7b7b7b;padding:10px}.comment-count
+span{background:url(/wp-content/themes/healthpress-theme/images/comment-bubble.png) left center no-repeat;display:inline-block;padding:0px
+0px 0px 20px;color:#ededed}.comment-count span
+a{color:#ededed}#pagination{text-align:center;margin:0
+0 15px}#pagination
+.current{font-weight:bold;color:#ededed}.pages-nav{font-weight:bold;color:#6A6A75;font-size:14px}.pages-nav
+a{font-weight:normal}.doctor-img{float:left;margin:0px
+30px 0px 0px;width:230px;text-align:center}.doctor-img
+a.twitter{display:inline-block;margin:5px
+5px 5px 0px;width:22px;height:22px;background:url(/wp-content/themes/healthpress-theme/images/doc-twitter.png) no-repeat top left}.doctor-img a.twitter:hover{background:url(/wp-content/themes/healthpress-theme/images/doc-twitter.png) no-repeat bottom left}.doctor-img
+a.facebook{display:inline-block;margin:5px
+5px 5px 0px;width:22px;height:22px;background:url(/wp-content/themes/healthpress-theme/images/doc-facebook.png) no-repeat top left}.doctor-img a.facebook:hover{background:url(/wp-content/themes/healthpress-theme/images/doc-facebook.png) no-repeat bottom left}.doctor-page h5,
+.doctor-page
+h4{margin-bottom:5px}#container
+.columns{margin:0px
+0px 0px -2%;overflow:hidden}#container .columns .one-third{width:31.33%;margin:0px
+0px 0px 2%;float:left}#container .columns .two-third{width:64.66%;margin:0px
+0px 0px 2%;float:left}#container .columns .one-fourth{width:23%;margin:0px
+0px 0px 2%;float:left}#container .columns .three-fourth{width:73%;margin:0px
+0px 0px 2%;float:left}#container .columns .one-half{width:48%;margin:0px
+0px 0px 2%;float:left}#container .columns .single-col{width:98%;margin:0px
+0px 0px 2%}#container #content .tabs-nav{list-style:none;overflow:hidden;width:100%;margin:0px}#container #content .tabs-nav
+li{float:left;line-height:32px;margin:0;overflow:hidden;padding:0;position:relative;border-bottom:none;background:none}#container #content .tabs-nav
+li.active{line-height:31px}#container #content .tabs-nav li
+a{background:#f8f8f8;border:1px
+solid #eaeaea;border-bottom:1px solid #eaeaea;border-left:none;color:#808080;display:block;letter-spacing:0;outline:none;padding:0
+16px;text-decoration:none;text-shadow:0 1px 0 #fff}#container #content .tabs-nav li:first-child
+a{border-left:1px solid #eaeaea}#container #content .tabs-nav li a:hover{background:#f0f0f0}#container #content .tabs-nav li a:hover,
+.tabs-nav li.active
+a{color:#F56734}#container #content .tabs-nav li.active
+a{background:#fff;border-bottom:2px solid #fff;border-top:1px solid #F56734}#container #content .tabs-container{border:1px
+solid #eaeaea;margin:-1px 0 20px;overflow:hidden;width:100%}#container #content .tabs-container .tab-content{padding:10px}#content
+.accordion{margin-bottom:20px}#content .accordion
+h5{min-height:35px;height:auto !important;height:35;line-height:35px;padding:0
+13px;margin-bottom:1px;color:#6A6A75;background:#f4f4f4;cursor:pointer;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;border-bottom:1px solid #dbdada;border-right:1px solid #dbdada;border-left:1px solid #dbdada}#content .accordion h5:first-child{border-top:1px solid #dbdada}#content .accordion h5
+span{display:inline-block;width:20px;height:20px;background:url(/wp-content/themes/healthpress-theme/images/accordion-title-span.png) no-repeat;margin:7px
+10px 0px 0px;vertical-align:top}#content .accordion
+h5.current{background-position:bottom;margin-bottom:0px}#content .accordion h5.current
+span{background-position:bottom}#content .accordion
+.pane{display:none;background-color:#f8f8f8;overflow:hidden;padding:20px;margin-bottom:0px}#content .accordion .pane
+p{margin:0px}#content .accordion
+.pane.current{display:block;margin-bottom:1px}#comments{}#comments #comments-title{}#comments #reply-title{margin-bottom:15px}#comments
+.commentlist{margin:20px
+0 0;padding:0
+0 30px;overflow:hidden}#comments
+.comment{border:none;border-bottom:1px dotted #dedede;list-style:none;margin:30px
+0 0;padding:10px
+0}#comments .comment:first-child{}#comments .comment>article{margin:0;overflow:hidden}#comments .comment
+.avatar{background:#fff;float:left;margin:0px
+10px 10px 0;position:relative;z-index:1;border-radius:60px;-moz-border-radius:60px;-webkit-border-radius:60px}#comments .comment .comment-body,
+#comments .comment .comment-meta{float:right;margin:0;width:560px}#comments .comment .comment-body
+p{margin-bottom:10px}#comments .comment .comment-meta{margin-bottom:0}#comments .comment
+.author{font-size:13px}#comments .comment .author,
+#comments .comment .author
+a{margin:0}#comments .comment .author
+cite{font-style:normal}#comments .comment .author .comment-reply-link{font-size:11px}#comments .comment .date,
+#comments .comment .date a,
+#comments .comment .date
+time{color:#b0b3b6;font-style:italic;margin:1px
+0 5px}#comments .comment .date a:hover
+time{color:#f56734}#comments .commentlist
+.children{margin:0;padding:0
+0 0 85px;position:relative}#comments .commentlist .children
+.comment{border-bottom:none}#comments .comment .children .comment:first-child{}#comments .commentlist .children .depth-2 .comment-body,
+#comments .commentlist .children .depth-2 .comment-meta{width:475px}#comments .commentlist .children .depth-3 .comment-body,
+#comments .commentlist .children .depth-3 .comment-meta{width:395px}#comments .commentlist .children .depth-4 .comment-body,
+#comments .commentlist .children .depth-4 .comment-meta{width:315px}#comments .commentlist .children .depth-5 .comment-body,
+#comments .commentlist .children .depth-5 .comment-meta{width:235px}#respond{margin-top:30px}#respond #reply-title
+small{font-weight:normal;font-size:13px;font-weight:normal;display:inline-block;margin-left:10px}#commentform
+label{font-weight:bold}#commentform
+span.required{color:#f56734}#commentform textarea,
+#commentform input[type=text]{display:block;margin:5px
+0 0;border:1px
+solid #dedede;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;box-shadow:none}#commentform input[type=text]{width:50%}#commentform
+textarea{width:85%;padding:8px;color:#808080;font:13px 'Open Sans', Arial, Helvetica, "Trebuchet MS", sans-serif;line-height:21px}#commentform p.form-allowed-tags{font-size:12px}#commentform input[type="submit"]{margin:0px
+0px 0px 0px;vertical-align:bottom;display:inline-block;font-size:13px;color:#fff;height:33px;line-height:33px;padding:0px
+15px;border:none;cursor:pointer;text-shadow:1px 1px 0px #ae421b;background-color:#f56734;white-space:nowrap;text-decoration:none;text-align:center;background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-moz-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-ms-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:-o-linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));background-image:linear-gradient(top, rgba(255,255,255,.1), rgba(0,0,0,0));border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}#commentform input[type="submit"]:hover,
+#commentform input[type="submit"]:focus,
+#commentform input[type="submit"]:active{color:#fff;background-image:-webkit-gradient(linear, left top, left bottom,from(rgba(255,255,255,0)),to(rgba(0,0,0,.1)));background-image:-webkit-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-moz-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-ms-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:-o-linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1));background-image:linear-gradient(top,rgba(255,255,255,0),rgba(0,0,0,.1))}.faq-unit{padding:15px
+15px 15px 50px;background:transparent url(/wp-content/themes/healthpress-theme/images/faq-bg.png) 12px 13px no-repeat;border-bottom:1px solid #ededed;cursor:pointer}.faq-unit:hover{background-color:#fdfdfd}.faq-unit.active{background:#fafafa url(/wp-content/themes/healthpress-theme/images/faq-active.png) 12px 13px no-repeat;cursor:default}.faq-unit.active:hover{background-color:#fafafa}#content .faq-unit h4.faq-question{font-size:14px;font-weight:700;margin:0}#content .faq-unit:hover h4.faq-question,
+#content .faq-unit.active h4.faq-question{color:#f56734}.faq-unit .faq-answer{padding-top:10px}#content #filter-by{text-align:right;margin-bottom:40px}#content #filter-by
+li{border:0;margin:0;padding:0;background:none;display:inline}#content #filter-by li
+a{display:inline-block;color:#6a6a75;height:11px;font-size:12px;line-height:12px;padding:8px
+10px;margin:0
+5px 0 0;border:none;background:#E6E6E6;cursor:pointer;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}#content #filter-by li a.active,
+#content #filter-by li a:hover{background:#f56734;color:#fff;-webkit-transition:background .2s ease-in-out;-moz-transition:background .2s ease-in-out;-ms-transition:background .2s ease-in-out;-o-transition:background .2s ease-in-out;transition:background .2s ease-in-out}.gallery-item{margin-bottom:30px}.gallery-item
+img{border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.gallery-item .flex-viewport
+img{border:0;border-radius:0;display:block}.gallery-item .flex-viewport{border:4px
+solid #e6e6e6;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}article.gallery-item.hentry .post-thumb{border:none}.gallery-item img:hover{border-color:#d6d6d6}#content .gallery-item .item-title{padding-bottom:5px;border-bottom:1px solid #ededed;margin:0px}.gallery-item .item-title
+a{color:#6a6a75;font-size:13px;font-weight:bold}.gallery-item .item-title a:hover{color:#f56734}.gallery-item .item-type-link{display:block;padding-bottom:2px;border-bottom:1px solid #ededed}.gallery-item .item-type-link
+a{color:#808080;font-size:11px;font-weight:normal}.gallery-item .item-type-link a:hover{color:#f56734}.gallery-4-columns{margin-left:-29px}.gallery-4-columns .gallery-item{width:223px;float:left;margin-left:29px}.gallery-3-columns{margin-left:-31px}.gallery-3-columns .gallery-item{width:306px;float:left;margin-left:31px}.gallery-2-columns{margin-left:-32px}.gallery-2-columns .gallery-item{width:474px;float:left;margin-left:32px}#content .gallery-slider
+ul.slides{margin:0}#content .gallery-slider ul.slides
+li{background:none;border-bottom:none;padding:0}#content .gallery-slider .flex-control-nav{position:static;bottom:auto;top:auto;left:auto;right:auto;margin:5px
+0}#content .gallery-slider .flex-control-nav
+li{display:inline;border:0;padding:0;margin:0;list-style:none}.gallery-slider .flex-control-nav li
+a{display:inline-block;height:12px;width:12px;background:#46A1B4;margin:0
+3px;border-radius:8px}.gallery-slider .flex-control-nav li a.flex-active{background:#F56734 }.isotope-item{z-index:2}.isotope-hidden.isotope-item{pointer-events:none;z-index:1}.isotope,
+.isotope .isotope-item{-webkit-transition-duration:0.8s;-moz-transition-duration:0.8s;-ms-transition-duration:0.8s;-o-transition-duration:0.8s;transition-duration:0.8s}.isotope{-webkit-transition-property:height, width;-moz-transition-property:height, width;-ms-transition-property:height, width;-o-transition-property:height, width;transition-property:height, width}.isotope .isotope-item{-webkit-transition-property:-webkit-transform, opacity;-moz-transition-property:-moz-transform, opacity;-ms-transition-property:-ms-transform, opacity;-o-transition-property:top, left, opacity;transition-property:transform, opacity}.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition{-webkit-transition-duration:0s;-moz-transition-duration:0s;-ms-transition-duration:0s;-o-transition-duration:0s;transition-duration:0s}a#scroll-top{display:none;position:fixed;right:20px;bottom:20px;height:42px;width:42px;line-height:42px;background:#377f8f url(/wp-content/themes/healthpress-theme/images/scroll-top.png) center center no-repeat;opacity:0.8;-moz-opacity:0.8;-webkit-opacity:0.8;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;-webkit-transition:all 0.25s ease-in-out;-moz-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out}a#scroll-top:hover{background-color:#f56734}#custom-lang-switcher{position:absolute;top:2px;right:0;font-size:11px;line-height:12px}#custom-lang-switcher
+img{margin:1px
+3px 1px 6px;vertical-align:middle}.adn-price{border:none}.adn-price
+tr{border-bottom-color:#D5D5D5;border-bottom-style:solid;border-bottom-width:1px}.adn-price{border:0;border-collapse:collapse;border-spacing:0;margin-bottom:1em;width:100%}.adn-price .price-top
+td{background-color:rgb(223, 240, 216)}.adn-price tbody tr:first-child
+td{border-top-width:0}.adn-price tbody
+td{vertical-align:top}.adn-price .price-bottom
+td{background-color:rgb(252, 248, 227) !important}.adn-price tbody
+td{vertical-align:top}.adn-price thead
+th{border-bottom-color:#DDD;border-bottom-style:solid;border-bottom-width:1px}.adn-price tfoot th, .adn-price thead
+th{background-color:rgb(188, 232, 241) !important;font-weight:bold;vertical-align:middle}.adn-price td, .adn-price
+th{background-position:0 0;background-repeat:initial initial;border:0;padding:10px;text-align:left}.wpb_alert-info,div.wpb_alert-info{background-color:rgb(217, 237, 247);border-bottom-color:rgb(188, 232, 241);border-left-color-ltr-source:physical;border-left-color-rtl-source:physical;border-left-color-value:rgb(188, 232, 241);border-right-color-ltr-source:physical;border-right-color-rtl-source:physical;border-right-color-value:rgb(188, 232, 241);border-top-color:rgb(188, 232, 241);color:black;padding:10px;margin-bottom:10px}.doctors2
+h4{font-size:15px}.doctorsfix{margin-bottom:0px !important}@media only screen and (min-width: 768px) and (max-width: 979px){#wrapper
+#header{width:740px;height:150px}#wrapper #header
+.logo{position:static;display:inline;top:auto;left:auto;text-align:center}#wrapper #header .logo
+img{display:block;margin:0px
+auto 10px}#wrapper #header .logo
+.tagline{display:block;margin:0px
+0px 10px}#wrapper #header #logo-container{text-align:center}#wrapper #header .social-nav{position:relative;display:block;top:auto;right:auto;margin:0px
+0px 15px;text-align:center}#wrapper #header .social-nav
+li{display:inline-block;margin-bottom:10px}#wrapper #header .main-nav ul li
+a{padding:0px
+10px;font-size:12px}#wrapper #header .main-nav
+#topsearch{width:150px}#wrapper #header .main-nav #topsearch
+#tsearch{width:108px}#wrapper #slider-wrap{width:740px;height:410px}#wrapper #slider-wrap
+.slides{height:336px}#wrapper #slider-wrap .slide-nav{width:740px;height:74px}#wrapper #slider-wrap .slide-nav
+li{width:137px;height:74px;padding:8px
+5px 0px 5px}#wrapper #slider-wrap .slide-nav.slides-5
+li{width:137px}#wrapper #slider-wrap .slide-nav.slides-4
+li{width:174px}#wrapper #slider-wrap .slide-nav.slides-3
+li{width:235px}#wrapper #slider-wrap .slide-nav.slides-2
+li{width:359px}#wrapper #slider-wrap .slide-nav.slides-1
+li{width:729px}#wrapper #slider-wrap .slide-nav li
+h4{font-size:14px;text-align:center;margin:0px}#wrapper #slider-wrap .slide-nav li
+p{font-size:11px;text-align:center}#wrapper .page-head{width:650px}#wrapper
+#container{width:740px}#wrapper #container
+#content{width:480px}#wrapper #container #content.full-width{width:740px}#wrapper #container
+#sidebar{width:240px;float:right;margin:0px
+0px 30px}#wrapper
+.services{padding:0px
+0px 30px;margin:0px
+0px 30px}#wrapper .services
+.service{width:132px;margin:0px
+8px}#wrapper .services.item-count-4
+.service{width:165px;margin:0px
+10px}#wrapper .services.item-count-3
+.service{width:220px;margin:0px
+13px}#wrapper .services.item-count-2
+.service{width:330px;margin:0px
+20px}#wrapper .services.item-count-1
+.service{width:740px;margin:0px
+auto}.service-list.three-col ul
+li{width:100%;padding:0px
+0px 35px;margin:0px
+0px 35px 30px;float:none}.service-list.three-col
+figure{float:left;margin:0px
+30px 30px 0px}.service-list.four-col ul
+li{width:355px;padding:0px
+0px 35px;margin:0px
+0px 35px 30px;float:left}.service-list.four-col
+figure{width:160px;height:auto;float:left;margin:0px
+15px 15px 0px}#wrapper .home-left-side{width:480px}#wrapper .official
+.team{width:480px;margin:0
+0 10px}#wrapper .official .team
+p{margin:0px
+0px 15px}#wrapper .official .team .doctors
+li{width:100%;float:none;margin:0px
+0px 10px;position:relative;overflow:hidden}#wrapper .official .team .doctors li
+h4{border-bottom:1px solid #e6e6e6;margin:0px
+0px 10px;padding:0px
+0px 5px}#wrapper .official .team .doctors li .doc-img{width:126px;height:100px;margin:0px
+20px 10px 0px;float:left}#wrapper .official .team .doctors li .doc-img
+img{width:100%}#wrapper .official .team .doctors li .doc-img .doc-type{padding:3px
+5px;font-size:10px;line-height:12px}#wrapper .official .team
+.readmore{display:none}#wrapper .official
+.appointment{margin:10px
+0px 50px}#wrapper
+.testi{width:400px;padding-right:0px}#wrapper .testi
+.author{text-align:right}#wrapper
+.newsletter{width:240px}#wrapper .newsletter
+p{margin:0px
+0px 20px}#wrapper .newsletter #newsletter input[type="submit"]{margin:10px
+0px 0px 0px}footer{width:740px}footer{padding:60px
+0px}footer .footer-widget{width:173px;margin:0px
+16px 0px 0px}footer .footer-widget
+h3{font-size:20px;margin:0px
+0px 20px}footer .footer-widget
+p{margin:0px
+0px 15px}#footer-wrap{min-width:740px}#footer-bottom-wrapper{min-width:740px}#footer-bottom{width:740px}.doc_list{margin:0px
+0px 30px}.doc_list .doctors
+li{width:355px;margin:0px
+0px 30px 30px}.doc_list .doctors li .doc-img{width:170px;height:135px}.doc_list .doctors li .doc-img
+img{display:block;position:relative;width:100%}.doc_list.four_col .doctors
+li{width:226px;margin:0px
+0px 30px 30px}.doc_list.four_col .doctors li .doc-img{width:214px;height:148px;float:none;margin:0px
+0px 20px 0px;overflow:hidden}#map_canvas{width:472px}#contact-form
+textarea{width:460px}#sidebar
+.appointment{width:240px;float:none;margin:0px
+0px 20px}#sidebar .appointment
+.header{text-align:center}#sidebar .appointment .header
+h2{font-size:18px}#sidebar .appointment .header
+h3{font-size:18px}#sidebar .appointment .select-wrap{display:block;margin-bottom:15px}#sidebar .widget #searchform input[type="text"]{margin-bottom:10px}#sidebar .widget #searchform input[type="submit"]{margin:0px
+0px 0px 0px}article .post-thumb{width:472px}article .post-thumb
+img{width:472px}#comments .comment .comment-body,
+#comments .comment .comment-meta{width:395px}#comments .commentlist
+.children{padding:0
+0 0 85px}#comments .commentlist .children
+.children{padding:0
+0 0 0px}#comments .commentlist .children .depth-2 .comment-body,
+#comments .commentlist .children .depth-2 .comment-meta{width:310px}#comments .commentlist .children .depth-3 .comment-body,
+#comments .commentlist .children .depth-3 .comment-meta{width:310px}#comments .commentlist .children .depth-4 .comment-body,
+#comments .commentlist .children .depth-4 .comment-meta{width:310px}#comments .commentlist .children .depth-5 .comment-body,
+#comments .commentlist .children .depth-5 .comment-meta{width:310px}#content #filter-by li
+a{margin-bottom:10px}.gallery-4-columns{margin-left:-20px}.gallery-4-columns .gallery-item
+img{width:162px}.gallery-4-columns .gallery-item{width:170px;margin-left:20px}.gallery-3-columns{margin-left:-25px}.gallery-3-columns .gallery-item
+img{width:222px}.gallery-3-columns .gallery-item{width:230px;float:left;margin-left:25px}.gallery-2-columns{margin-left:-30px}.gallery-2-columns .gallery-item
+img{width:347px}.gallery-2-columns .gallery-item{width:355px;float:left;margin-left:30px}.captcha-container
+img{vertical-align:top;margin:0
+5px 10px 0}#custom-lang-switcher{position:static;top:auto;right:auto;margin:2px
+auto 0;text-align:center}}@media only screen and (min-width: 480px) and (max-width: 767px){#wrapper
+#header{width:440px;height:auto}#wrapper #header
+.logo{position:static;display:inline;top:auto;left:auto;text-align:center}#wrapper #header .logo
+img{display:block;margin:0px
+auto 10px}#wrapper #header .logo
+.tagline{display:block;margin:0px
+0px 10px}#wrapper #header #logo-container{text-align:center}#wrapper #header .social-nav{position:relative;display:block;top:auto;right:auto;margin:0px
+0px 15px;text-align:center}#wrapper #header .social-nav
+li{display:inline-block;margin-bottom:10px}#wrapper #header .social-nav
+li.phone{display:block;clear:both;margin:0
+auto}#wrapper #header .main-nav{border-radius:none;position:relative;width:auto;height:auto;margin:0px
+0px 0px;padding:0px
+0px 40px}#wrapper #header .main-nav ul
+li{width:50%;height:28px;border:none;border-bottom:1px solid}#wrapper #header .main-nav ul li:first-child{border-radius:0px}#wrapper #header .main-nav ul li
+a{display:block;width:160px;line-height:28px;text-align:left}#wrapper #header .main-nav ul li
+ul{display:none;width:200px;padding:0px;position:absolute;top:28px;left:0px;z-index:8899;border-bottom-left-radius:3px;-moz-border-radius-bottomleft:3px;-webkit-border-bottom-left-radius:3px;border-bottom-right-radius:3px;-moz-border-radius-bottomright:3px;-webkit-border-bottom-right-radius:3px}#wrapper #header .main-nav ul li ul
+li{width:176px;height:auto;padding:0px
+12px;position:relative}#wrapper #header .main-nav ul li ul li
+a{display:inline-block;height:27px;line-height:27px;padding:0px
+9px;border:none}#wrapper #header .main-nav ul li ul li:hover>a{background:none;border:none}#wrapper #header .main-nav ul li ul li
+ul{position:static;margin-left:-12px}#wrapper #header .main-nav ul li ul li ul li
+ul{}#wrapper #header .main-nav
+#topsearch{position:absolute;width:410px;bottom:-20px;left:10px;top:auto;right:auto}#wrapper #header .main-nav #topsearch
+#tsearch{width:370px}#wrapper #slider-wrap{width:440px;height:259px;margin-bottom:20px}#wrapper #slider-wrap
+.slides{height:199px}#wrapper #slider-wrap .slide-nav{width:440px;height:60px}#wrapper #slider-wrap .slide-nav
+li{width:77px;height:55px;padding:5px
+5px 0px 5px}#wrapper #slider-wrap .slide-nav.slides-5
+li{width:77px}#wrapper #slider-wrap .slide-nav.slides-4
+li{width:99px}#wrapper #slider-wrap .slide-nav.slides-3
+li{width:135px}#wrapper #slider-wrap .slide-nav.slides-2
+li{width:209px}#wrapper #slider-wrap .slide-nav.slides-1
+li{width:429px}#wrapper #slider-wrap .slide-nav li
+h4{font-size:12px;font-weight:normal;text-align:center;margin:0px}#wrapper #slider-wrap .slide-nav li
+p{display:none}#wrapper .page-head{width:390px;padding:25px
+25px 20px}#wrapper
+#container{width:440px}#wrapper #container
+#content{width:440px;margin:0px
+auto 20px}#wrapper #container
+#sidebar{width:440px;float:none;clear:both;margin:0px
+auto 20px}#wrapper #container #content.full-width{width:440px}#container .columns .one-third,
+#container .columns .one-fourth,
+#container .columns .one-half,
+#container .columns .three-fourth,
+#container .columns .two-third,
+#container .columns .single-col{width:98%;margin:0px
+0px 0px 2%}.slogan{margin:0px
+0px 35px}.slogan
+h2{font-size:24px}.slogan
+h3{font-size:12px}#wrapper
+.services{padding:0px
+0px 20px;margin:0px
+0px 20px}#wrapper .services
+.service{width:100%;float:none;overflow:hidden;text-align:left;margin-bottom:10px}#wrapper .services .service
+h4{padding-top:10px}#wrapper .services .service .service-thumb{float:left;margin:0px
+20px 10px 0px}.service-list.three-col ul
+li{width:100%;padding:0px
+0px 35px;margin:0px
+0px 25px 30px;float:none}.service-list.three-col
+figure{width:200px;height:auto;float:left;margin:0px
+20px 20px 0px}.service-list.four-col ul
+li{width:100%;padding:0px
+0px 35px;margin:0px
+0px 35px 30px;float:left}.service-list.four-col
+figure{width:214px;height:auto;float:left;margin:0px
+20px 20px 0px}#wrapper .home-left-side{width:440px;float:none}#wrapper
+.official{border-bottom:1px solid #e6e6e6}#wrapper .official
+.team{width:auto;float:none;padding-bottom:20px;border-bottom:1px solid #e6e6e6;margin-bottom:20px}#wrapper .official .team
+p{margin:0px
+0px 15px}#wrapper .official .team .doctors
+li{width:100%;float:none;margin:0px
+0px 10px;position:relative;overflow:hidden}#wrapper .official .team .doctors li
+h4{border-bottom:1px solid #e6e6e6;margin:0px
+0px 10px;padding:0px
+0px 5px}#wrapper .official .team .doctors li .doc-img{width:126px;height:100px;margin:0px
+20px 10px 0px;float:left}#wrapper .official .team .doctors li .doc-img
+img{width:100%}#wrapper .official .team .doctors li .doc-img .doc-type{padding:3px
+5px;font-size:10px;line-height:12px}#wrapper .official .team
+.readmore{float:right}#wrapper .official
+.appointment{float:none;margin:0px
+auto 20px}#wrapper .appointment .header
+.number{font-size:18px}#wrapper
+.testi{width:440px;padding:0px
+0px 20px;float:none;margin:20px
+0px;border-bottom:1px solid #e6e6e6;margin-bottom:20px}#wrapper .testi
+.author{text-align:right}.newsletter{float:none;margin:0
+auto}footer{width:440px;padding:40px
+0px 20px}footer .footer-widget{float:none;width:400px;margin:0px
+20px 20px 20px}footer .footer-widget
+h3{font-size:20px;margin:0px
+0px 20px}footer .footer-widget
+p{margin:0px
+0px 15px}#footer-wrap{min-width:440px}#footer-bottom-wrapper{min-width:440px}#footer-bottom{width:440px;height:auto;padding:7px
+0px 5px}#footer-bottom
+p{font-size:11px;line-height:20px;text-align:center}#footer-bottom
+.copyrights{float:none}#footer-bottom
+.author{float:none}.doc_list{margin:0px
+0px 30px}.doc_list .doctors
+li{width:440px;margin:0px
+0px 30px 30px}.doc_list .doctors li .doc-img{width:214px;height:170px}.doc_list .doctors li .doc-img
+img{display:block;position:relative;width:100%}.doc_list.four_col .doctors
+li{width:205px;margin:0px
+0px 30px 30px}.doc_list.four_col .doctors li .doc-img{width:197px;height:auto;float:none;margin:0px
+0px 20px 0px;overflow:hidden}#map_canvas{width:432px}#contact-form
+textarea{width:420px}#sidebar
+.appointment{float:none;margin:0px
+auto 20px}#sidebar .widget #searchform input[type="text"]{width:70%}#sidebar .widget #searchform input[type="submit"]{margin:0px
+0px 0px 10px}article .post-thumb{width:432px}article .post-thumb
+img{width:432px}#comments .comment .comment-body,
+#comments .comment .comment-meta{width:355px}#comments .commentlist
+.children{padding:0
+0 0 85px}#comments .commentlist .children
+.children{padding:0
+0 0 0px}#comments .commentlist .children .depth-2 .comment-body,
+#comments .commentlist .children .depth-2 .comment-meta{width:280px}#comments .commentlist .children .depth-3 .comment-body,
+#comments .commentlist .children .depth-3 .comment-meta{width:280px}#comments .commentlist .children .depth-4 .comment-body,
+#comments .commentlist .children .depth-4 .comment-meta{width:280px}#comments .commentlist .children .depth-5 .comment-body,
+#comments .commentlist .children .depth-5 .comment-meta{width:280px}#commentform input[type=text]{width:80%}#commentform
+textarea{width:90%}#content #filter-by li
+a{margin-bottom:10px}.gallery-4-columns{margin-left:-24px}.gallery-4-columns .gallery-item
+img{width:200px}.gallery-4-columns .gallery-item{width:208px;margin-left:24px}.gallery-3-columns{margin-left:-24px}.gallery-3-columns .gallery-item
+img{width:200px}.gallery-3-columns .gallery-item{width:208px;float:left;margin-left:24px}.gallery-2-columns{margin-left:-24px}.gallery-2-columns .gallery-item
+img{width:200px}.gallery-2-columns .gallery-item{width:208px;float:left;margin-left:24px}.captcha-container
+img{vertical-align:top;margin:0
+5px 10px 0}#custom-lang-switcher{position:static;top:auto;right:auto;margin:2px
+auto 0;text-align:center}}@media only screen and (max-width: 479px){#wrapper
+#header{width:290px;height:auto}#wrapper #header
+.logo{position:static;display:inline;top:auto;left:auto;text-align:center}#wrapper #header .logo
+img{display:block;margin:0px
+auto 10px}#wrapper #header .logo
+.tagline{display:block;margin:0px
+0px 10px}#wrapper #header #logo-container{text-align:center}#wrapper #header .social-nav{display:block;position:relative;top:auto;right:auto;margin:0px;text-align:center}#wrapper #header .social-nav
+li{display:inline-block;float:none;border:none}#wrapper #header .social-nav
+li.phone{display:block;clear:both;margin:0
+auto}#wrapper #header .main-nav .responsive-nav{display:block}#wrapper #header .main-nav>div{float:none}#wrapper #header .main-nav{border-radius:none;position:relative;width:auto;height:auto;margin:0px
+0px 0px;padding:0px
+0px 40px}#wrapper #header .main-nav
+ul{display:none}#wrapper #header .main-nav ul
+li{width:50%;height:28px;border-right:none;border-bottom-style:solid;border-bottom-width:1px}#wrapper #header .main-nav ul li:first-child{border-radius:0px}#wrapper #header .main-nav ul li
+a{display:block;width:250px;line-height:28px;text-align:left}#wrapper #header .main-nav ul li
+ul{display:none;width:140px;padding:0px;position:absolute;top:28px;left:0px;z-index:8899;border-bottom-left-radius:3px;-moz-border-radius-bottomleft:3px;-webkit-border-bottom-left-radius:3px;border-bottom-right-radius:3px;-moz-border-radius-bottomright:3px;-webkit-border-bottom-right-radius:3px}#wrapper #header .main-nav ul li ul
+li{width:120px;height:auto;padding:0px
+10px;position:relative}#wrapper #header .main-nav ul li ul li
+a{display:inline-block;height:27px;line-height:27px;padding:0px
+9px;border:none}#wrapper #header .main-nav ul li ul li:hover>a{background:none;border:none}#wrapper #header .main-nav ul li ul li
+ul{position:static;margin-left:-12px}#wrapper #header .main-nav ul li ul li ul li
+ul{}#wrapper #header .main-nav
+#topsearch{position:absolute;width:260px;bottom:-20px;left:12px;top:auto;right:auto;overflow:hidden}#wrapper #header .main-nav #topsearch
+#tsearch{width:220px}#wrapper #slider-wrap{width:290px;height:auto;margin-bottom:20px}#wrapper #slider-wrap
+.slides{height:131px;border-top:none;border-bottom:none}#wrapper #slider-wrap .slide-nav{width:100%;height:auto;background:none;text-align:center}#wrapper #slider-wrap .slide-nav
+li{background-color:#e6e6e6;width:20px;height:10px;margin:0px
+3px;float:none;padding:0px;display:inline-block;font-size:0px;border:none}#wrapper #slider-wrap .slide-nav li:hover,
+#wrapper #slider-wrap .slide-nav li.flex-active{background-color:#d6d6d6}#wrapper #slider-wrap .slide-nav li
+h4{display:none}#wrapper #slider-wrap .slide-nav li
+p{display:none}#wrapper .page-head{width:270px;padding:15px
+10px 10px}#wrapper
+#container{width:290px}#wrapper #container
+#content{width:290px;margin:0px
+auto 20px}#wrapper #container
+#sidebar{width:290px;float:none;clear:both;margin:0px
+auto 20px}#container .columns .one-third,
+#container .columns .one-fourth,
+#container .columns .one-half,
+#container .columns .three-fourth,
+#container .columns .two-third,
+#container .columns .single-col{width:98%;margin:0px
+0px 0px 2%}.slogan{margin:0px
+0px 35px}.slogan
+h2{font-size:24px}.slogan
+h3{font-size:12px}#wrapper
+.services{padding:0px
+0px 20px;margin:0px
+0px 20px}#wrapper .services
+.service{width:100%;float:none;overflow:hidden;text-align:left;margin-bottom:10px}#wrapper .services .service
+h4{padding-top:0px}#wrapper .services .service .service-thumb{float:left;margin:0px
+20px 20px 0px}.service-list.single-col ul
+li{padding:0px
+0px 35px;margin:0px
+0px 35px}.service-list.single-col
+figure{width:282px;height:auto;float:none;margin:0px
+0px 20px 0px}.service-list.single-col figure
+img{width:100%;height:auto}.service-list.three-col ul
+li{width:100%;padding:0px
+0px 35px;margin:0px
+0px 35px 30px;float:none}.service-list.three-col
+figure{width:282px;height:auto;margin:0px
+0px 20px 0px}.service-list.four-col
+ul{margin:0px}.service-list.four-col ul
+li{width:222px;padding:0px
+0px 20px;margin:0px
+auto 20px;float:none;text-align:center}.service-list.four-col
+figure{width:214px;height:auto;float:left;margin:0px
+20px 20px 0px}#wrapper .home-left-side{width:290px;float:none}#wrapper
+.official{border-bottom:1px solid #e6e6e6}#wrapper .official
+.team{width:auto;float:none;padding-bottom:20px;border-bottom:1px solid #e6e6e6;margin-bottom:20px}#wrapper .official .team
+p{margin:0px
+0px 15px}#wrapper .official .team .doctors
+li{width:100%;float:none;margin:0px
+0px 10px;position:relative;overflow:hidden}#wrapper .official .team .doctors li
+h4{border-bottom:1px solid #e6e6e6;margin:0px
+0px 10px;padding:0px
+0px 5px}#wrapper .official .team .doctors li .doc-img{width:126px;height:100px;margin:0px
+20px 10px 0px;float:left}#wrapper .official .team .doctors li .doc-img
+img{width:100%}#wrapper .official .team .doctors li .doc-img .doc-type{padding:3px
+5px;font-size:10px;line-height:12px}#wrapper .official .team
+.readmore{float:right}#wrapper .official
+.appointment{width:290px;float:none;margin:0px
+0px 20px}#wrapper .official .appointment
+.header{text-align:center}#wrapper .official .appointment .header
+h2{font-size:20px}#wrapper .official .appointment .header
+h3{font-size:18px;width:140px;margin:0
+auto}#wrapper .official .appointment .select-wrap{display:block;margin-bottom:15px}#wrapper
+.testi{width:290px;padding:0px
+0px 20px;float:none;margin:20px
+0px;border-bottom:1px solid #e6e6e6;margin-bottom:20px}#wrapper .testi h2.smart-head{font-size:24px}#wrapper .testi
+.author{text-align:right}#wrapper .testi .patient-nav{margin-left:0px}.newsletter{width:290px;float:none;margin:0
+auto}.newsletter
+p{margin:0px
+0px 15px}.newsletter
+#nl_email{width:150px}footer{width:290px;padding:40px
+0px 20px}footer .footer-widget{float:none;width:280px;margin:0px
+5px 20px 5px}footer .footer-widget
+h3{font-size:20px;margin:0px
+0px 10px}footer .footer-widget
+p{margin:0px
+0px 15px}#footer-wrap{min-width:290px}#footer-bottom-wrapper{min-width:290px}#footer-bottom{width:290px;height:auto;padding:7px
+0px 5px}#footer-bottom
+p{font-size:11px;line-height:20px;text-align:center}#footer-bottom
+.copyrights{float:none}#footer-bottom
+.author{float:none}.doc_list{margin:0px
+0px 30px}.doc_list .doctors
+li{width:290px;margin:0px
+0px 30px 30px}.doc_list .doctors li .doc-img{width:214px;height:170px;float:none;margin:0
+0 20px}.doc_list .doctors li .doc-img
+img{display:block;position:relative;width:100%}.doc_list.four_col .doctors
+li{width:290px;margin:0
+0 20px 30px}.doc_list.four_col .doctors li .doc-img{width:214px;height:auto;float:none;margin:0px
+0px 20px 0px;overflow:hidden}#map_canvas{width:282px}#contact-form input[type=text]{width:250px}#contact-form
+textarea{width:255px}#sidebar
+.appointment{width:290px;float:none;margin:0px
+0px 20px}#sidebar .appointment
+.header{text-align:center}#sidebar .appointment .header
+h2{font-size:20px}#sidebar .appointment .header
+h3.number{font-size:18px;width:150px;margin:0
+auto}#sidebar .appointment .select-wrap{display:block;margin-bottom:15px}#sidebar .widget #searchform input[type="text"]{margin-bottom:10px;width:90%}#sidebar .widget #searchform input[type="submit"]{margin:0px
+0px 0px 0px}article .post-thumb .comment-count{display:none}article .post-meta
+span{display:inline-block;margin-bottom:10px}article .post-thumb{width:282px}article .post-thumb
+img{width:282px}.doctor-img{float:none;margin:0
+auto}#comments .comment
+.avatar{float:none}#comments .comment .comment-body,
+#comments .comment .comment-meta{width:290px}#comments .commentlist
+.children{padding:0
+0 0 0px}#comments .commentlist .children .depth-2 .comment-body,
+#comments .commentlist .children .depth-2 .comment-meta{width:290px}#comments .commentlist .children .depth-3 .comment-body,
+#comments .commentlist .children .depth-3 .comment-meta{width:290px}#comments .commentlist .children .depth-4 .comment-body,
+#comments .commentlist .children .depth-4 .comment-meta{width:290px}#comments .commentlist .children .depth-5 .comment-body,
+#comments .commentlist .children .depth-5 .comment-meta{width:290px}#commentform input[type=text]{width:90%}#commentform
+textarea{width:90%}#content #filter-by{text-align:center}#content #filter-by li
+a{margin-bottom:10px}.gallery-4-columns{margin-left:0}.gallery-4-columns .gallery-item
+img{width:auto}.gallery-4-columns .gallery-item{float:none;margin-left:0}.gallery-3-columns{margin-left:0}.gallery-3-columns .gallery-item
+img{width:282px}.gallery-3-columns .gallery-item{width:auto;float:none;margin-left:0}.gallery-2-columns{margin-left:0}.gallery-2-columns .gallery-item
+img{width:282px}.gallery-2-columns .gallery-item{width:auto;float:none;margin-left:0}.captcha-container
+img{vertical-align:top;margin:0
+5px 10px 0}#custom-lang-switcher{position:static;top:auto;right:auto;margin:2px
+auto 0;text-align:center}}.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus{outline:none}.slides,.flex-control-nav,.flex-direction-nav{margin:0;padding:0;list-style:none}.flexslider{margin:0;padding:0}.flexslider .slides>li{display:none;-webkit-backface-visibility:hidden}.flexslider .slides
+img{max-width:100%;display:inline-block}.flex-pauseplay
+span{text-transform:capitalize}.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}html[xmlns] .slides{display:block}* html
+.slides{height:1%}.no-js .slides>li:first-child{display:block}.flexslider{position:relative;zoom:1}.flexslider
+.slides{zoom:1}.flexslider .slides>li{position:relative}.flex-container{zoom:1;position:relative}.flex-caption{background:none;-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);zoom:1}.flex-caption{width:96%;padding:2%;margin:0;position:absolute;left:0;bottom:0;background:rgba(0,0,0,.3);color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,.3);font-size:14px;line-height:18px}.flex-direction-nav{height:0}.flex-direction-nav li
+a{width:52px;height:52px;margin:-13px 0 0;display:block;background:url(/wp-content/themes/healthpress-theme/js/flexslider/images/bg_direction_nav.png) no-repeat;position:absolute;top:50%;cursor:pointer;text-indent:-999em}.flex-direction-nav li
+.next{background-position:-52px 0;right:-21px}.flex-direction-nav li
+.prev{left:-20px}.flex-direction-nav li
+.disabled{opacity: .3;filter:alpha(opacity=30);cursor:default}.flex-control-nav{width:100%;position:absolute;bottom:-30px;text-align:center}.flex-control-nav
+li{margin:0
+0 0 5px;display:inline-block;zoom:1;*display:inline}.flex-control-nav li:first-child{margin:0}.flex-control-nav li
+a{width:13px;height:13px;display:block;background:url(/wp-content/themes/healthpress-theme/js/flexslider/images/bg_control_nav.png) no-repeat;cursor:pointer;text-indent:-999em}.flex-control-nav li a:hover{background-position:0 -13px}.flex-control-nav li
+a.active{background-position:0 -26px;cursor:default}div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top .pp_left,div.pp_default .pp_top .pp_right,div.pp_default .pp_bottom,div.pp_default .pp_bottom .pp_left,div.pp_default .pp_bottom .pp_middle,div.pp_default .pp_bottom
+.pp_right{height:13px}div.pp_default .pp_top
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -78px -93px no-repeat}div.pp_default .pp_top
+.pp_middle{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_x.png) top left repeat-x}div.pp_default .pp_top
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -112px -93px no-repeat}div.pp_default .pp_content
+.ppt{color:#f8f8f8}div.pp_default .pp_content_container
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_y.png) -7px 0 repeat-y;padding-left:13px}div.pp_default .pp_content_container
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_y.png) top right repeat-y;padding-right:13px}div.pp_default .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_next.png) center right no-repeat;cursor:pointer}div.pp_default .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_prev.png) center left no-repeat;cursor:pointer}div.pp_default
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) 0 -29px no-repeat;cursor:pointer;width:28px;height:28px}div.pp_default .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) 0 -56px no-repeat;cursor:pointer}div.pp_default
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) 0 -84px no-repeat;cursor:pointer;width:28px;height:28px}div.pp_default .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) 0 -113px no-repeat;cursor:pointer}div.pp_default
+.pp_close{width:30px;height:30px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) 2px 1px no-repeat;cursor:pointer}div.pp_default .pp_gallery ul li
+a{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/default_thumb.png) center center #f8f8f8;border:1px
+solid #aaa}div.pp_default
+.pp_social{margin-top:7px}div.pp_default .pp_gallery a.pp_arrow_previous,div.pp_default .pp_gallery
+a.pp_arrow_next{position:static;left:auto}div.pp_default .pp_nav .pp_play,div.pp_default .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -51px 1px no-repeat;height:30px;width:30px}div.pp_default .pp_nav
+.pp_pause{background-position:-51px -29px}div.pp_default a.pp_arrow_previous,div.pp_default
+a.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -31px -3px no-repeat;height:20px;width:20px;margin:4px
+0 0}div.pp_default
+a.pp_arrow_next{left:52px;background-position:-82px -3px}div.pp_default .pp_content_container
+.pp_details{margin-top:5px}div.pp_default
+.pp_nav{clear:none;height:30px;width:110px;position:relative}div.pp_default .pp_nav
+.currentTextHolder{font-family:Georgia;font-style:italic;color:#999;font-size:11px;left:75px;line-height:25px;position:absolute;top:2px;margin:0;padding:0
+0 0 10px}div.pp_default .pp_close:hover,div.pp_default .pp_nav .pp_play:hover,div.pp_default .pp_nav .pp_pause:hover,div.pp_default .pp_arrow_next:hover,div.pp_default .pp_arrow_previous:hover{opacity:0.7}div.pp_default
+.pp_description{font-size:11px;font-weight:700;line-height:14px;margin:5px
+50px 5px 0}div.pp_default .pp_bottom
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -78px -127px no-repeat}div.pp_default .pp_bottom
+.pp_middle{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite_x.png) bottom left repeat-x}div.pp_default .pp_bottom
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/sprite.png) -112px -127px no-repeat}div.pp_default
+.pp_loaderIcon{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/default/loader.gif) center center no-repeat}div.light_rounded .pp_top
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat}div.light_rounded .pp_top
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -110px -53px no-repeat}div.light_rounded .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/btnNext.png) center right no-repeat;cursor:pointer}div.light_rounded .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}div.light_rounded
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}div.light_rounded .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}div.light_rounded
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}div.light_rounded .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}div.light_rounded
+.pp_close{width:75px;height:22px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}div.light_rounded .pp_nav
+.pp_play{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}div.light_rounded .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}div.light_rounded
+.pp_arrow_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) 0 -71px no-repeat}div.light_rounded
+.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -22px -71px no-repeat}div.light_rounded .pp_bottom
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -88px -80px no-repeat}div.light_rounded .pp_bottom
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/sprite.png) -110px -80px no-repeat}div.dark_rounded .pp_top
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -88px -53px no-repeat}div.dark_rounded .pp_top
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -110px -53px no-repeat}div.dark_rounded .pp_content_container
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat-y}div.dark_rounded .pp_content_container
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/contentPattern.png) top right repeat-y}div.dark_rounded .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/btnNext.png) center right no-repeat;cursor:pointer}div.dark_rounded .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}div.dark_rounded
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}div.dark_rounded .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}div.dark_rounded
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}div.dark_rounded .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}div.dark_rounded
+.pp_close{width:75px;height:22px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}div.dark_rounded
+.pp_description{margin-right:85px;color:#fff}div.dark_rounded .pp_nav
+.pp_play{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}div.dark_rounded .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}div.dark_rounded
+.pp_arrow_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) 0 -71px no-repeat}div.dark_rounded
+.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -22px -71px no-repeat}div.dark_rounded .pp_bottom
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -88px -80px no-repeat}div.dark_rounded .pp_bottom
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/sprite.png) -110px -80px no-repeat}div.dark_rounded
+.pp_loaderIcon{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/loader.gif) center center no-repeat}div.dark_square .pp_left,div.dark_square .pp_middle,div.dark_square .pp_right,div.dark_square
+.pp_content{background:#000}div.dark_square
+.pp_description{color:#fff;margin:0
+85px 0 0}div.dark_square
+.pp_loaderIcon{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/loader.gif) center center no-repeat}div.dark_square
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -31px -26px no-repeat;cursor:pointer}div.dark_square .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -31px -47px no-repeat;cursor:pointer}div.dark_square
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) 0 -26px no-repeat;cursor:pointer}div.dark_square .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) 0 -47px no-repeat;cursor:pointer}div.dark_square
+.pp_close{width:75px;height:22px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -1px -1px no-repeat;cursor:pointer}div.dark_square
+.pp_nav{clear:none}div.dark_square .pp_nav
+.pp_play{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}div.dark_square .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}div.dark_square
+.pp_arrow_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) 0 -71px no-repeat}div.dark_square
+.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/sprite.png) -22px -71px no-repeat}div.dark_square .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/btnNext.png) center right no-repeat;cursor:pointer}div.dark_square .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_square/btnPrevious.png) center left no-repeat;cursor:pointer}div.light_square
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -31px -26px no-repeat;cursor:pointer}div.light_square .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -31px -47px no-repeat;cursor:pointer}div.light_square
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) 0 -26px no-repeat;cursor:pointer}div.light_square .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) 0 -47px no-repeat;cursor:pointer}div.light_square
+.pp_close{width:75px;height:22px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -1px -1px no-repeat;cursor:pointer}div.light_square .pp_nav
+.pp_play{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}div.light_square .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}div.light_square
+.pp_arrow_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) 0 -71px no-repeat}div.light_square
+.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/sprite.png) -22px -71px no-repeat}div.light_square .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/btnNext.png) center right no-repeat;cursor:pointer}div.light_square .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_square/btnPrevious.png) center left no-repeat;cursor:pointer}div.facebook .pp_top
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat}div.facebook .pp_top
+.pp_middle{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x}div.facebook .pp_top
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeat}div.facebook .pp_content_container
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-y}div.facebook .pp_content_container
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-y}div.facebook
+.pp_expand{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}div.facebook .pp_expand:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}div.facebook
+.pp_contract{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}div.facebook .pp_contract:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}div.facebook
+.pp_close{width:22px;height:22px;background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer}div.facebook
+.pp_description{margin:0
+37px 0 0}div.facebook
+.pp_loaderIcon{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/loader.gif) center center no-repeat}div.facebook
+.pp_arrow_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22px}div.facebook
+.pp_arrow_previous.disabled{background-position:0 -96px;cursor:default}div.facebook
+.pp_arrow_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22px}div.facebook
+.pp_arrow_next.disabled{background-position:-32px -96px;cursor:default}div.facebook
+.pp_nav{margin-top:0}div.facebook .pp_nav
+p{font-size:15px;padding:0
+3px 0 4px}div.facebook .pp_nav
+.pp_play{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}div.facebook .pp_nav
+.pp_pause{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}div.facebook .pp_next:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}div.facebook .pp_previous:hover{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}div.facebook .pp_bottom
+.pp_left{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat}div.facebook .pp_bottom
+.pp_middle{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x}div.facebook .pp_bottom
+.pp_right{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat}div.pp_pic_holder a:focus{outline:none}div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}.pp_content{height:40px;min-width:40px}* html
+.pp_content{width:40px}.pp_content_container{position:relative;text-align:left;width:100%}.pp_content_container
+.pp_left{padding-left:20px}.pp_content_container
+.pp_right{padding-right:20px}.pp_content_container
+.pp_details{float:left;margin:10px
+0 2px}.pp_description{display:none;margin:0}.pp_social{float:left;margin:0}.pp_social
+.facebook{float:left;margin-left:5px;width:55px;overflow:hidden}.pp_social
+.twitter{float:left}.pp_nav{clear:right;float:left;margin:3px
+10px 0 0}.pp_nav
+p{float:left;white-space:nowrap;margin:2px
+4px}.pp_nav .pp_play,.pp_nav
+.pp_pause{float:left;margin-right:4px;text-indent:-10000px}a.pp_arrow_previous,a.pp_arrow_next{display:block;float:left;height:15px;margin-top:3px;overflow:hidden;text-indent:-10000px;width:14px}.pp_hoverContainer{position:absolute;top:0;width:100%;z-index:2000}.pp_gallery{display:none;left:50%;margin-top:-50px;position:absolute;z-index:10000}.pp_gallery
+div{float:left;overflow:hidden;position:relative}.pp_gallery
+ul{float:left;height:35px;position:relative;white-space:nowrap;margin:0
+0 0 5px;padding:0}.pp_gallery ul
+a{border:1px
+rgba(0,0,0,0.5) solid;display:block;float:left;height:33px;overflow:hidden}.pp_gallery ul a
+img{border:0}.pp_gallery
+li{display:block;float:left;margin:0
+5px 0 0;padding:0}.pp_gallery li.default
+a{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50px}.pp_gallery .pp_arrow_previous,.pp_gallery
+.pp_arrow_next{margin-top:7px!important}a.pp_next{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%}a.pp_previous{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%}a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}a.pp_close{position:absolute;right:0;top:0;display:block;line-height:22px;text-indent:-10000px}.pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}#pp_full_res{line-height:1!important}#pp_full_res
+.pp_inline{text-align:left}#pp_full_res .pp_inline
+p{margin:0
+0 15px}div.ppt{color:#fff;display:none;font-size:17px;z-index:9999;margin:0
+0 5px 15px}div.pp_default .pp_content,div.light_rounded
+.pp_content{background-color:#fff}div.pp_default #pp_full_res .pp_inline,div.light_rounded .pp_content .ppt,div.light_rounded #pp_full_res .pp_inline,div.light_square .pp_content .ppt,div.light_square #pp_full_res .pp_inline,div.facebook .pp_content .ppt,div.facebook #pp_full_res
+.pp_inline{color:#000}div.pp_default .pp_gallery ul li a:hover,div.pp_default .pp_gallery ul li.selected a,.pp_gallery ul a:hover,.pp_gallery li.selected
+a{border-color:#fff}div.pp_default .pp_details,div.light_rounded .pp_details,div.dark_rounded .pp_details,div.dark_square .pp_details,div.light_square .pp_details,div.facebook
+.pp_details{position:relative}div.light_rounded .pp_top .pp_middle,div.light_rounded .pp_content_container .pp_left,div.light_rounded .pp_content_container .pp_right,div.light_rounded .pp_bottom .pp_middle,div.light_square .pp_left,div.light_square .pp_middle,div.light_square .pp_right,div.light_square .pp_content,div.facebook
+.pp_content{background:#fff}div.light_rounded .pp_description,div.light_square
+.pp_description{margin-right:85px}div.light_rounded .pp_gallery a.pp_arrow_previous,div.light_rounded .pp_gallery a.pp_arrow_next,div.dark_rounded .pp_gallery a.pp_arrow_previous,div.dark_rounded .pp_gallery a.pp_arrow_next,div.dark_square .pp_gallery a.pp_arrow_previous,div.dark_square .pp_gallery a.pp_arrow_next,div.light_square .pp_gallery a.pp_arrow_previous,div.light_square .pp_gallery
+a.pp_arrow_next{margin-top:12px!important}div.light_rounded .pp_arrow_previous.disabled,div.dark_rounded .pp_arrow_previous.disabled,div.dark_square .pp_arrow_previous.disabled,div.light_square
+.pp_arrow_previous.disabled{background-position:0 -87px;cursor:default}div.light_rounded .pp_arrow_next.disabled,div.dark_rounded .pp_arrow_next.disabled,div.dark_square .pp_arrow_next.disabled,div.light_square
+.pp_arrow_next.disabled{background-position:-22px -87px;cursor:default}div.light_rounded .pp_loaderIcon,div.light_square
+.pp_loaderIcon{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/light_rounded/loader.gif) center center no-repeat}div.dark_rounded .pp_top .pp_middle,div.dark_rounded .pp_content,div.dark_rounded .pp_bottom
+.pp_middle{background:url(/wp-content/themes/healthpress-theme/js/prettyPhoto/images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat}div.dark_rounded .currentTextHolder,div.dark_square
+.currentTextHolder{color:#c4c4c4}div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res
+.pp_inline{color:#fff}.pp_top,.pp_bottom{height:20px;position:relative}* html .pp_top,* html
+.pp_bottom{padding:0
+20px}.pp_top .pp_left,.pp_bottom
+.pp_left{height:20px;left:0;position:absolute;width:20px}.pp_top .pp_middle,.pp_bottom
+.pp_middle{height:20px;left:20px;position:absolute;right:20px}* html .pp_top .pp_middle,* html .pp_bottom
+.pp_middle{left:0;position:static}.pp_top .pp_right,.pp_bottom
+.pp_right{height:20px;left:auto;position:absolute;right:0;top:0;width:20px}.pp_fade,.pp_gallery li.default a
+img{display:none}
+/*
+ * jQuery UI CSS Framework 1.8.23
+ *
+ * Copyright 2012, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming
+ */
+@import "/wp-content/themes/healthpress-theme/css/redmond/jquery.ui.base.css";@import "/wp-content/themes/healthpress-theme/css/redmond/jquery.ui.theme.css";

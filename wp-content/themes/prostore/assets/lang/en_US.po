@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProStore\n"
+"POT-Creation-Date: 2014-07-22 14:29+0200\n"
+"PO-Revision-Date: 2014-07-22 14:29+0200\n"
+"Last-Translator: Dankov\n"
+"Language-Team: Dankov\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e;_ex;_n\n"
+"X-Poedit-Basepath: /Users/egordankov/Desktop/ProStore_package_v.2.1.0/"
+"WordPress/prostore\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../WordPress/prostore/404.php:10
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../../WordPress/prostore/404.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../../WordPress/prostore/archive.php:12
+#: ../../WordPress/prostore/archive.php:14
+#: ../../WordPress/prostore/archive.php:16
+#: ../../WordPress/prostore/category.php:10
+#: ../../WordPress/prostore/search.php:11 ../../WordPress/prostore/tag.php:10
+#: ../../WordPress/prostore/woocommerce.php:9
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../../WordPress/prostore/archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../../WordPress/prostore/archive.php:35
+#: ../../WordPress/prostore/category.php:30
+#: ../../WordPress/prostore/functions.php:613
+#: ../../WordPress/prostore/index.php:188
+#: ../../WordPress/prostore/search.php:23 ../../WordPress/prostore/tag.php:30
+msgid "Older posts"
+msgstr ""
+
+#: ../../WordPress/prostore/archive.php:35
+#: ../../WordPress/prostore/category.php:30
+#: ../../WordPress/prostore/functions.php:614
+#: ../../WordPress/prostore/index.php:188
+#: ../../WordPress/prostore/search.php:23 ../../WordPress/prostore/tag.php:30
+msgid "Newer posts"
+msgstr ""
+
+#: ../../WordPress/prostore/archive.php:41
+msgid "Sorry, no posts in archives."
+msgstr ""
+
+#: ../../WordPress/prostore/category.php:36
+msgid "Sorry, no posts in this category."
+msgstr ""
+
+#: ../../WordPress/prostore/comments.php:31
+msgid "Comments: 1 "
+msgstr ""
+
+#: ../../WordPress/prostore/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../../WordPress/prostore/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../../WordPress/prostore/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../../WordPress/prostore/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:14
+#: ../../WordPress/prostore/functions.php:555
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:15
+msgid ""
+"Insert your widget on \"Footer widget 1\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:28
+#: ../../WordPress/prostore/functions.php:566
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:29
+msgid ""
+"Insert your widget on \"Footer widget 2\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:42
+#: ../../WordPress/prostore/functions.php:576
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:43
+msgid ""
+"Insert your widget on \"Footer widget 3\" sidebar in Apperrance > Widgets"
+msgstr ""
+
+#: ../../WordPress/prostore/footer.php:59
+msgid "Copyright 2014. All Rights Reserved"
+msgstr ""
+
+#: ../../WordPress/prostore/format-audio.php:104
+msgid "Audio"
+msgstr ""
+
+#: ../../WordPress/prostore/format-gallery.php:104
+#: ../../WordPress/prostore/framework/meta/classes.php:36
+msgid "Gallery"
+msgstr ""
+
+#: ../../WordPress/prostore/format-image.php:110
+msgid "Image"
+msgstr ""
+
+#: ../../WordPress/prostore/format-link.php:106
+msgid "Link"
+msgstr ""
+
+#: ../../WordPress/prostore/format-quote.php:106
+#: ../../WordPress/prostore/framework/meta/classes.php:76
+msgid "Quote"
+msgstr ""
+
+#: ../../WordPress/prostore/format-video.php:104
+msgid "Video"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:467
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1751
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:468
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1759
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:469
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1775
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:172
+msgid "Redux Framework"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:176
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:180
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:777
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:778
+msgid "Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:364
+msgid "Unable to create a required directory. Please ensure that <code>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1209
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1210
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3353
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3432
+msgid "System Info"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1767
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1782
+msgid "Please Wait"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1928
+msgid "Hints"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:1929
+msgid "<p>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:2053
+msgid "Default"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3105
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3179
+msgid "Expand"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3181
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3489
+msgid "Save Changes"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3185
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3493
+msgid "Reset Section"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3187
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3495
+msgid "Reset All"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3192
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3500
+msgid "Working..."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3212
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3227
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3241
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3255
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3273
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3281
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/framework.php:3289
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/debug.php:41
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/debug.php:69
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/debug.php:76
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:154
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:161
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:423
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:462
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:1959
+msgid "Remove"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:114
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:127
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:134
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:141
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:148
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Height"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:82
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:126
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:383
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-comments.php:90
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-views.php:75
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts.php:75
+msgid "Title"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:335
+msgid "Font subsets"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:337
+msgid "Font Subsets"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Subsets"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Font script"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:355
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:356
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:357
+msgid "Text Align"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:378
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:379
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:380
+msgid "Text Transform"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:401
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Font Variant"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:421
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:422
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:423
+msgid "Text Decoration"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:445
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Size"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:454
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Line Height"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:463
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Word Spacing"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:473
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:491
+msgid "Font Color"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:493
+msgid "Font color"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:822
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:928
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:140
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:149
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/import_export.php:150
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:725
+msgid "Import / Export"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:212
+msgid "Tags"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:242
+msgid "General"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:252
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:253
+msgid "Upload a 16px x 16px png/gif/ico icon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:261
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:262
+msgid "Upload a 57px x 57px png/gif/ico icon for Classic iPhone"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:269
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:270
+msgid "Upload a 114px x 114px png/gif/ico icon for Retina iPhone"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:277
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:278
+msgid "Upload a 72px x 72px png/gif/ico icon for Classic iPad"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:285
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:286
+msgid "Upload a 144px x 144px png/gif/ico icon for Retina iPad"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:292
+msgid "Layout Style"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:293
+msgid "Choose boxed or full page mode"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:304
+msgid "Body Background"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:305
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:306
+msgid "Will be used if you choose a boxed layout."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:316
+msgid "Firtst Custom Color"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:317
+msgid "You can define a new custom color for the theme  scheme."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:326
+msgid "Second Custom Color"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:327
+msgid "You can define a new custom color for the theme scheme."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:336
+msgid "Second Custom Color Opacity"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:337
+msgid "You can use this field to define opacity of hovers."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:349
+msgid "Google Analytics Tracking Code"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:350
+msgid ""
+"Enable/Disable Google Analytics for your website. If you enable it, just add "
+"your Google Analytics Property ID into the textfield to track your site`s "
+"activity."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:359
+msgid "Google Analytics Property ID"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:360
+msgid ""
+"Place here Google Analytics Propery ID. It should look like `UA-XXXXX-X` and "
+"you should find it inside your Google Analytics Dashboard."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:367
+msgid "Header"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:375
+msgid "Custom Logo"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:377
+msgid "Upload your logo."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:385
+msgid "Custom Retina Logo"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:387
+msgid "Upload your retina logo."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:394
+msgid "Use sticky menu?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:407
+msgid "Display search in the menu?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:418
+msgid "Banner Area in Header"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:419
+msgid "Place here your banner code ( banner will be showing in the header ) ."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:428
+msgid "Blog"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:436
+msgid "Select template for blog."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:437
+msgid "Select template for blog post."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:450
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:451
+msgid "Full Width First Post"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:464
+msgid "Show thumbnail"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:465
+msgid "Show featured picture in post"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:478
+msgid "Use post animation?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:491
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:492
+msgid "Select a sidebar position for all pages."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:504
+msgid "Show Related Posts."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:505
+msgid "Show related posts in single post"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:517
+msgid "Show sticky posts?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:531
+msgid "Footer"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:538
+msgid "Copytight Text"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:539
+msgid "Place here your copyright. For ex: Copyright 2014 | My website."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:546
+msgid "Display \"By Who\" text?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:557
+msgid "By who"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:558
+msgid "Place here your text. For ex: Design by Dankov."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:568
+msgid "Social"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:574
+msgid "Social Icons"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:575
+msgid "Enable/Disable social icons."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:584
+msgid "Facebook URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:590
+msgid "Twitter URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:596
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:602
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:608
+msgid "Youtube URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:614
+msgid "Flickr URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:619
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:624
+msgid "Foursquare URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:629
+msgid "Apple URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:634
+msgid "Android URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:639
+msgid "Vk URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:644
+msgid "Windows URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:649
+msgid "Behance URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:654
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:659
+msgid "Delicious URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:664
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:669
+msgid "Instagram URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:674
+msgid "Skype URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:679
+msgid "GitHub URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:684
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:689
+msgid "RSS Feed"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:698
+msgid "Other"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:705
+msgid "Show comments in Page"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:715
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:716
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:717
+msgid "This field is even CSS validated"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:726
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:746
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:747
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:753
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:752
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:757
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/ReduxFramework/config.php:867
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/connect-wordpress-toolkit.php:12
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/envato-wordpress-toolkit-library/connect-wordpress-toolkit.php:21
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:25
+msgid "Gallery Post Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:35
+msgid "Photo URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:36
+msgid "Upload images for the gallery."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:45
+msgid "Link Post Format Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:55
+msgid "URL title"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:55
+msgid "Add a title for the link."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:56
+msgid "Link URL"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:56
+msgid ""
+"Add a link for the \"Link Post Format\". The title of the post will link to "
+"the URL you`ve set."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:57
+msgid "_blank: New window or tab"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:57
+msgid "_self: Same window or tab"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:57
+msgid "Target of the link"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:57
+msgid "Set the target of the link."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:58
+msgid "Link Relationship (optional)"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:58
+msgid "Set the link \"rel\" attribute(ex: nofollow, dofollow, etc)."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:66
+msgid "Quote Post Format Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:76
+msgid "Add your text for the quote."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:77
+msgid "Quote author"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:77
+msgid "The person who said that quote."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:85
+msgid "Audio Post Format Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:95
+msgid "External URL(embed SoundCloud )"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:95
+msgid ""
+"Use an SoundCloud page URL. The embed code will be automatically created."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:103
+msgid "Video Post Format Options"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:113
+msgid "External URL(embed YouTube or Vimeo videos )"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/classes.php:113
+msgid ""
+"Use an YouTube or Vimeo page URL(ex: http://www.youtube.com/watch?"
+"v=x6qe_kVaBpg). The embed code will be automatically created."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:435
+msgid "Add"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:789
+msgid "Select a color"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:1822
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:1830
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/meta/metabox-class.php:1994
+msgid "Remove me"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:196
+#: ../../WordPress/prostore/functions.php:101
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:197
+#: ../../WordPress/prostore/functions.php:102
+msgid "Install Plugins"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:198
+#: ../../WordPress/prostore/functions.php:103
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:210
+#: ../../WordPress/prostore/functions.php:115
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:212
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1965
+#: ../../WordPress/prostore/functions.php:116
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:213
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1652
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:556
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1304
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1326
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2079
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2079
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/plugins/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:338
+msgid "Toggle Title"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:431
+msgid "Tab"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:470
+msgid "Basic"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:472
+msgid "month"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:474
+msgid "Purchase"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/shortcodes/shortcodes-fn.php:525
+msgid "Sample Heading"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:80
+msgid ""
+"This widget is unfortunately not supported by your host. You can use JS "
+"widget provided by flickr.com. Please refer to flickr.com documentation or "
+"install a flickr widget."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:133
+msgid ""
+"Something went wrong with the Flickr feed! Please check your configuration "
+"and make sure that the Flickr username or RSS feed exists"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:187
+msgid "Flickr photostream"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:191
+msgid "Your Quick Flickr Widget needs to be configured"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:249
+msgid "Flickr API call failed!"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:260
+msgid "Flickr RSS or Screen name empty. Please reconfigure."
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:287
+msgid "Title:"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:288
+msgid "Flickr Latest RSS URL:"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:290
+msgid "How many items?"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:292
+msgid "Filter by tags (comma seperated):"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-flickr.php:294
+msgid "Random pick"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-comments.php:9
+msgid "Awesome - Popular Posts by Comments"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-comments.php:93
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-views.php:78
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts.php:78
+msgid "# of posts to show"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts-by-views.php:9
+msgid "Awesome - Popular Posts by Views"
+msgstr ""
+
+#: ../../WordPress/prostore/framework/widgets/widget-popular-posts.php:9
+msgid "Awesome - Popular Post"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:104
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:117
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:153
+msgid "Main Menu"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:484
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:535
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:537
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:545
+msgid "Feature Text"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:547
+#: ../../WordPress/prostore/functions.php:557
+#: ../../WordPress/prostore/functions.php:568
+#: ../../WordPress/prostore/functions.php:578
+#: ../../WordPress/prostore/functions.php:587
+msgid "Appears on all pages at the bottom of site."
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:585
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:636
+msgid "Pingback:"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:636
+#: ../../WordPress/prostore/functions.php:665
+msgid "Edit"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:649
+msgid "Post author"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:654
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:660
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:667
+msgid "Reply"
+msgstr ""
+
+#: ../../WordPress/prostore/functions.php:691
+msgid "Top Menu"
+msgstr ""
+
+#: ../../WordPress/prostore/search.php:31
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../WordPress/prostore/search.php:35
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../../WordPress/prostore/single.php:57
+msgid "Related posts"
+msgstr ""
+
+#: ../../WordPress/prostore/single.php:118
+msgid "Sorry, no posts. "
+msgstr ""
+
+#: ../../WordPress/prostore/tag.php:36
+msgid "Sorry, no posts found under this tag."
+msgstr ""

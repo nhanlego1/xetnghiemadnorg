@@ -1,0 +1,27 @@
+[19-Jun-2015 15:40:51 UTC] PHP Fatal error:  Class 'Walker' not found in /home/xetnghiemadn/public_html/wp-includes/nav-menu-template.php on line 16
+[19-Jun-2015 15:40:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/author-template.php on line 454
+[19-Jun-2015 15:41:05 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/general-template.php on line 1760
+[19-Jun-2015 15:41:08 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/xetnghiemadn/public_html/wp-includes/feed-atom.php on line 8
+[19-Jun-2015 15:41:15 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/xetnghiemadn/public_html/wp-includes/feed-rss.php on line 8
+[19-Jun-2015 15:41:44 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/xetnghiemadn/public_html/wp-includes/default-widgets.php on line 14
+[19-Jun-2015 15:41:49 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/xetnghiemadn/public_html/wp-includes/default-filters.php on line 17
+[19-Jun-2015 15:42:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/canonical.php on line 556
+[19-Jun-2015 15:42:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/theme.php on line 678
+[19-Jun-2015 15:42:41 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/xetnghiemadn/public_html/wp-includes/vars.php on line 23
+[19-Jun-2015 15:42:44 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/kses.php on line 1455
+[19-Jun-2015 15:42:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/xetnghiemadn/public_html/wp-includes/taxonomy.php on line 130
+[19-Jun-2015 15:42:51 UTC] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/xetnghiemadn/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 15:42:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 15:42:51 UTC] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/xetnghiemadn/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 15:42:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 15:42:51 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xetnghiemadn/public_html/wp-includes/functions.php on line 8
+[19-Jun-2015 15:43:08 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/xetnghiemadn/public_html/wp-includes/shortcodes.php on line 403
+[19-Jun-2015 15:43:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/xetnghiemadn/public_html/wp-includes/rss-functions.php on line 8
+[19-Jun-2015 15:43:35 UTC] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/xetnghiemadn/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:43:35 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:43:35 UTC] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/xetnghiemadn/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:43:35 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/xetnghiemadn/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:43:35 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xetnghiemadn/public_html/wp-includes/script-loader.php on line 25
+[19-Jun-2015 15:43:45 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/xetnghiemadn/public_html/wp-includes/rss.php on line 19
+[19-Jun-2015 15:43:54 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/xetnghiemadn/public_html/wp-includes/feed-rdf.php on line 8
+[19-Jun-2015 15:44:02 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/xetnghiemadn/public_html/wp-includes/feed-rss2.php on line 8

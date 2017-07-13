@@ -1,0 +1,9 @@
+
+2015-04-03 09:54:37: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:54:55: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:56:02: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:57:51: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:57:53: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:59:34: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 09:59:36: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
+2015-04-03 10:00:02: Could not save XML file -> Could not save marker XML file (/home/xetnghiemadnnet/xetnghiemadn.net/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1

